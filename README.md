@@ -25,12 +25,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Liar, Liar](https://anilist.co/anime/131863) (15:01 11 July 2023)
+-   📺 Watched episode 1 of [The Girl I Like Forgot Her Glasses](https://anilist.co/anime/160188) (14:02 11 July 2023)
+-   📺 Plans to watch [Ookami to Koushinryou: merchant meets the wise wolf](https://anilist.co/anime/145728) (13:28 11 July 2023)
+-   📺 Plans to watch [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (12:31 11 July 2023)
+-   📺 Plans to watch [Liar, Liar](https://anilist.co/anime/131863) (12:30 11 July 2023)
+-   📺 Plans to watch [Reign of the Seven Spellblades](https://anilist.co/anime/142598) (12:30 11 July 2023)
 -   📺 Plans to watch [TONIKAWA: Over The Moon For You ~High School Days~](https://anilist.co/anime/166104) (06:33 11 July 2023)
--   📖 Read chapter 32 of [S-Rank Boukensha de Aru Ore no Musumetachi wa Juudo no Father-con Deshita](https://anilist.co/manga/119821) (20:20 10 July 2023)
--   📺 Rewatched episode 4 - 11 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (14:52 09 July 2023)
--   📺 Rewatched episode 1 - 3 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (10:48 09 July 2023)
--   📺 Plans to watch [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (10:17 09 July 2023)
--   📺 Rewatched 12 of [SPY x FAMILY](https://anilist.co/anime/140960) (09:53 09 July 2023)
--   📺 Rewatched episode 11 of [SPY x FAMILY](https://anilist.co/anime/140960) (09:41 09 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
