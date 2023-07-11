@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K0ng2
+# 👋 Hi, I’m @K0ng2
 
 <!--START_SECTION:waka-->
 
@@ -20,3 +20,9 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
+## 🌸 My recent AniList activity
+
+<!-- ANILIST_ACTIVITY:start -->
+
+<!-- ANILIST_ACTIVITY:end -->
