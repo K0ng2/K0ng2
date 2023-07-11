@@ -25,12 +25,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [TONIKAWA: Over The Moon For You ~High School Days~](https://anilist.co/anime/166104) (06:33 11 July 2023)
 -   📖 Read chapter 32 of [S-Rank Boukensha de Aru Ore no Musumetachi wa Juudo no Father-con Deshita](https://anilist.co/manga/119821) (20:20 10 July 2023)
 -   📺 Rewatched episode 4 - 11 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (14:52 09 July 2023)
 -   📺 Rewatched episode 1 - 3 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (10:48 09 July 2023)
 -   📺 Plans to watch [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (10:17 09 July 2023)
 -   📺 Rewatched 12 of [SPY x FAMILY](https://anilist.co/anime/140960) (09:53 09 July 2023)
 -   📺 Rewatched episode 11 of [SPY x FAMILY](https://anilist.co/anime/140960) (09:41 09 July 2023)
--   📺 Completed [JUJUTSU KAISEN 0](https://anilist.co/anime/131573) (16:34 08 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
