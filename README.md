@@ -25,7 +25,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 85 - 107 of [Chainsaw Man](https://anilist.co/manga/105778) (18:07 12 July 2023)
+-   📖 Read chapter 85 - 135 of [Chainsaw Man](https://anilist.co/manga/105778) (19:35 12 July 2023)
 -   📖 Read chapter 42 - 84 of [Chainsaw Man](https://anilist.co/manga/105778) (20:08 11 July 2023)
 -   📖 Read chapter 15 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (16:48 11 July 2023)
 -   📺 Watched episode 1 - 2 of [Liar, Liar](https://anilist.co/anime/131863) (15:01 11 July 2023)
