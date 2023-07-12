@@ -21,7 +21,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-## 🌸 My recent AniList activity
+## 🌸 My recent [AniList](https://anilist.co/user/KONG/) activity
 
 <!-- ANILIST_ACTIVITY:start -->
 
