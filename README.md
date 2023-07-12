@@ -25,12 +25,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 85 - 107 of [Chainsaw Man](https://anilist.co/manga/105778) (18:07 12 July 2023)
 -   📖 Read chapter 42 - 84 of [Chainsaw Man](https://anilist.co/manga/105778) (20:08 11 July 2023)
 -   📖 Read chapter 15 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (16:48 11 July 2023)
 -   📺 Watched episode 1 - 2 of [Liar, Liar](https://anilist.co/anime/131863) (15:01 11 July 2023)
 -   📺 Watched episode 1 of [The Girl I Like Forgot Her Glasses](https://anilist.co/anime/160188) (14:02 11 July 2023)
 -   📺 Plans to watch [Ookami to Koushinryou: merchant meets the wise wolf](https://anilist.co/anime/145728) (13:28 11 July 2023)
 -   📺 Plans to watch [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (12:31 11 July 2023)
--   📺 Plans to watch [Liar, Liar](https://anilist.co/anime/131863) (12:30 11 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
