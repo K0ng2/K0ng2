@@ -25,12 +25,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (20:45 14 July 2023)
+-   📺 Rewatched 13 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (18:32 14 July 2023)
+-   📺 Rewatched episode 12 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (18:24 14 July 2023)
 -   📺 Plans to watch [My One-Hit Kill Sister](https://anilist.co/anime/146234) (16:27 14 July 2023)
 -   📺 Plans to watch [Parallel World Pharmacy](https://anilist.co/anime/136707) (16:21 14 July 2023)
 -   📺 Plans to watch [Taboo Tattoo](https://anilist.co/anime/21031) (04:41 14 July 2023)
 -   📖 Read chapter 85 - 135 of [Chainsaw Man](https://anilist.co/manga/105778) (19:35 12 July 2023)
--   📖 Read chapter 42 - 84 of [Chainsaw Man](https://anilist.co/manga/105778) (20:08 11 July 2023)
--   📖 Read chapter 15 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (16:48 11 July 2023)
--   📺 Watched episode 1 - 2 of [Liar, Liar](https://anilist.co/anime/131863) (15:01 11 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
