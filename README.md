@@ -25,12 +25,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 148 of [Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout](https://anilist.co/manga/113802) (08:45 17 July 2023)
 -   📺 Plans to watch [Saint Cecilia & Pastor Lawrence](https://anilist.co/anime/150972) (00:06 17 July 2023)
 -   📖 Read chapter 14 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (06:27 16 July 2023)
 -   📺 Watched episode 1 of [Parallel World Pharmacy](https://anilist.co/anime/136707) (20:45 14 July 2023)
 -   📺 Rewatched 13 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (18:32 14 July 2023)
 -   📺 Rewatched episode 12 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (18:24 14 July 2023)
 -   📺 Plans to watch [My One-Hit Kill Sister](https://anilist.co/anime/146234) (16:27 14 July 2023)
--   📺 Plans to watch [Parallel World Pharmacy](https://anilist.co/anime/136707) (16:21 14 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
