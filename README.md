@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 136 of [Chainsaw Man](https://anilist.co/manga/105778) (17:57 18 July 2023)
+-   📺 Watched episode 1 - 4 of [Chillin’ in My 30s after Getting Fired from the Demon King’s Army](https://anilist.co/anime/152523) (16:57 18 July 2023)
+-   📺 Plans to watch [Monster Girl Doctor](https://anilist.co/anime/113286) (15:21 18 July 2023)
 -   📺 Watched episode 1 - 3 of [Level 1 Demon Lord and One Room Hero](https://anilist.co/anime/146836) (14:51 18 July 2023)
 -   📺 Plans to watch [Chillin’ in My 30s after Getting Fired from the Demon King’s Army](https://anilist.co/anime/152523) (11:39 18 July 2023)
 -   📺 Plans to watch [Level 1 Demon Lord and One Room Hero](https://anilist.co/anime/146836) (11:06 18 July 2023)
 -   📖 Read chapter 1 - 26 of [Ore no Kokan wa Bishoujo Datta no ka](https://anilist.co/manga/147902) (00:01 18 July 2023)
--   📖 Plans to read [Ore no Kokan wa Bishoujo Datta no ka](https://anilist.co/manga/147902) (00:01 18 July 2023)
--   📺 Watched episode 3 of [Liar, Liar](https://anilist.co/anime/131863) (10:45 17 July 2023)
--   📖 Read chapter 148 of [Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout](https://anilist.co/manga/113802) (08:45 17 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
