@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (09:57 22 July 2023)
 -   📺 Rewatched episode 3 - 4 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (20:35 21 July 2023)
 -   📺 Rewatched episode 1 - 2 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (14:40 20 July 2023)
 -   📺 Completed [Chillin’ in My 30s after Getting Fired from the Demon King’s Army](https://anilist.co/anime/152523) (13:21 19 July 2023)
 -   📺 Watched episode 9 - 11 of [Chillin’ in My 30s after Getting Fired from the Demon King’s Army](https://anilist.co/anime/152523) (13:16 19 July 2023)
 -   📖 Read chapter 327 - 328 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (11:36 19 July 2023)
 -   📺 Watched episode 1 - 8 of [Chillin’ in My 30s after Getting Fired from the Demon King’s Army](https://anilist.co/anime/152523) (19:15 18 July 2023)
--   📖 Read chapter 136 of [Chainsaw Man](https://anilist.co/manga/105778) (17:57 18 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
