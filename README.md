@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 51 of [Yuusha ga Shinda! Kami no Kuni-hen](https://anilist.co/manga/147859) (21:43 23 July 2023)
+-   📖 Plans to read [Yuusha ga Shinda! Kami no Kuni-hen](https://anilist.co/manga/147859) (21:43 23 July 2023)
 -   📖 Read chapter 26 of [Dungeon Friends Forever](https://anilist.co/manga/149323) (16:22 23 July 2023)
 -   📺 Plans to watch [In the Heart of Kunoichi Tsubaki](https://anilist.co/anime/141350) (14:16 23 July 2023)
 -   📺 Plans to watch [NieR:Automata Ver1.1a Part 2](https://anilist.co/anime/167420) (14:15 23 July 2023)
 -   📺 Rewatched episode 6 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (14:03 23 July 2023)
 -   📺 Watched episode 4 of [Liar, Liar](https://anilist.co/anime/131863) (16:11 22 July 2023)
--   📺 Rewatched episode 5 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (13:40 22 July 2023)
--   📺 Plans to watch [Zom 100: Bucket List of the Dead](https://anilist.co/anime/159831) (09:57 22 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
