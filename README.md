@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 4 - 5 of [Didn't I Say to Make My Abilities Average in the Next Life?!](https://anilist.co/anime/101227) (16:50 30 July 2023)
 -   📺 Plans to watch [Gintama](https://anilist.co/anime/918) (12:52 30 July 2023)
 -   📺 Rewatched episode 8 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (17:42 29 July 2023)
 -   📖 Read chapter 52 of [Mieruko-chan](https://anilist.co/manga/105097) (08:35 29 July 2023)
 -   📖 Read chapter 78 of [ONIMAI: I'm Now Your Sister!](https://anilist.co/manga/100080) (08:28 29 July 2023)
 -   📺 Watched episode 2 of [The Girl I Like Forgot Her Glasses](https://anilist.co/anime/160188) (17:49 28 July 2023)
 -   📺 Plans to watch [Sasayaku You ni Koi wo Utau](https://anilist.co/anime/160181) (15:40 27 July 2023)
--   📺 Plans to watch [Helck](https://anilist.co/anime/145140) (20:59 26 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
