@@ -12,7 +12,7 @@ jobs:
         steps:
             - uses: actions/checkout@v2
             - name: AniList readme workflow
-              uses: pxseu/anilist-readme@v1.4.2
+              uses: K0ng2/anilist-readme@latest
               with:
                   user_id: 220152
                   max_post_count: 7
