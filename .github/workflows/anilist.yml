@@ -16,4 +16,4 @@ jobs:
               with:
                   user_id: 220152
                   max_post_count: 7
-                  preferred_language: romanji
+                  preferred_language: romaji
