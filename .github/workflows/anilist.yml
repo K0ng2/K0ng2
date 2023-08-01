@@ -1,7 +1,7 @@
 name: AniList readme workflow
 on:
     schedule:
-        # Runs every hour
+        # Runs 3 hour
         - cron: "0 */3 * * *"
     workflow_dispatch:
 
@@ -16,3 +16,4 @@ jobs:
               with:
                   user_id: 220152
                   max_post_count: 7
+                  preferred_language: romaji
