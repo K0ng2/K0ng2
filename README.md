@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 - 8 of [Monster Musume no Oisha-san](https://anilist.co/anime/113286) (14:10 02 August 2023)
 -   📖 Read chapter 17 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (21:33 01 August 2023)
 -   📖 Read chapter 1 - 7 of [Watari-kun no xx ga Houkai Sunzen](https://anilist.co/manga/85703) (21:31 01 August 2023)
 -   📖 Plans to read [Watari-kun no xx ga Houkai Sunzen](https://anilist.co/manga/85703) (21:31 01 August 2023)
 -   📺 Watched episode 1 - 4 of [Monster Musume no Oisha-san](https://anilist.co/anime/113286) (19:42 01 August 2023)
 -   📖 Read chapter 12 - 27 of [Negai wo Kanaete Moraou to Akuma wo Shoukan Shita kedo, Kawaikatta node Kekkon Shimashita: Akuma no Niizuma](https://anilist.co/manga/121762) (11:30 01 August 2023)
 -   📖 Read chapter 2 - 11 of [Negai wo Kanaete Moraou to Akuma wo Shoukan Shita kedo, Kawaikatta node Kekkon Shimashita: Akuma no Niizuma](https://anilist.co/manga/121762) (00:53 01 August 2023)
--   📖 Read chapter 38 - 42 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (23:21 31 July 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
