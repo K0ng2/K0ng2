@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 20 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (00:03 04 August 2023)
+-   📖 Plans to read [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (00:02 04 August 2023)
+-   📖 Read chapter 1 - 3 of [Gokuchuu!](https://anilist.co/manga/135540) (21:46 03 August 2023)
+-   📖 Plans to read [Gokuchuu!](https://anilist.co/manga/135540) (21:46 03 August 2023)
 -   📺 Completed [Monster Musume no Oisha-san](https://anilist.co/anime/113286) (16:09 03 August 2023)
 -   📺 Watched episode 9 - 11 of [Monster Musume no Oisha-san](https://anilist.co/anime/113286) (16:09 03 August 2023)
 -   📺 Watched episode 5 - 8 of [Monster Musume no Oisha-san](https://anilist.co/anime/113286) (14:10 02 August 2023)
--   📖 Read chapter 17 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (21:33 01 August 2023)
--   📖 Read chapter 1 - 7 of [Watari-kun no xx ga Houkai Sunzen](https://anilist.co/manga/85703) (21:31 01 August 2023)
--   📖 Plans to read [Watari-kun no xx ga Houkai Sunzen](https://anilist.co/manga/85703) (21:31 01 August 2023)
--   📺 Watched episode 1 - 4 of [Monster Musume no Oisha-san](https://anilist.co/anime/113286) (19:42 01 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
