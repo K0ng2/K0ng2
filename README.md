@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391) (17:30 04 August 2023)
+-   📺 Plans to watch [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391) (15:37 04 August 2023)
+-   📺 Plans to watch [sin: Nanatsu no Taizai](https://anilist.co/anime/20705) (15:36 04 August 2023)
+-   📺 Plans to watch [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791) (15:34 04 August 2023)
+-   📺 Plans to watch [Oomuro-ke](https://anilist.co/anime/167984) (15:22 04 August 2023)
 -   📖 Read chapter 1 - 20 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (00:03 04 August 2023)
 -   📖 Plans to read [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (00:02 04 August 2023)
--   📖 Read chapter 1 - 3 of [Gokuchuu!](https://anilist.co/manga/135540) (21:46 03 August 2023)
--   📖 Plans to read [Gokuchuu!](https://anilist.co/manga/135540) (21:46 03 August 2023)
--   📺 Completed [Monster Musume no Oisha-san](https://anilist.co/anime/113286) (16:09 03 August 2023)
--   📺 Watched episode 9 - 11 of [Monster Musume no Oisha-san](https://anilist.co/anime/113286) (16:09 03 August 2023)
--   📺 Watched episode 5 - 8 of [Monster Musume no Oisha-san](https://anilist.co/anime/113286) (14:10 02 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
