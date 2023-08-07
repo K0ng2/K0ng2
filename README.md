@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 - 32 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (19:03 07 August 2023)
+-   📖 Read chapter 31 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (19:02 07 August 2023)
 -   📺 Completed [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791) (18:51 06 August 2023)
 -   📺 Watched episode 1 - 11 of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791) (18:26 06 August 2023)
 -   📖 Read chapter 1 - 43 of [Ore no Ie ga Maryoku Spot Datta Ken: Sundeiru dake de Sekai Saikyou](https://anilist.co/manga/97240) (18:33 05 August 2023)
 -   📖 Plans to read [Ore no Ie ga Maryoku Spot Datta Ken: Sundeiru dake de Sekai Saikyou](https://anilist.co/manga/97240) (18:33 05 August 2023)
 -   📖 Read chapter 21 - 30 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (00:44 05 August 2023)
--   📺 Watched episode 1 - 2 of [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391) (17:30 04 August 2023)
--   📺 Plans to watch [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391) (15:37 04 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
