@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 0 of [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://anilist.co/anime/153629) (14:42 12 August 2023)
 -   📺 Rewatched 13 of [BLEACH: Sennen Kessen-hen](https://anilist.co/anime/116674) (07:51 12 August 2023)
 -   📺 Rewatched episode 3 - 4 of [BLEACH: Sennen Kessen-hen](https://anilist.co/anime/116674) (08:21 11 August 2023)
 -   📖 Read chapter 33 of [S-Rank Boukensha de Aru Ore no Musumetachi wa Juudo no Father-con Deshita](https://anilist.co/manga/119821) (06:16 11 August 2023)
 -   📖 Read chapter 242 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (08:22 10 August 2023)
 -   📖 Read chapter 149 - 150 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (07:04 09 August 2023)
 -   📖 Read chapter 138 of [Chainsaw Man](https://anilist.co/manga/105778) (01:41 09 August 2023)
--   📖 Read chapter 31 - 32 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (19:03 07 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
