@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [Isekai Nonbiri Nouka](https://anilist.co/anime/146850) (17:56 15 August 2023)
+-   📖 Read chapter 139 of [Chainsaw Man](https://anilist.co/manga/105778) (20:19 15 August 2023)
+-   📺 Completed [Isekai Nonbiri Nouka](https://anilist.co/anime/146850) (20:09 15 August 2023)
+-   📺 Watched episode 1 - 11 of [Isekai Nonbiri Nouka](https://anilist.co/anime/146850) (19:48 15 August 2023)
 -   📖 Plans to read [Isekai Nonbiri Nouka](https://anilist.co/manga/100456) (17:35 15 August 2023)
 -   📺 Rewatched episode 10 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/anime/102680) (13:41 15 August 2023)
 -   📺 Rewatched episode 9 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/anime/102680) (04:57 15 August 2023)
 -   📺 Rewatched episode 7 - 8 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/anime/102680) (17:25 14 August 2023)
--   📺 Rewatched episode 3 - 6 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/anime/102680) (12:06 14 August 2023)
--   📺 Rewatched episode 1 - 2 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/anime/102680) (17:11 13 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
