@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 - 8 of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815) (20:19 17 August 2023)
 -   📺 Watched episode 1 - 4 of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815) (17:32 17 August 2023)
 -   📖 Read chapter 140 - 150 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (17:38 16 August 2023)
 -   📖 Read chapter 139 of [Chainsaw Man](https://anilist.co/manga/105778) (20:19 15 August 2023)
 -   📺 Completed [Isekai Nonbiri Nouka](https://anilist.co/anime/146850) (20:09 15 August 2023)
 -   📺 Watched episode 1 - 11 of [Isekai Nonbiri Nouka](https://anilist.co/anime/146850) (19:48 15 August 2023)
 -   📺 Rewatched episode 10 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/anime/102680) (13:41 15 August 2023)
--   📺 Rewatched episode 9 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/anime/102680) (04:57 15 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
