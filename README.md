@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Re:CREATORS](https://anilist.co/anime/97980) (15:06 18 August 2023)
 -   📖 Plans to read [Doppel-san](https://anilist.co/manga/131399) (12:47 18 August 2023)
 -   📖 Plans to read [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (12:43 18 August 2023)
 -   📖 Plans to read [Giji Harem](https://anilist.co/manga/105577) (12:38 18 August 2023)
 -   📖 Plans to read [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (12:27 18 August 2023)
 -   📖 Plans to read [Watashi no Yuri wa Oshigoto desu!](https://anilist.co/manga/101120) (12:24 18 August 2023)
 -   📖 Read chapter 43 - 44 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (12:22 18 August 2023)
--   📖 Plans to read [Tonari no Kyuuketsuki-san](https://anilist.co/manga/97659) (12:22 18 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
