@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397) (10:19 20 August 2023)
 -   📖 Read chapter 1 - 9 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (17:02 19 August 2023)
 -   📖 Read chapter 1 - 18 of [Giji Harem](https://anilist.co/manga/105577) (15:46 19 August 2023)
 -   📖 Read chapter 9 of [Kaguhara-san no Fetish Note](https://anilist.co/manga/141152) (20:31 18 August 2023)
 -   📖 Read chapter 1 - 11 of [Doppel-san](https://anilist.co/manga/131399) (20:15 18 August 2023)
 -   📺 Plans to watch [Re:CREATORS](https://anilist.co/anime/97980) (15:06 18 August 2023)
 -   📖 Plans to read [Doppel-san](https://anilist.co/manga/131399) (12:47 18 August 2023)
--   📖 Plans to read [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (12:43 18 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
