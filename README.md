@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Inou-Battle wa Nichijou-kei no Naka de](https://anilist.co/anime/20646) (18:26 21 August 2023)
 -   📖 Plans to read [Prison School](https://anilist.co/manga/55297) (13:01 21 August 2023)
 -   📺 Plans to watch [GATE: Jieitai Kanochi nite, Kaku Tatakaeri](https://anilist.co/anime/20994) (05:11 21 August 2023)
 -   📖 Read chapter 10 - 24 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (16:53 20 August 2023)
 -   📖 Read chapter 32 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (15:12 20 August 2023)
 -   📖 Read chapter 33 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (15:04 20 August 2023)
 -   📺 Plans to watch [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397) (10:19 20 August 2023)
--   📖 Read chapter 1 - 9 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (17:02 19 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
