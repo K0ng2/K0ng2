@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206) (11:51 22 August 2023)
+-   📺 Completed [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206) (14:01 22 August 2023)
+-   📺 Watched episode 1 - 11 of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206) (13:40 22 August 2023)
+-   📖 Plans to read [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/manga/87225) (12:13 22 August 2023)
 -   📖 Plans to read [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (06:49 22 August 2023)
 -   📺 Plans to watch [Inou-Battle wa Nichijou-kei no Naka de](https://anilist.co/anime/20646) (18:26 21 August 2023)
 -   📖 Plans to read [Prison School](https://anilist.co/manga/55297) (13:01 21 August 2023)
 -   📺 Plans to watch [GATE: Jieitai Kanochi nite, Kaku Tatakaeri](https://anilist.co/anime/20994) (05:11 21 August 2023)
--   📖 Read chapter 10 - 24 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (16:53 20 August 2023)
--   📖 Read chapter 32 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (15:12 20 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
