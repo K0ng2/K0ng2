@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 - 75 of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/manga/87225) (18:06 22 August 2023)
 -   📺 Completed [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206) (14:01 22 August 2023)
 -   📺 Watched episode 1 - 11 of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206) (13:40 22 August 2023)
 -   📖 Plans to read [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/manga/87225) (12:13 22 August 2023)
 -   📖 Plans to read [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (06:49 22 August 2023)
 -   📺 Plans to watch [Inou-Battle wa Nichijou-kei no Naka de](https://anilist.co/anime/20646) (18:26 21 August 2023)
 -   📖 Plans to read [Prison School](https://anilist.co/manga/55297) (13:01 21 August 2023)
--   📺 Plans to watch [GATE: Jieitai Kanochi nite, Kaku Tatakaeri](https://anilist.co/anime/20994) (05:11 21 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
