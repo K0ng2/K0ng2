@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 31 - 75 of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/manga/87225) (18:06 22 August 2023)
+-   📖 Read chapter 31 - 87 of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/manga/87225) (18:53 22 August 2023)
 -   📺 Completed [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206) (14:01 22 August 2023)
 -   📺 Watched episode 1 - 11 of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206) (13:40 22 August 2023)
 -   📖 Plans to read [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/manga/87225) (12:13 22 August 2023)
