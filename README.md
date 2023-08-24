@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 23 - 25 of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (17:59 24 August 2023)
+-   📖 Read chapter 23 - 32 of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (18:50 24 August 2023)
 -   📖 Read chapter 5 - 22 of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (09:04 24 August 2023)
 -   📺 Watched episode 1 - 7 of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553) (22:16 23 August 2023)
 -   📖 Read chapter 1 - 4 of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (17:26 23 August 2023)
