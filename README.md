@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553) (20:56 23 August 2023)
+-   📺 Watched episode 1 - 7 of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553) (22:16 23 August 2023)
 -   📖 Read chapter 1 - 4 of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (17:26 23 August 2023)
 -   📖 Read chapter 18 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (11:06 23 August 2023)
 -   📖 Read chapter 140 of [Chainsaw Man](https://anilist.co/manga/105778) (11:02 23 August 2023)
