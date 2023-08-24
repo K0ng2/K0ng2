@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 - 22 of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (09:04 24 August 2023)
 -   📺 Watched episode 1 - 7 of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553) (22:16 23 August 2023)
 -   📖 Read chapter 1 - 4 of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (17:26 23 August 2023)
 -   📖 Read chapter 18 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (11:06 23 August 2023)
 -   📖 Read chapter 140 of [Chainsaw Man](https://anilist.co/manga/105778) (11:02 23 August 2023)
 -   📖 Read chapter 27 of [Dungeon no Osananajimi](https://anilist.co/manga/149323) (10:54 23 August 2023)
 -   📖 Read chapter 31 - 87 of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/manga/87225) (18:53 22 August 2023)
--   📺 Completed [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206) (14:01 22 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
