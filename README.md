@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 79 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (20:06 26 August 2023)
+-   📖 Read chapter 16 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (20:02 26 August 2023)
+-   📖 Read chapter 72 - 78 of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (19:53 26 August 2023)
 -   📖 Read chapter 46 - 71 of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (04:39 26 August 2023)
 -   📖 Read chapter 25 - 35 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (22:19 25 August 2023)
 -   📺 Watched episode 1 - 3 of [Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore](https://anilist.co/anime/114302) (20:18 25 August 2023)
 -   📺 Plans to watch [Jaku-Chara Tomozaki-kun](https://anilist.co/anime/112443) (13:32 25 August 2023)
--   📖 Read chapter 33 - 45 of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (06:01 25 August 2023)
--   📖 Read chapter 23 - 32 of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (18:50 24 August 2023)
--   📖 Read chapter 5 - 22 of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (09:04 24 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
