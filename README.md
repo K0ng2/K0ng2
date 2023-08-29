@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 53 - 54 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (15:02 29 August 2023)
+-   📖 Read chapter 53 - 67 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (17:43 29 August 2023)
 -   📺 Watched episode 6 of [Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore](https://anilist.co/anime/114302) (14:11 29 August 2023)
 -   📖 Read chapter 49 - 52 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (02:42 29 August 2023)
 -   📺 Plans to watch [Dark Gathering](https://anilist.co/anime/152802) (01:10 29 August 2023)
