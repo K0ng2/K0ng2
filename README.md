@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 49 - 52 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (02:42 29 August 2023)
+-   📺 Plans to watch [Dark Gathering](https://anilist.co/anime/152802) (01:10 29 August 2023)
 -   📖 Read chapter 42 - 48 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (23:09 28 August 2023)
 -   📖 Read chapter 41 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (14:40 28 August 2023)
 -   📺 Watched episode 4 - 5 of [Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore](https://anilist.co/anime/114302) (14:09 28 August 2023)
 -   📖 Plans to read [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/manga/139418) (07:42 28 August 2023)
 -   📖 Read chapter 36 - 40 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (16:13 27 August 2023)
--   📖 Read chapter 36 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (15:11 27 August 2023)
--   📖 Read chapter 79 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (20:06 26 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
