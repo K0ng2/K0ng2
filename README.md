@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 80 - 85 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (17:55 30 August 2023)
+-   📖 Read chapter 80 - 90 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (18:31 30 August 2023)
 -   📺 Watched episode 7 - 9 of [Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore](https://anilist.co/anime/114302) (17:05 30 August 2023)
 -   📖 Read chapter 141 of [Chainsaw Man](https://anilist.co/manga/105778) (11:03 30 August 2023)
 -   📖 Read chapter 77 - 79 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (11:00 30 August 2023)
