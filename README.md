@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Koutetsujou no Kabaneri](https://anilist.co/anime/21196) (14:51 31 August 2023)
 -   📖 Read chapter 91 - 94 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (06:58 31 August 2023)
 -   📺 Plans to watch [Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?](https://anilist.co/anime/15315) (05:37 31 August 2023)
 -   📖 Read chapter 80 - 90 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (18:31 30 August 2023)
 -   📺 Watched episode 7 - 9 of [Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore](https://anilist.co/anime/114302) (17:05 30 August 2023)
 -   📖 Read chapter 141 of [Chainsaw Man](https://anilist.co/manga/105778) (11:03 30 August 2023)
 -   📖 Read chapter 77 - 79 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (11:00 30 August 2023)
--   📖 Read chapter 68 - 76 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (21:02 29 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
