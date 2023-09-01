@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Watashi no Yuri wa Oshigoto desu!](https://anilist.co/anime/149028) (17:52 01 September 2023)
+-   📺 Watched episode 1 - 8 of [Watashi no Yuri wa Oshigoto desu!](https://anilist.co/anime/149028) (20:56 01 September 2023)
 -   📖 Plans to read [Sextudy Group](https://anilist.co/manga/145493) (17:30 01 September 2023)
 -   📺 Watched episode 1 - 2 of [Taboo Tattoo](https://anilist.co/anime/21031) (16:27 01 September 2023)
 -   📖 Read chapter 103 - 104 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (14:32 01 September 2023)
