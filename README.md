@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Watashi no Yuri wa Oshigoto desu!](https://anilist.co/anime/149028) (17:52 01 September 2023)
+-   📖 Plans to read [Sextudy Group](https://anilist.co/manga/145493) (17:30 01 September 2023)
+-   📺 Watched episode 1 - 2 of [Taboo Tattoo](https://anilist.co/anime/21031) (16:27 01 September 2023)
 -   📖 Read chapter 103 - 104 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (14:32 01 September 2023)
 -   📺 Watched episode 10 - 11 of [Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore](https://anilist.co/anime/114302) (14:06 01 September 2023)
 -   📖 Read chapter 243 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (23:27 31 August 2023)
 -   📖 Read chapter 151 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (23:20 31 August 2023)
--   📖 Read chapter 95 - 102 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (19:52 31 August 2023)
--   📺 Plans to watch [Koutetsujou no Kabaneri](https://anilist.co/anime/21196) (14:51 31 August 2023)
--   📖 Read chapter 91 - 94 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (06:58 31 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
