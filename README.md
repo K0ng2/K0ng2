@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [Taboo Tattoo](https://anilist.co/anime/21031) (14:32 02 September 2023)
+-   📺 Plans to watch [Tate no Yuusha no Nariagari](https://anilist.co/anime/99263) (12:59 02 September 2023)
 -   📖 Read chapter 105 - 108 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (23:47 01 September 2023)
 -   📺 Completed [Watashi no Yuri wa Oshigoto desu!](https://anilist.co/anime/149028) (22:26 01 September 2023)
 -   📺 Watched episode 1 - 11 of [Watashi no Yuri wa Oshigoto desu!](https://anilist.co/anime/149028) (22:04 01 September 2023)
 -   📖 Plans to read [Sextudy Group](https://anilist.co/manga/145493) (17:30 01 September 2023)
 -   📺 Watched episode 1 - 2 of [Taboo Tattoo](https://anilist.co/anime/21031) (16:27 01 September 2023)
--   📖 Read chapter 103 - 104 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (14:32 01 September 2023)
--   📺 Watched episode 10 - 11 of [Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore](https://anilist.co/anime/114302) (14:06 01 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
