@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 23 of [Bocchi Kaibutsu to Moumoku Shoujo](https://anilist.co/manga/103608) (23:06 02 September 2023)
 -   📺 Dropped [Tate no Yuusha no Nariagari](https://anilist.co/anime/99263) (17:34 02 September 2023)
 -   📺 Watched episode 1 - 4 of [Tate no Yuusha no Nariagari](https://anilist.co/anime/99263) (17:34 02 September 2023)
 -   📺 Plans to watch [Hataraku Saibou](https://anilist.co/anime/100977) (15:10 02 September 2023)
 -   📺 Dropped [Taboo Tattoo](https://anilist.co/anime/21031) (14:32 02 September 2023)
 -   📺 Plans to watch [Tate no Yuusha no Nariagari](https://anilist.co/anime/99263) (12:59 02 September 2023)
 -   📖 Read chapter 105 - 108 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (23:47 01 September 2023)
--   📺 Completed [Watashi no Yuri wa Oshigoto desu!](https://anilist.co/anime/149028) (22:26 01 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
