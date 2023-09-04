@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 22 - 26 of [Watashi no Yuri wa Oshigoto desu!](https://anilist.co/manga/101120) (20:57 03 September 2023)
+-   📖 Read chapter 22 - 35 of [Watashi no Yuri wa Oshigoto desu!](https://anilist.co/manga/101120) (22:49 03 September 2023)
 -   📖 Read chapter 24 of [Bocchi Kaibutsu to Moumoku Shoujo](https://anilist.co/manga/103608) (19:59 03 September 2023)
 -   📖 Read chapter 33 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (19:53 03 September 2023)
 -   📖 Read chapter 1 - 23 of [Bocchi Kaibutsu to Moumoku Shoujo](https://anilist.co/manga/103608) (23:06 02 September 2023)
