@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Paused reading [Watashi no Yuri wa Oshigoto desu!](https://anilist.co/manga/101120) (05:54 05 September 2023)
+-   📖 Read chapter 42 - 51 of [Watashi no Yuri wa Oshigoto desu!](https://anilist.co/manga/101120) (05:47 05 September 2023)
+-   📖 Read chapter 45 - 47 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (04:17 05 September 2023)
 -   📺 Plans to watch [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067) (02:39 05 September 2023)
 -   📖 Read chapter 36 - 41 of [Watashi no Yuri wa Oshigoto desu!](https://anilist.co/manga/101120) (17:54 04 September 2023)
 -   📖 Plans to read [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (13:38 04 September 2023)
 -   📖 Plans to read [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (13:10 04 September 2023)
--   📖 Plans to read [Yome ga Kiss](https://anilist.co/manga/168255) (13:10 04 September 2023)
--   📖 Plans to read [Saikin Haitta Shiro Madoushi ga Party Crusher de, Ore no Isekai Bouken-sha Seikatsu ga Houkai no Kiki na Kudan ni Tsuite](https://anilist.co/manga/156168) (13:07 04 September 2023)
--   📖 Plans to read [Kokoro ni Yasashii Tankoubon: Soku Ochi 2-koma Gekijou](https://anilist.co/manga/132825) (13:06 04 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
