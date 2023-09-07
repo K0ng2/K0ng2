@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 9 of [Kokoro ni Yasashii Tankoubon: Soku Ochi 2-koma Gekijou](https://anilist.co/manga/132825) (01:08 07 September 2023)
+-   📖 Plans to read [Hoshikuzu Telepath](https://anilist.co/manga/121501) (01:00 07 September 2023)
+-   📖 Read chapter 152 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (00:59 07 September 2023)
 -   📺 Plans to watch [Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu](https://anilist.co/anime/137909) (21:11 06 September 2023)
 -   📺 Watched episode 1 of [Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu](https://anilist.co/anime/137909) (21:01 06 September 2023)
 -   📺 Plans to watch [Plunderer](https://anilist.co/anime/101168) (11:58 06 September 2023)
 -   📺 Plans to watch [Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu](https://anilist.co/anime/137909) (11:51 06 September 2023)
--   📖 Read chapter 19 - 37 of [Giji Harem](https://anilist.co/manga/105577) (21:05 05 September 2023)
--   📖 Read chapter 19 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (20:38 05 September 2023)
--   📖 Read chapter 151 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (20:34 05 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
