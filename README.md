@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Hoshikuzu Telepath](https://anilist.co/anime/155419) (19:01 08 September 2023)
 -   📖 Read chapter 961 of [Tomo-chan wa Onnanoko!](https://anilist.co/manga/86300) (06:14 08 September 2023)
 -   📖 Read chapter 135 of [Hino-san no Baka](https://anilist.co/manga/108069) (06:06 08 September 2023)
 -   📺 Plans to watch [Suzumiya Haruhi no Yuuutsu](https://anilist.co/anime/849) (01:53 08 September 2023)
 -   📖 Read chapter 1 - 52 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (01:28 08 September 2023)
 -   📖 Read chapter 1 - 9 of [Kokoro ni Yasashii Tankoubon: Soku Ochi 2-koma Gekijou](https://anilist.co/manga/132825) (01:08 07 September 2023)
 -   📖 Plans to read [Hoshikuzu Telepath](https://anilist.co/manga/121501) (01:00 07 September 2023)
--   📖 Read chapter 152 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (00:59 07 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
