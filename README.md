@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 9 - 12 of [Plunderer](https://anilist.co/anime/101168) (23:49 09 September 2023)
+-   📺 Watched episode 9 - 19 of [Plunderer](https://anilist.co/anime/101168) (02:46 10 September 2023)
 -   📖 Read chapter 4 - 9 of [Geonmulju Nuna](https://anilist.co/manga/138564) (20:25 09 September 2023)
 -   📖 Read chapter 4 of [Gokuchuu!](https://anilist.co/manga/135540) (19:32 09 September 2023)
 -   📺 Watched episode 4 - 8 of [Plunderer](https://anilist.co/anime/101168) (04:43 09 September 2023)
