@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 26 - 27 of [Geonmulju Nuna](https://anilist.co/manga/138564) (08:54 10 September 2023)
+-   📖 Read chapter 26 - 41 of [Geonmulju Nuna](https://anilist.co/manga/138564) (10:23 10 September 2023)
 -   📖 Read chapter 99 - 101 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (08:35 10 September 2023)
 -   📖 Read chapter 10 - 25 of [Geonmulju Nuna](https://anilist.co/manga/138564) (06:38 10 September 2023)
 -   📺 Completed [Plunderer](https://anilist.co/anime/101168) (04:19 10 September 2023)
