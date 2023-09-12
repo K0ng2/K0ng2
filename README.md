@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 - 50 of [Geonmulju Nuna](https://anilist.co/manga/138564) (05:04 12 September 2023)
 -   📖 Read chapter 26 - 41 of [Geonmulju Nuna](https://anilist.co/manga/138564) (10:23 10 September 2023)
 -   📖 Read chapter 99 - 101 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (08:35 10 September 2023)
 -   📖 Read chapter 10 - 25 of [Geonmulju Nuna](https://anilist.co/manga/138564) (06:38 10 September 2023)
 -   📺 Completed [Plunderer](https://anilist.co/anime/101168) (04:19 10 September 2023)
 -   📺 Watched episode 9 - 23 of [Plunderer](https://anilist.co/anime/101168) (04:02 10 September 2023)
 -   📖 Read chapter 4 - 9 of [Geonmulju Nuna](https://anilist.co/manga/138564) (20:25 09 September 2023)
--   📖 Read chapter 4 of [Gokuchuu!](https://anilist.co/manga/135540) (19:32 09 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
