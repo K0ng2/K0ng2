@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita](https://anilist.co/anime/126213) (10:22 13 September 2023)
 -   📖 Read chapter 3 of [Gabriel Dropout](https://anilist.co/manga/86864) (13:05 12 September 2023)
 -   📖 Read chapter 1 of [R15+ ja Dame desu ka?](https://anilist.co/manga/148936) (12:57 12 September 2023)
 -   📖 Read chapter 79 of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/manga/97493) (12:42 12 September 2023)
 -   📖 Plans to read [R15+ ja Dame desu ka?](https://anilist.co/manga/148936) (10:50 12 September 2023)
 -   📺 Plans to watch [Isekai Yakkyoku](https://anilist.co/anime/136707) (08:22 12 September 2023)
 -   📖 Read chapter 42 - 50 of [Geonmulju Nuna](https://anilist.co/manga/138564) (05:04 12 September 2023)
--   📖 Read chapter 26 - 41 of [Geonmulju Nuna](https://anilist.co/manga/138564) (10:23 10 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
