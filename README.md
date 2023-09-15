@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Hataraku Maou-sama!](https://anilist.co/anime/15809) (16:12 15 September 2023)
 -   📺 Plans to watch [Maou-jou de Oyasumi](https://anilist.co/anime/111428) (14:43 15 September 2023)
 -   📖 Plans to read [Dual na Kanojo no Taoshikata](https://anilist.co/manga/133381) (14:29 15 September 2023)
 -   📖 Read chapter 13 - 29 of [Gabriel Dropout](https://anilist.co/manga/86864) (12:31 15 September 2023)
 -   📖 Read chapter 11 - 12 of [Gabriel Dropout](https://anilist.co/manga/86864) (18:30 14 September 2023)
 -   📖 Read chapter 5 - 10 of [Gabriel Dropout](https://anilist.co/manga/86864) (10:33 14 September 2023)
 -   📖 Read chapter 153 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (10:08 14 September 2023)
--   📖 Read chapter 152 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (10:06 14 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
