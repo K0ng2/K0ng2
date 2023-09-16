@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 - 46 of [Gabriel Dropout](https://anilist.co/manga/86864) (04:40 16 September 2023)
 -   📖 Read chapter 30 - 39 of [Gabriel Dropout](https://anilist.co/manga/86864) (19:32 15 September 2023)
 -   📺 Plans to watch [Hataraku Maou-sama!](https://anilist.co/anime/15809) (16:12 15 September 2023)
 -   📺 Plans to watch [Maou-jou de Oyasumi](https://anilist.co/anime/111428) (14:43 15 September 2023)
 -   📖 Plans to read [Dual na Kanojo no Taoshikata](https://anilist.co/manga/133381) (14:29 15 September 2023)
 -   📖 Read chapter 13 - 29 of [Gabriel Dropout](https://anilist.co/manga/86864) (12:31 15 September 2023)
 -   📖 Read chapter 11 - 12 of [Gabriel Dropout](https://anilist.co/manga/86864) (18:30 14 September 2023)
--   📖 Read chapter 5 - 10 of [Gabriel Dropout](https://anilist.co/manga/86864) (10:33 14 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
