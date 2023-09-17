@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 3 of [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita](https://anilist.co/anime/126213) (11:50 17 September 2023)
+-   📺 Rewatched episode 1 - 5 of [Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita](https://anilist.co/anime/112608) (09:25 17 September 2023)
 -   📖 Read chapter 65 - 69 of [Gabriel Dropout](https://anilist.co/manga/86864) (19:51 16 September 2023)
 -   📖 Read chapter 47 - 64 of [Gabriel Dropout](https://anilist.co/manga/86864) (09:35 16 September 2023)
 -   📖 Read chapter 40 - 46 of [Gabriel Dropout](https://anilist.co/manga/86864) (04:40 16 September 2023)
 -   📖 Read chapter 30 - 39 of [Gabriel Dropout](https://anilist.co/manga/86864) (19:32 15 September 2023)
 -   📺 Plans to watch [Hataraku Maou-sama!](https://anilist.co/anime/15809) (16:12 15 September 2023)
--   📺 Plans to watch [Maou-jou de Oyasumi](https://anilist.co/anime/111428) (14:43 15 September 2023)
--   📖 Plans to read [Dual na Kanojo no Taoshikata](https://anilist.co/manga/133381) (14:29 15 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
