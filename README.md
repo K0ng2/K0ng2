@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 90 - 92 of [Gabriel Dropout](https://anilist.co/manga/86864) (21:03 18 September 2023)
+-   📖 Read chapter 35 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (20:42 18 September 2023)
+-   📺 Dropped [Kenja no Deshi wo Nanoru Kenja](https://anilist.co/anime/119056) (19:43 18 September 2023)
+-   📺 Watched episode 1 - 2 of [Kenja no Deshi wo Nanoru Kenja](https://anilist.co/anime/119056) (19:42 18 September 2023)
 -   📺 Rewatched episode 6 - 7 of [Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita](https://anilist.co/anime/112608) (17:55 18 September 2023)
 -   📖 Read chapter 83 - 89 of [Gabriel Dropout](https://anilist.co/manga/86864) (10:20 18 September 2023)
 -   📖 Read chapter 70 - 82 of [Gabriel Dropout](https://anilist.co/manga/86864) (20:00 17 September 2023)
--   📺 Plans to watch [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd](https://anilist.co/anime/156131) (19:03 17 September 2023)
--   📖 Completed [Vignette Dropout](https://anilist.co/manga/122472) (19:03 17 September 2023)
--   📺 Plans to watch [Gabriel Dropout](https://anilist.co/anime/21878) (19:02 17 September 2023)
--   📺 Completed [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita](https://anilist.co/anime/126213) (17:47 17 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
