@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 90 - 92 of [Gabriel Dropout](https://anilist.co/manga/86864) (21:03 18 September 2023)
+-   📖 Read chapter 90 - 97 of [Gabriel Dropout](https://anilist.co/manga/86864) (21:19 18 September 2023)
 -   📖 Read chapter 35 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (20:42 18 September 2023)
 -   📺 Dropped [Kenja no Deshi wo Nanoru Kenja](https://anilist.co/anime/119056) (19:43 18 September 2023)
 -   📺 Watched episode 1 - 2 of [Kenja no Deshi wo Nanoru Kenja](https://anilist.co/anime/119056) (19:42 18 September 2023)
