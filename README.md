@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (18:06 20 September 2023)
 -   📺 Plans to watch [Watari-kun no xx ga Houkai Sunzen](https://anilist.co/anime/169420) (14:30 20 September 2023)
 -   📖 Read chapter 13 of [Nameraretakunai Namekawa-san](https://anilist.co/manga/119877) (13:33 20 September 2023)
 -   📖 Completed [Dual na Kanojo no Taoshikata](https://anilist.co/manga/133381) (21:16 19 September 2023)
 -   📖 Read chapter 1 - 38 of [Dual na Kanojo no Taoshikata](https://anilist.co/manga/133381) (21:12 19 September 2023)
 -   📖 Read chapter 37 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (18:34 19 September 2023)
 -   📖 Read chapter 34 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (18:27 19 September 2023)
--   📖 Read chapter 143 of [Chainsaw Man](https://anilist.co/manga/105778) (18:20 19 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
