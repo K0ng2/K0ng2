@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 32 of [Dual na Kanojo no Taoshikata](https://anilist.co/manga/133381) (21:01 19 September 2023)
+-   📖 Completed [Dual na Kanojo no Taoshikata](https://anilist.co/manga/133381) (21:16 19 September 2023)
+-   📖 Read chapter 1 - 38 of [Dual na Kanojo no Taoshikata](https://anilist.co/manga/133381) (21:12 19 September 2023)
 -   📖 Read chapter 37 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (18:34 19 September 2023)
 -   📖 Read chapter 34 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (18:27 19 September 2023)
 -   📖 Read chapter 143 of [Chainsaw Man](https://anilist.co/manga/105778) (18:20 19 September 2023)
 -   📺 Rewatched episode 1 - 2 of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587) (14:44 19 September 2023)
 -   📖 Read chapter 90 - 97 of [Gabriel Dropout](https://anilist.co/manga/86864) (21:19 18 September 2023)
--   📖 Read chapter 35 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (20:42 18 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
