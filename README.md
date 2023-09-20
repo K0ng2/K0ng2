@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 53 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (18:06 20 September 2023)
+-   📖 Read chapter 53 - 67 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (18:43 20 September 2023)
 -   📺 Plans to watch [Watari-kun no xx ga Houkai Sunzen](https://anilist.co/anime/169420) (14:30 20 September 2023)
 -   📖 Read chapter 13 of [Nameraretakunai Namekawa-san](https://anilist.co/manga/119877) (13:33 20 September 2023)
 -   📖 Completed [Dual na Kanojo no Taoshikata](https://anilist.co/manga/133381) (21:16 19 September 2023)
