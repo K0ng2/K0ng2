@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 59 - 68 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (15:01 22 September 2023)
+-   📖 Read chapter 59 - 88 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (17:05 22 September 2023)
 -   📺 Rewatched 12 of [Machikado Mazoku](https://anilist.co/anime/107490) (12:43 22 September 2023)
 -   📺 Plans to watch [Mato Seihei no Slave](https://anilist.co/anime/141821) (12:27 22 September 2023)
 -   📖 Read chapter 25 - 58 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (10:43 22 September 2023)
