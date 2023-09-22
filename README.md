@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (20:48 21 September 2023)
+-   📖 Read chapter 1 - 24 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (23:03 21 September 2023)
 -   📖 Read chapter 88 of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/manga/87225) (20:15 21 September 2023)
 -   📖 Read chapter 154 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (20:11 21 September 2023)
 -   📺 Rewatched episode 8 - 9 of [Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita](https://anilist.co/anime/112608) (12:57 21 September 2023)
