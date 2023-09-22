@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 25 - 37 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (09:03 22 September 2023)
+-   📖 Read chapter 25 - 58 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (10:43 22 September 2023)
 -   📖 Read chapter 1 - 24 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (23:03 21 September 2023)
 -   📖 Read chapter 88 of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/manga/87225) (20:15 21 September 2023)
 -   📖 Read chapter 154 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (20:11 21 September 2023)
