@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 103 - 116 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (08:18 23 September 2023)
 -   📖 Read chapter 59 - 102 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (20:09 22 September 2023)
 -   📖 Read chapter 28 of [Dungeon no Osananajimi](https://anilist.co/manga/149323) (19:00 22 September 2023)
 -   📺 Rewatched 12 of [Machikado Mazoku](https://anilist.co/anime/107490) (12:43 22 September 2023)
 -   📺 Plans to watch [Mato Seihei no Slave](https://anilist.co/anime/141821) (12:27 22 September 2023)
 -   📖 Read chapter 25 - 58 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (10:43 22 September 2023)
 -   📖 Read chapter 1 - 24 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (23:03 21 September 2023)
--   📖 Read chapter 88 of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/manga/87225) (20:15 21 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
