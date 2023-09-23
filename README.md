@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Rewatched episode 2 - 6 of [Machikado Mazoku](https://anilist.co/anime/107490) (17:56 23 September 2023)
+-   📺 Rewatched episode 2 - 8 of [Machikado Mazoku](https://anilist.co/anime/107490) (18:48 23 September 2023)
 -   📖 Completed [Sleep Learning](https://anilist.co/manga/131372) (12:52 23 September 2023)
 -   📖 Plans to read [Sasayaku You ni Koi wo Utau](https://anilist.co/manga/107987) (12:44 23 September 2023)
 -   📺 Rewatched episode 1 of [Machikado Mazoku](https://anilist.co/anime/107490) (11:11 23 September 2023)
