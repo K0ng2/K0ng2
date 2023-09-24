@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 of [Mieruko-chan](https://anilist.co/manga/105097) (21:44 23 September 2023)
+-   📺 Rewatched episode 9 - 11 of [Machikado Mazoku](https://anilist.co/anime/107490) (21:33 23 September 2023)
 -   📺 Rewatched episode 2 - 8 of [Machikado Mazoku](https://anilist.co/anime/107490) (18:48 23 September 2023)
 -   📖 Completed [Sleep Learning](https://anilist.co/manga/131372) (12:52 23 September 2023)
 -   📖 Plans to read [Sasayaku You ni Koi wo Utau](https://anilist.co/manga/107987) (12:44 23 September 2023)
 -   📺 Rewatched episode 1 of [Machikado Mazoku](https://anilist.co/anime/107490) (11:11 23 September 2023)
 -   📖 Read chapter 103 - 116 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (08:18 23 September 2023)
--   📖 Read chapter 59 - 102 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (20:09 22 September 2023)
--   📖 Read chapter 28 of [Dungeon no Osananajimi](https://anilist.co/manga/149323) (19:00 22 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
