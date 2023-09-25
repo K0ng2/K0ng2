@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 5 of [Machikado Mazoku: 2-Choume](https://anilist.co/anime/123330) (20:46 25 September 2023)
+-   📖 Read chapter 16 of [Pumpkin Night](https://anilist.co/manga/103082) (19:07 25 September 2023)
 -   📖 Paused reading 24 of [Gaishuu Isshoku!](https://anilist.co/manga/99340) (17:15 25 September 2023)
 -   📖 Read chapter 33 of [Gaishuu Isshoku!](https://anilist.co/manga/99340) (17:15 25 September 2023)
 -   📖 Read chapter 35 of [SPY×FAMILY](https://anilist.co/manga/108556) (17:12 25 September 2023)
 -   📺 Rewatched episode 4 of [Machikado Mazoku: 2-Choume](https://anilist.co/anime/123330) (04:51 25 September 2023)
 -   📺 Rewatched episode 2 - 3 of [Machikado Mazoku: 2-Choume](https://anilist.co/anime/123330) (14:44 24 September 2023)
--   📺 Rewatched episode 1 of [Machikado Mazoku: 2-Choume](https://anilist.co/anime/123330) (12:04 24 September 2023)
--   📺 Rewatched 12 of [Machikado Mazoku](https://anilist.co/anime/107490) (11:25 24 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
