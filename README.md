@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (17:54 27 September 2023)
+-   📖 Plans to read [Genkai Bonnou Katsugeki Osamu](https://anilist.co/manga/154272) (16:01 27 September 2023)
 -   📖 Read chapter 50 - 52 of [Machikado Mazoku](https://anilist.co/manga/107462) (22:02 26 September 2023)
 -   📖 Read chapter 85 of [Jahy-sama wa Kujikenai!](https://anilist.co/manga/100207) (21:59 26 September 2023)
 -   📖 Read chapter 144 of [Chainsaw Man](https://anilist.co/manga/105778) (21:55 26 September 2023)
 -   📺 Rewatched 12 of [Machikado Mazoku: 2-Choume](https://anilist.co/anime/123330) (21:33 26 September 2023)
 -   📺 Rewatched episode 7 - 11 of [Machikado Mazoku: 2-Choume](https://anilist.co/anime/123330) (21:10 26 September 2023)
--   📺 Rewatched episode 5 - 6 of [Machikado Mazoku: 2-Choume](https://anilist.co/anime/123330) (21:15 25 September 2023)
--   📖 Read chapter 16 of [Pumpkin Night](https://anilist.co/manga/103082) (19:07 25 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
