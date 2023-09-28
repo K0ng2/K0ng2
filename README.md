@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 155 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (07:54 28 September 2023)
+-   📖 Completed [Tokedase! Mizore-chan](https://anilist.co/manga/105430) (07:51 28 September 2023)
+-   📖 Read chapter 53 - 58 of [Tokedase! Mizore-chan](https://anilist.co/manga/105430) (07:48 28 September 2023)
 -   📖 Read chapter 44 - 52 of [Tokedase! Mizore-chan](https://anilist.co/manga/105430) (01:00 28 September 2023)
 -   📺 Plans to watch [Tanaka-kun wa Itsumo Kedaruge](https://anilist.co/anime/21495) (22:22 27 September 2023)
 -   📖 Read chapter 40 - 43 of [Tokedase! Mizore-chan](https://anilist.co/manga/105430) (20:46 27 September 2023)
 -   📖 Read chapter 20 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (17:54 27 September 2023)
--   📖 Plans to read [Genkai Bonnou Katsugeki Osamu](https://anilist.co/manga/154272) (16:01 27 September 2023)
--   📖 Read chapter 50 - 52 of [Machikado Mazoku](https://anilist.co/manga/107462) (22:02 26 September 2023)
--   📖 Read chapter 85 of [Jahy-sama wa Kujikenai!](https://anilist.co/manga/100207) (21:59 26 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
