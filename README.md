@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 44 - 46 of [Tokedase! Mizore-chan](https://anilist.co/manga/105430) (00:25 28 September 2023)
+-   📖 Read chapter 44 - 52 of [Tokedase! Mizore-chan](https://anilist.co/manga/105430) (01:00 28 September 2023)
 -   📺 Plans to watch [Tanaka-kun wa Itsumo Kedaruge](https://anilist.co/anime/21495) (22:22 27 September 2023)
 -   📖 Read chapter 40 - 43 of [Tokedase! Mizore-chan](https://anilist.co/manga/105430) (20:46 27 September 2023)
 -   📖 Read chapter 20 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (17:54 27 September 2023)
