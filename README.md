@@ -27,7 +27,7 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Isekai wa Smartphone to Tomo ni.](https://anilist.co/anime/98491) (00:02 29 September 2023)
+-   📺 Watched episode 1 - 5 of [Isekai wa Smartphone to Tomo ni.](https://anilist.co/anime/98491) (00:48 29 September 2023)
 -   📺 Plans to watch [Inu ni Nattara Suki na Hito ni Hirowareta.](https://anilist.co/anime/146346) (20:52 28 September 2023)
 -   📺 Plans to watch [Inu to Hasami wa Tsukaiyou](https://anilist.co/anime/17831) (20:52 28 September 2023)
 -   📺 Plans to watch [Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta](https://anilist.co/anime/156184) (20:09 28 September 2023)
