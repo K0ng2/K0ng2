@@ -27,12 +27,12 @@ TypeScript         32 hrs 44 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Isekai wa Smartphone to Tomo ni.](https://anilist.co/anime/98491) (00:02 29 September 2023)
 -   📺 Plans to watch [Inu ni Nattara Suki na Hito ni Hirowareta.](https://anilist.co/anime/146346) (20:52 28 September 2023)
 -   📺 Plans to watch [Inu to Hasami wa Tsukaiyou](https://anilist.co/anime/17831) (20:52 28 September 2023)
 -   📺 Plans to watch [Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta](https://anilist.co/anime/156184) (20:09 28 September 2023)
 -   📖 Read chapter 155 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (07:54 28 September 2023)
 -   📖 Completed [Tokedase! Mizore-chan](https://anilist.co/manga/105430) (07:51 28 September 2023)
 -   📖 Read chapter 53 - 58 of [Tokedase! Mizore-chan](https://anilist.co/manga/105430) (07:48 28 September 2023)
--   📖 Read chapter 44 - 52 of [Tokedase! Mizore-chan](https://anilist.co/manga/105430) (01:00 28 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
