@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
-          LANG_COUNT: 10
+          LANG_COUNT: 20
           SHOW_TOTAL: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TITLE: true
