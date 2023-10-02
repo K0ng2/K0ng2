@@ -40,7 +40,7 @@ YAML         14 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:week-->
 
-## 🌸 My recent [AniList](https://anilist.co/user/KONG/) activity
+## My [AniList](https://anilist.co/user/KONG/) activity
 
 <!-- ANILIST_ACTIVITY:start -->
 
