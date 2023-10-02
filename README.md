@@ -2,7 +2,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kongpop&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/kongpop)
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka_all-->
 
 ```markdown
 From: 24 September 2023 - To: 01 October 2023
@@ -19,7 +19,10 @@ Bash         16 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 YAML         14 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.23 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka_all-->
+
+<!--START_SECTION:waka_week-->
+<!--END_SECTION:waka_week-->
 
 ## 🌸 My recent [AniList](https://anilist.co/user/KONG/) activity
 
