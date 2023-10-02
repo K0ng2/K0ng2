@@ -14,7 +14,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: waka_all
+          SECTION_NAME: all
           TIME_RANGE: all_time
           LANG_COUNT: 8
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
@@ -24,7 +24,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: waka_week
+          SECTION_NAME: week
           TIME_RANGE: last_7_days
           LANG_COUNT: 8
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
