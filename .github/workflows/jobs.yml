@@ -12,10 +12,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: athul/waka-readme@master
-        with:
+      - with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka_all
           TIME_RANGE: all_time
-          STOP_AT_OTHER: true
+          LANG_COUNT: 8
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_TITLE: true
+          SHOW_MASKED_TIME: true
+          CODE_LANG: markdown
+      - with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka_week
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 8
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TITLE: true
           SHOW_MASKED_TIME: true
