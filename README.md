@@ -44,12 +44,12 @@ YAML         14 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 13 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/manga/109779) (05:27 02 October 2023)
+-   📖 Read chapter 329 - 335 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (03:48 02 October 2023)
+-   📖 Read chapter 35 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (03:30 02 October 2023)
 -   📖 Read chapter 1 - 7 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/manga/109779) (22:47 01 October 2023)
 -   📖 Plans to read [Dekoboko Majo no Oyako Jijou](https://anilist.co/manga/109779) (22:01 01 October 2023)
 -   📺 Watched episode 1 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (16:01 01 October 2023)
 -   📖 Read chapter 2 - 9 of [Moreuneun Yeojarang Haragoyo?](https://anilist.co/manga/166769) (05:25 01 October 2023)
--   📺 Completed [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571) (02:01 01 October 2023)
--   📺 Watched episode 7 - 11 of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571) (01:38 01 October 2023)
--   📖 Read chapter 80 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (18:59 30 September 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
