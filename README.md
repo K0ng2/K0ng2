@@ -44,12 +44,12 @@ SQL              12 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 8 - 13 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/manga/109779) (05:27 02 October 2023)
--   📖 Read chapter 329 - 335 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (03:48 02 October 2023)
--   📖 Read chapter 35 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (03:30 02 October 2023)
--   📖 Read chapter 1 - 7 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/manga/109779) (22:47 01 October 2023)
--   📖 Plans to read [Dekoboko Majo no Oyako Jijou](https://anilist.co/manga/109779) (22:01 01 October 2023)
--   📺 Watched episode 1 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (16:01 01 October 2023)
--   📖 Read chapter 2 - 9 of [Moreuneun Yeojarang Haragoyo?](https://anilist.co/manga/166769) (05:25 01 October 2023)
+-   📺 Plans to watch [Do It Yourself!!](https://anilist.co/anime/131516) (04:23 04 October 2023)
+-   📖 Read chapter 48 - 52 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (01:29 04 October 2023)
+-   📖 Read chapter 337 - 340 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (01:09 04 October 2023)
+-   📖 Read chapter 102 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (00:56 04 October 2023)
+-   📺 Dropped [Majo no Tabitabi](https://anilist.co/anime/112609) (04:42 03 October 2023)
+-   📺 Watched episode 3 of [Majo no Tabitabi](https://anilist.co/anime/112609) (04:31 03 October 2023)
+-   📖 Read chapter 14 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/manga/109779) (18:35 02 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
