@@ -44,12 +44,12 @@ SQL              12 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Tomodachi no Imouto ga Ore ni dake Uzai](https://anilist.co/anime/129195) (10:15 08 October 2023)
+-   📺 Watched episode 1 of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808) (10:14 08 October 2023)
+-   📺 Plans to watch [Eiyuu Kyoushitsu](https://anilist.co/anime/139606) (08:44 08 October 2023)
+-   📺 Plans to watch [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465) (08:44 08 October 2023)
 -   📖 Read chapter 16 of [Koisuru Succubus no Ikenai Jijou](https://anilist.co/manga/131058) (08:37 07 October 2023)
 -   📺 Plans to watch [Undead Unluck](https://anilist.co/anime/154116) (08:24 07 October 2023)
 -   📺 Completed [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067) (06:52 07 October 2023)
--   📺 Watched episode 6 - 11 of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067) (06:31 07 October 2023)
--   📖 Read chapter 117 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (04:34 07 October 2023)
--   📖 Read chapter 98 of [Gabriel Dropout](https://anilist.co/manga/86864) (17:50 06 October 2023)
--   📺 Watched episode 1 - 5 of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067) (17:27 06 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
