@@ -44,12 +44,12 @@ SQL              12 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [Do It Yourself!!](https://anilist.co/anime/131516) (04:23 04 October 2023)
--   📖 Read chapter 48 - 52 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (01:29 04 October 2023)
--   📖 Read chapter 337 - 340 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (01:09 04 October 2023)
--   📖 Read chapter 102 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (00:56 04 October 2023)
--   📺 Dropped [Majo no Tabitabi](https://anilist.co/anime/112609) (04:42 03 October 2023)
--   📺 Watched episode 3 of [Majo no Tabitabi](https://anilist.co/anime/112609) (04:31 03 October 2023)
--   📖 Read chapter 14 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/manga/109779) (18:35 02 October 2023)
+-   📖 Read chapter 16 of [Koisuru Succubus no Ikenai Jijou](https://anilist.co/manga/131058) (08:37 07 October 2023)
+-   📺 Plans to watch [Undead Unluck](https://anilist.co/anime/154116) (08:24 07 October 2023)
+-   📺 Completed [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067) (06:52 07 October 2023)
+-   📺 Watched episode 6 - 11 of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067) (06:31 07 October 2023)
+-   📖 Read chapter 117 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (04:34 07 October 2023)
+-   📖 Read chapter 98 of [Gabriel Dropout](https://anilist.co/manga/86864) (17:50 06 October 2023)
+-   📺 Watched episode 1 - 5 of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067) (17:27 06 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
