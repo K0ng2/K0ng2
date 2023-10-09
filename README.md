@@ -44,12 +44,12 @@ SQL              12 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 341 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (16:26 08 October 2023)
 -   📺 Plans to watch [Tomodachi no Imouto ga Ore ni dake Uzai](https://anilist.co/anime/129195) (10:15 08 October 2023)
 -   📺 Watched episode 1 of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808) (10:14 08 October 2023)
 -   📺 Plans to watch [Eiyuu Kyoushitsu](https://anilist.co/anime/139606) (08:44 08 October 2023)
 -   📺 Plans to watch [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465) (08:44 08 October 2023)
 -   📖 Read chapter 16 of [Koisuru Succubus no Ikenai Jijou](https://anilist.co/manga/131058) (08:37 07 October 2023)
 -   📺 Plans to watch [Undead Unluck](https://anilist.co/anime/154116) (08:24 07 October 2023)
--   📺 Completed [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067) (06:52 07 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
