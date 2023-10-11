@@ -44,12 +44,12 @@ JSON             9 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [One Punch-Man](https://anilist.co/manga/74347) (22:20 10 October 2023)
+-   📖 Read chapter 145 of [Chainsaw Man](https://anilist.co/manga/105778) (22:18 10 October 2023)
+-   📖 Read chapter 21 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (22:15 10 October 2023)
+-   📺 Watched episode 1 - 3 of [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465) (19:42 10 October 2023)
+-   📺 Plans to watch [Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.](https://anilist.co/anime/154459) (18:53 10 October 2023)
+-   📺 Plans to watch [Kimetsu no Yaiba: Hashira Geiko-hen](https://anilist.co/anime/166240) (13:00 10 October 2023)
 -   📖 Read chapter 18 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (16:19 09 October 2023)
--   📖 Read chapter 341 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (16:26 08 October 2023)
--   📺 Plans to watch [Tomodachi no Imouto ga Ore ni dake Uzai](https://anilist.co/anime/129195) (10:15 08 October 2023)
--   📺 Watched episode 1 of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808) (10:14 08 October 2023)
--   📺 Plans to watch [Eiyuu Kyoushitsu](https://anilist.co/anime/139606) (08:44 08 October 2023)
--   📺 Plans to watch [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465) (08:44 08 October 2023)
--   📖 Read chapter 16 of [Koisuru Succubus no Ikenai Jijou](https://anilist.co/manga/131058) (08:37 07 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
