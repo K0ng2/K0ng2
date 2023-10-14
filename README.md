@@ -44,12 +44,12 @@ YAML         3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 of [One Punch-Man](https://anilist.co/manga/74347) (22:11 13 October 2023)
+-   📺 Watched episode 2 of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://anilist.co/anime/130588) (19:05 13 October 2023)
+-   📺 Watched episode 1 of [SPY×FAMILY Season 2](https://anilist.co/anime/158927) (18:01 13 October 2023)
+-   📺 Plans to watch [Heavy Object](https://anilist.co/anime/20881) (14:24 13 October 2023)
+-   📺 Dropped [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465) (13:45 13 October 2023)
+-   📺 Watched episode 5 of [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465) (13:38 13 October 2023)
 -   📺 Watched episode 4 of [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465) (10:26 13 October 2023)
--   📖 Read chapter 1 - 12 of [Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru](https://anilist.co/manga/161493) (16:55 12 October 2023)
--   📖 Plans to read [Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru](https://anilist.co/manga/161493) (16:02 12 October 2023)
--   📖 Read chapter 3 of [One Punch-Man](https://anilist.co/manga/74347) (18:45 11 October 2023)
--   📖 Read chapter 156 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:42 11 October 2023)
--   📖 Read chapter 1 - 2 of [One Punch-Man](https://anilist.co/manga/74347) (22:20 10 October 2023)
--   📖 Read chapter 145 of [Chainsaw Man](https://anilist.co/manga/105778) (22:18 10 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
