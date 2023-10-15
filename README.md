@@ -44,12 +44,12 @@ YAML         3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606) (22:41 14 October 2023)
+-   📺 Dropped [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://anilist.co/anime/130588) (21:36 14 October 2023)
 -   📖 Read chapter 4 of [One Punch-Man](https://anilist.co/manga/74347) (22:11 13 October 2023)
 -   📺 Watched episode 2 of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://anilist.co/anime/130588) (19:05 13 October 2023)
 -   📺 Watched episode 1 of [SPY×FAMILY Season 2](https://anilist.co/anime/158927) (18:01 13 October 2023)
 -   📺 Plans to watch [Heavy Object](https://anilist.co/anime/20881) (14:24 13 October 2023)
 -   📺 Dropped [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465) (13:45 13 October 2023)
--   📺 Watched episode 5 of [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465) (13:38 13 October 2023)
--   📺 Watched episode 4 of [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465) (10:26 13 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
