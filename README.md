@@ -42,12 +42,12 @@ Python       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 6 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (18:26 16 October 2023)
+-   📖 Plans to read [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (16:52 16 October 2023)
+-   📖 Read chapter 53 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (16:41 16 October 2023)
 -   📖 Read chapter 36 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (20:42 15 October 2023)
 -   📺 Watched episode 8 - 9 of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606) (16:33 15 October 2023)
 -   📺 Plans to watch [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://anilist.co/anime/129068) (15:12 15 October 2023)
 -   📺 Watched episode 2 - 7 of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606) (14:01 15 October 2023)
--   📺 Watched episode 1 of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606) (22:41 14 October 2023)
--   📺 Dropped [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://anilist.co/anime/130588) (21:36 14 October 2023)
--   📖 Read chapter 4 of [One Punch-Man](https://anilist.co/manga/74347) (22:11 13 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
