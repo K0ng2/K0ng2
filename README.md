@@ -43,12 +43,12 @@ Python       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 23 - 37 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (12:25 18 October 2023)
 -   📖 Read chapter 18 - 22 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (00:43 18 October 2023)
 -   📖 Read chapter 13 - 17 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (20:58 17 October 2023)
 -   📺 Completed [Eiyuu Kyoushitsu](https://anilist.co/anime/139606) (19:32 17 October 2023)
 -   📺 Watched episode 10 - 11 of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606) (18:29 17 October 2023)
 -   📖 Read chapter 7 - 12 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (07:00 17 October 2023)
 -   📖 Read chapter 1 - 6 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (18:26 16 October 2023)
--   📖 Plans to read [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (16:52 16 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
