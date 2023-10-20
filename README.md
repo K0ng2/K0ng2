@@ -44,7 +44,7 @@ Text         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Rewatched episode 3 of [Tonari no Kyuuketsuki-san](https://anilist.co/anime/101371) (12:23 19 October 2023)
+-   📺 Rewatched episode 3 - 4 of [Tonari no Kyuuketsuki-san](https://anilist.co/anime/101371) (12:43 19 October 2023)
 -   📖 Read chapter 5 of [Gokuchuu!](https://anilist.co/manga/135540) (21:02 18 October 2023)
 -   📖 Read chapter 342 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (20:58 18 October 2023)
 -   📖 Read chapter 146 of [Chainsaw Man](https://anilist.co/manga/105778) (20:54 18 October 2023)
