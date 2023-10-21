@@ -44,12 +44,12 @@ Go           0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 118 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (10:34 21 October 2023)
+-   📖 Read chapter 123 - 124 of [Parallel Paradise](https://anilist.co/manga/98543) (10:30 21 October 2023)
+-   📺 Plans to watch [Isekai Oji-san](https://anilist.co/anime/135806) (07:01 21 October 2023)
 -   📺 Rewatched episode 5 - 6 of [Tonari no Kyuuketsuki-san](https://anilist.co/anime/101371) (14:46 20 October 2023)
 -   📖 Read chapter 29 of [Dungeon no Osananajimi](https://anilist.co/manga/149323) (08:41 20 October 2023)
 -   📖 Read chapter 153 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (08:39 20 October 2023)
 -   📖 Read chapter 89 of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/manga/87225) (08:36 20 October 2023)
--   📖 Read chapter 245 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (08:33 20 October 2023)
--   📺 Rewatched episode 3 - 4 of [Tonari no Kyuuketsuki-san](https://anilist.co/anime/101371) (12:43 19 October 2023)
--   📖 Read chapter 5 of [Gokuchuu!](https://anilist.co/manga/135540) (21:02 18 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
