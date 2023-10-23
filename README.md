@@ -44,12 +44,12 @@ Text          1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (07:44 23 October 2023)
+-   📺 Plans to watch [Danshi Koukousei no Nichijou Specials](https://anilist.co/anime/12893) (05:12 23 October 2023)
+-   📖 Read chapter 233 - 240 of [Parallel Paradise](https://anilist.co/manga/98543) (04:37 23 October 2023)
 -   📖 Read chapter 198 - 232 of [Parallel Paradise](https://anilist.co/manga/98543) (00:36 23 October 2023)
 -   📖 Read chapter 198 - 228 of [Parallel Paradise](https://anilist.co/manga/98543) (00:27 23 October 2023)
 -   📖 Read chapter 68 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (22:32 22 October 2023)
 -   📖 Read chapter 99 of [Gabriel Dropout](https://anilist.co/manga/86864) (22:30 22 October 2023)
--   📖 Read chapter 19 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (22:21 22 October 2023)
--   📺 Rewatched episode 1 - 2 of [Jashin-chan Dropkick](https://anilist.co/anime/100714) (18:19 22 October 2023)
--   📺 Rewatched episode 8 - 9 of [Tonari no Kyuuketsuki-san](https://anilist.co/anime/101371) (07:41 22 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
