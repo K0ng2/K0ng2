@@ -44,12 +44,12 @@ TOML         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 198 - 232 of [Parallel Paradise](https://anilist.co/manga/98543) (00:36 23 October 2023)
+-   📖 Read chapter 198 - 228 of [Parallel Paradise](https://anilist.co/manga/98543) (00:27 23 October 2023)
+-   📖 Read chapter 68 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (22:32 22 October 2023)
+-   📖 Read chapter 99 of [Gabriel Dropout](https://anilist.co/manga/86864) (22:30 22 October 2023)
+-   📖 Read chapter 19 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (22:21 22 October 2023)
+-   📺 Rewatched episode 1 - 2 of [Jashin-chan Dropkick](https://anilist.co/anime/100714) (18:19 22 October 2023)
 -   📺 Rewatched episode 8 - 9 of [Tonari no Kyuuketsuki-san](https://anilist.co/anime/101371) (07:41 22 October 2023)
--   📖 Read chapter 125 - 197 of [Parallel Paradise](https://anilist.co/manga/98543) (05:20 22 October 2023)
--   📺 Rewatched episode 7 of [Tonari no Kyuuketsuki-san](https://anilist.co/anime/101371) (21:26 21 October 2023)
--   📖 Read chapter 118 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (10:34 21 October 2023)
--   📖 Read chapter 123 - 124 of [Parallel Paradise](https://anilist.co/manga/98543) (10:30 21 October 2023)
--   📺 Plans to watch [Isekai Oji-san](https://anilist.co/anime/135806) (07:01 21 October 2023)
--   📺 Rewatched episode 5 - 6 of [Tonari no Kyuuketsuki-san](https://anilist.co/anime/101371) (14:46 20 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
