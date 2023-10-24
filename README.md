@@ -44,12 +44,12 @@ TOML          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 2 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (11:07 24 October 2023)
+-   📺 Watched episode 1 - 2 of [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (10:14 24 October 2023)
+-   📺 Plans to watch [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (08:27 24 October 2023)
+-   📺 Plans to watch [Hataraku Maou-sama!! 2nd Season](https://anilist.co/anime/155168) (08:27 24 October 2023)
+-   📺 Completed [Hataraku Maou-sama!](https://anilist.co/anime/15809) (08:19 24 October 2023)
+-   📺 Watched episode 1 - 12 of [Hataraku Maou-sama!](https://anilist.co/anime/15809) (08:18 24 October 2023)
 -   📺 Rewatched episode 1 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (07:44 23 October 2023)
--   📺 Plans to watch [Danshi Koukousei no Nichijou Specials](https://anilist.co/anime/12893) (05:12 23 October 2023)
--   📖 Read chapter 233 - 240 of [Parallel Paradise](https://anilist.co/manga/98543) (04:37 23 October 2023)
--   📖 Read chapter 198 - 232 of [Parallel Paradise](https://anilist.co/manga/98543) (00:36 23 October 2023)
--   📖 Read chapter 198 - 228 of [Parallel Paradise](https://anilist.co/manga/98543) (00:27 23 October 2023)
--   📖 Read chapter 68 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (22:32 22 October 2023)
--   📖 Read chapter 99 of [Gabriel Dropout](https://anilist.co/manga/86864) (22:30 22 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
