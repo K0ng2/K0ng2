@@ -44,12 +44,12 @@ SQL           9 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 5 - 6 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (10:26 25 October 2023)
+-   📺 Rewatched episode 3 - 4 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (02:35 25 October 2023)
 -   📺 Rewatched episode 2 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (11:07 24 October 2023)
 -   📺 Watched episode 1 - 2 of [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (10:14 24 October 2023)
 -   📺 Plans to watch [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (08:27 24 October 2023)
 -   📺 Plans to watch [Hataraku Maou-sama!! 2nd Season](https://anilist.co/anime/155168) (08:27 24 October 2023)
 -   📺 Completed [Hataraku Maou-sama!](https://anilist.co/anime/15809) (08:19 24 October 2023)
--   📺 Watched episode 1 - 12 of [Hataraku Maou-sama!](https://anilist.co/anime/15809) (08:18 24 October 2023)
--   📺 Rewatched episode 1 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (07:44 23 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
