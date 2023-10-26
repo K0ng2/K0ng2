@@ -44,12 +44,12 @@ SQL           9 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Kajiya de Hajimeru Isekai Slow Life](https://anilist.co/manga/127029) (15:28 25 October 2023)
+-   📖 Plans to read [Kajiya de Hajimeru Isekai Slow Life](https://anilist.co/manga/127029) (15:09 25 October 2023)
+-   📖 Read chapter 111 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (14:58 25 October 2023)
+-   📖 Read chapter 37 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:48 25 October 2023)
 -   📺 Rewatched episode 5 - 6 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (10:26 25 October 2023)
 -   📺 Rewatched episode 3 - 4 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (02:35 25 October 2023)
 -   📺 Rewatched episode 2 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (11:07 24 October 2023)
--   📺 Watched episode 1 - 2 of [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (10:14 24 October 2023)
--   📺 Plans to watch [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (08:27 24 October 2023)
--   📺 Plans to watch [Hataraku Maou-sama!! 2nd Season](https://anilist.co/anime/155168) (08:27 24 October 2023)
--   📺 Completed [Hataraku Maou-sama!](https://anilist.co/anime/15809) (08:19 24 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
