@@ -44,12 +44,12 @@ Ezhil         10 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [One Punch Man](https://anilist.co/anime/21087) (11:51 27 October 2023)
+-   📖 Read chapter 157 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (07:09 27 October 2023)
+-   📖 Read chapter 22 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (07:06 27 October 2023)
+-   📖 Read chapter 246 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (01:36 27 October 2023)
 -   📺 Rewatched episode 7 - 9 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (16:03 26 October 2023)
 -   📖 Plans to read [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (13:39 26 October 2023)
 -   📖 Read chapter 1 - 2 of [Kajiya de Hajimeru Isekai Slow Life](https://anilist.co/manga/127029) (15:28 25 October 2023)
--   📖 Plans to read [Kajiya de Hajimeru Isekai Slow Life](https://anilist.co/manga/127029) (15:09 25 October 2023)
--   📖 Read chapter 111 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (14:58 25 October 2023)
--   📖 Read chapter 37 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (14:48 25 October 2023)
--   📺 Rewatched episode 5 - 6 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (10:26 25 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
