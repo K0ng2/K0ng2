@@ -44,12 +44,12 @@ Ezhil         10 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 - 6 of [One Punch Man](https://anilist.co/anime/21087) (10:05 28 October 2023)
 -   📺 Rewatched episode 3 of [Jashin-chan Dropkick](https://anilist.co/anime/100714) (14:57 27 October 2023)
 -   📺 Rewatched 12 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (13:50 27 October 2023)
 -   📺 Rewatched episode 10 - 11 of [Danshi Koukousei no Nichijou](https://anilist.co/anime/11843) (13:50 27 October 2023)
 -   📺 Watched episode 4 of [One Punch Man](https://anilist.co/anime/21087) (11:51 27 October 2023)
 -   📖 Read chapter 157 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (07:09 27 October 2023)
 -   📖 Read chapter 22 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (07:06 27 October 2023)
--   📖 Read chapter 246 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (01:36 27 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
