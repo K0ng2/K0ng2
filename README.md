@@ -44,12 +44,12 @@ Ezhil         10 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 - 2 of [Jashin-chan Dropkick’](https://anilist.co/anime/107294) (12:27 31 October 2023)
+-   📺 Rewatched 11 of [Jashin-chan Dropkick](https://anilist.co/anime/100714) (12:01 31 October 2023)
+-   📺 Rewatched episode 9 - 10 of [Jashin-chan Dropkick](https://anilist.co/anime/100714) (12:01 31 October 2023)
+-   📖 Read chapter 3 - 9 of [Kajiya de Hajimeru Isekai Slow Life](https://anilist.co/manga/127029) (05:57 31 October 2023)
 -   📖 Read chapter 10 - 25 of [Kokoro ni Yasashii Tankoubon: Soku Ochi 2-koma Gekijou](https://anilist.co/manga/132825) (09:59 30 October 2023)
 -   📖 Read chapter 25 of [Bocchi Kaibutsu to Moumoku Shoujo](https://anilist.co/manga/103608) (09:50 30 October 2023)
 -   📖 Read chapter 81 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (15:37 29 October 2023)
--   📖 Read chapter 37 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (15:33 29 October 2023)
--   📺 Rewatched episode 6 - 8 of [Jashin-chan Dropkick](https://anilist.co/anime/100714) (13:33 29 October 2023)
--   📺 Plans to watch [Tondemo Skill de Isekai Hourou Meshi 2nd Season](https://anilist.co/anime/170577) (12:08 29 October 2023)
--   📺 Watched episode 7 - 10 of [One Punch Man](https://anilist.co/anime/21087) (08:13 29 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
