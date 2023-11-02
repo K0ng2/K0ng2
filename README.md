@@ -43,12 +43,12 @@ PowerShell   1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 344 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (17:22 01 November 2023)
+-   📖 Read chapter 344 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (17:22 01 November 2023)
+-   📺 Rewatched episode 9 of [Jashin-chan Dropkick’](https://anilist.co/anime/107294) (17:12 01 November 2023)
+-   📺 Rewatched episode 7 - 8 of [Jashin-chan Dropkick’](https://anilist.co/anime/107294) (15:12 01 November 2023)
 -   📺 Completed [One Punch Man](https://anilist.co/anime/21087) (12:02 01 November 2023)
 -   📺 Watched episode 11 of [One Punch Man](https://anilist.co/anime/21087) (12:02 01 November 2023)
 -   📺 Rewatched episode 5 of [Jashin-chan Dropkick’](https://anilist.co/anime/107294) (11:39 01 November 2023)
--   📖 Read chapter 1 - 9 of [Goshujin-sama to Yuku Isekai Survival! THE COMIC](https://anilist.co/manga/123747) (03:54 01 November 2023)
--   📖 Read chapter 35 of [S-Rank Boukensha de Aru Ore no Musumetachi wa Juudo no Father-con Deshita](https://anilist.co/manga/119821) (18:30 31 October 2023)
--   📖 Read chapter 147 of [Chainsaw Man](https://anilist.co/manga/105778) (18:23 31 October 2023)
--   📖 Read chapter 10 - 12 of [Kajiya de Hajimeru Isekai Slow Life](https://anilist.co/manga/127029) (16:32 31 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
