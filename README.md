@@ -37,12 +37,12 @@ No activity tracked
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 9 of [Mimyomimyohan Sai](https://anilist.co/manga/169743) (03:59 02 November 2023)
+-   📖 Read chapter 38 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (03:09 02 November 2023)
 -   📖 Read chapter 344 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (17:22 01 November 2023)
 -   📖 Read chapter 344 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (17:22 01 November 2023)
 -   📺 Rewatched episode 9 of [Jashin-chan Dropkick’](https://anilist.co/anime/107294) (17:12 01 November 2023)
 -   📺 Rewatched episode 7 - 8 of [Jashin-chan Dropkick’](https://anilist.co/anime/107294) (15:12 01 November 2023)
 -   📺 Completed [One Punch Man](https://anilist.co/anime/21087) (12:02 01 November 2023)
--   📺 Watched episode 11 of [One Punch Man](https://anilist.co/anime/21087) (12:02 01 November 2023)
--   📺 Rewatched episode 5 of [Jashin-chan Dropkick’](https://anilist.co/anime/107294) (11:39 01 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
