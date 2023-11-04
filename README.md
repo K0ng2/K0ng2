@@ -37,12 +37,12 @@ No activity tracked
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 21 of [Gal-sen](https://anilist.co/manga/138776) (16:33 03 November 2023)
+-   📺 Rewatched episode 1 - 2 of [Jashin-chan Dropkick X](https://anilist.co/anime/124641) (12:56 03 November 2023)
 -   📺 Plans to watch [Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita](https://anilist.co/anime/129192) (11:57 03 November 2023)
 -   📺 Rewatched 11 of [Jashin-chan Dropkick’](https://anilist.co/anime/107294) (11:54 03 November 2023)
 -   📺 Rewatched episode 10 of [Jashin-chan Dropkick’](https://anilist.co/anime/107294) (11:30 03 November 2023)
 -   📖 Read chapter 9 of [Mimyomimyohan Sai](https://anilist.co/manga/169743) (03:59 02 November 2023)
 -   📖 Read chapter 38 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (03:09 02 November 2023)
--   📖 Read chapter 344 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (17:22 01 November 2023)
--   📖 Read chapter 344 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (17:22 01 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
