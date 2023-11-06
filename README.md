@@ -44,12 +44,12 @@ TOML         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 4 of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808) (22:19 05 November 2023)
+-   📺 Watched episode 2 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (17:11 05 November 2023)
 -   📺 Plans to watch [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332) (07:40 05 November 2023)
 -   📖 Read chapter 119 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (18:39 04 November 2023)
 -   📖 Dropped [Gal-sen](https://anilist.co/manga/138776) (09:56 04 November 2023)
 -   📖 Read chapter 1 - 21 of [Gal-sen](https://anilist.co/manga/138776) (16:33 03 November 2023)
 -   📺 Rewatched episode 1 - 2 of [Jashin-chan Dropkick X](https://anilist.co/anime/124641) (12:56 03 November 2023)
--   📺 Plans to watch [Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita](https://anilist.co/anime/129192) (11:57 03 November 2023)
--   📺 Rewatched 11 of [Jashin-chan Dropkick’](https://anilist.co/anime/107294) (11:54 03 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
