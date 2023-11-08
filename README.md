@@ -44,12 +44,12 @@ YAML         1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Tenkuu no Shiro wo Moratta no de Isekai de Tanoshiku Asobitai](https://anilist.co/manga/110075) (22:20 07 November 2023)
+-   📖 Read chapter 10 of [Mimyomimyohan Sai](https://anilist.co/manga/169743) (21:48 07 November 2023)
+-   📖 Read chapter 242 of [Parallel Paradise](https://anilist.co/manga/98543) (21:38 07 November 2023)
+-   📺 Watched episode 3 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (19:51 07 November 2023)
 -   📺 Plans to watch [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214) (10:01 07 November 2023)
 -   📖 Read chapter 54 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (21:32 06 November 2023)
 -   📖 Read chapter 345 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (21:27 06 November 2023)
--   📺 Watched episode 5 of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808) (18:17 06 November 2023)
--   📺 Watched episode 2 - 4 of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808) (22:19 05 November 2023)
--   📺 Watched episode 2 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (17:11 05 November 2023)
--   📺 Plans to watch [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332) (07:40 05 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
