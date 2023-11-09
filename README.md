@@ -44,12 +44,12 @@ YAML         6 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 13 of [Tenkuu no Shiro wo Moratta no de Isekai de Tanoshiku Asobitai](https://anilist.co/manga/110075) (01:03 09 November 2023)
+-   📖 Read chapter 100 of [Gabriel Dropout](https://anilist.co/manga/86864) (22:43 08 November 2023)
+-   📖 Read chapter 158 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (22:38 08 November 2023)
+-   📺 Watched episode 3 - 4 of [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (20:20 08 November 2023)
+-   📺 Watched episode 4 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (17:25 08 November 2023)
 -   📖 Plans to read [Tenkuu no Shiro wo Moratta no de Isekai de Tanoshiku Asobitai](https://anilist.co/manga/110075) (22:20 07 November 2023)
 -   📖 Read chapter 10 of [Mimyomimyohan Sai](https://anilist.co/manga/169743) (21:48 07 November 2023)
--   📖 Read chapter 242 of [Parallel Paradise](https://anilist.co/manga/98543) (21:38 07 November 2023)
--   📺 Watched episode 3 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (19:51 07 November 2023)
--   📺 Plans to watch [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214) (10:01 07 November 2023)
--   📖 Read chapter 54 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (21:32 06 November 2023)
--   📖 Read chapter 345 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (21:27 06 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
