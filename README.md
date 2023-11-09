@@ -44,7 +44,7 @@ YAML         6 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 13 of [Tenkuu no Shiro wo Moratta no de Isekai de Tanoshiku Asobitai](https://anilist.co/manga/110075) (01:03 09 November 2023)
+-   📖 Read chapter 1 - 27 of [Tenkuu no Shiro wo Moratta no de Isekai de Tanoshiku Asobitai](https://anilist.co/manga/110075) (02:47 09 November 2023)
 -   📖 Read chapter 100 of [Gabriel Dropout](https://anilist.co/manga/86864) (22:43 08 November 2023)
 -   📖 Read chapter 158 of [Kaette Kudasai! Akutsu-san](https://anilist.co/manga/113501) (22:38 08 November 2023)
 -   📺 Watched episode 3 - 4 of [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (20:20 08 November 2023)
