@@ -44,12 +44,12 @@ Text         11 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 12 of [Tentacle Hole](https://anilist.co/manga/142471) (23:31 10 November 2023)
+-   📺 Watched episode 7 of [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (21:19 10 November 2023)
 -   📖 Read chapter 1 - 3 of [Tentacle Hole](https://anilist.co/manga/142471) (23:17 09 November 2023)
 -   📖 Plans to read [Wakamono no Kuro Mahou Hanare ga Shinkoku desu ga, Shuushoku shite Mitara Taiguu Iishi, Shachou mo Tsukaima mo Kawaikute Saikou desu!](https://anilist.co/manga/107700) (21:49 09 November 2023)
 -   📖 Plans to read [Tentacle Hole](https://anilist.co/manga/142471) (21:31 09 November 2023)
 -   📖 Read chapter 247 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (20:59 09 November 2023)
 -   📺 Watched episode 5 - 6 of [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (20:14 09 November 2023)
--   📖 Read chapter 28 - 40 of [Tenkuu no Shiro wo Moratta no de Isekai de Tanoshiku Asobitai](https://anilist.co/manga/110075) (15:43 09 November 2023)
--   📖 Read chapter 1 - 27 of [Tenkuu no Shiro wo Moratta no de Isekai de Tanoshiku Asobitai](https://anilist.co/manga/110075) (02:47 09 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
