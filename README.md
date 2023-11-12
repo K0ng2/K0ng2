@@ -44,12 +44,12 @@ Text         15 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 7 of [Nihon e Youkoso Elf-san.](https://anilist.co/manga/106662) (23:44 11 November 2023)
+-   📖 Read chapter 1 of [Mujintou De Elf to Kyoudou Seikatsu](https://anilist.co/manga/109675) (21:57 11 November 2023)
+-   📖 Plans to read [Orenchi ni Kita Onna Kishi to Inakagurashi Surukotoninatta Ken](https://anilist.co/manga/105395) (21:03 11 November 2023)
+-   📺 Watched episode 1 - 4 of [Hataraku Maou-sama!! 2nd Season](https://anilist.co/anime/155168) (20:47 11 November 2023)
+-   📺 Completed [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (17:02 11 November 2023)
+-   📺 Watched episode 8 - 11 of [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (16:24 11 November 2023)
 -   📖 Read chapter 4 - 12 of [Tentacle Hole](https://anilist.co/manga/142471) (23:31 10 November 2023)
--   📺 Watched episode 7 of [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (21:19 10 November 2023)
--   📖 Read chapter 1 - 3 of [Tentacle Hole](https://anilist.co/manga/142471) (23:17 09 November 2023)
--   📖 Plans to read [Wakamono no Kuro Mahou Hanare ga Shinkoku desu ga, Shuushoku shite Mitara Taiguu Iishi, Shachou mo Tsukaima mo Kawaikute Saikou desu!](https://anilist.co/manga/107700) (21:49 09 November 2023)
--   📖 Plans to read [Tentacle Hole](https://anilist.co/manga/142471) (21:31 09 November 2023)
--   📖 Read chapter 247 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (20:59 09 November 2023)
--   📺 Watched episode 5 - 6 of [Hataraku Maou-sama!!](https://anilist.co/anime/130592) (20:14 09 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
