@@ -44,12 +44,12 @@ Text         10 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 3 - 4 of [Jashin-chan Dropkick X](https://anilist.co/anime/124641) (11:43 15 November 2023)
+-   📖 Read chapter 1 - 3 of [Watashi no Oshi wa Akuyaku Reijou.](https://anilist.co/manga/118695) (10:36 15 November 2023)
+-   📖 Plans to read [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (09:23 15 November 2023)
+-   📖 Plans to read [Watashi no Oshi wa Akuyaku Reijou.](https://anilist.co/manga/118695) (09:18 15 November 2023)
 -   📖 Read chapter 148 of [Chainsaw Man](https://anilist.co/manga/105778) (22:21 14 November 2023)
 -   📖 Read chapter 346 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (22:19 14 November 2023)
 -   📖 Read chapter 1 - 3 of [Seichou Cheat de Nandemo Dekiru you ni Natta ga, Mushoku dake wa Yamerarenai you desu](https://anilist.co/manga/100732) (22:24 12 November 2023)
--   📖 Read chapter 1 - 10 of [Orenchi ni Kita Onna Kishi to Inakagurashi Surukotoninatta Ken](https://anilist.co/manga/105395) (21:06 12 November 2023)
--   📖 Read chapter 20 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (20:13 12 November 2023)
--   📺 Completed [Hataraku Maou-sama!! 2nd Season](https://anilist.co/anime/155168) (06:20 12 November 2023)
--   📺 Watched episode 5 - 11 of [Hataraku Maou-sama!! 2nd Season](https://anilist.co/anime/155168) (05:59 12 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
