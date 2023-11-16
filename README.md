@@ -44,12 +44,12 @@ Text         8 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 - 12 of [Watashi no Oshi wa Akuyaku Reijou.](https://anilist.co/manga/118695) (23:15 15 November 2023)
 -   📺 Rewatched episode 3 - 4 of [Jashin-chan Dropkick X](https://anilist.co/anime/124641) (11:43 15 November 2023)
 -   📖 Read chapter 1 - 3 of [Watashi no Oshi wa Akuyaku Reijou.](https://anilist.co/manga/118695) (10:36 15 November 2023)
 -   📖 Plans to read [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (09:23 15 November 2023)
 -   📖 Plans to read [Watashi no Oshi wa Akuyaku Reijou.](https://anilist.co/manga/118695) (09:18 15 November 2023)
 -   📖 Read chapter 148 of [Chainsaw Man](https://anilist.co/manga/105778) (22:21 14 November 2023)
 -   📖 Read chapter 346 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (22:19 14 November 2023)
--   📖 Read chapter 1 - 3 of [Seichou Cheat de Nandemo Dekiru you ni Natta ga, Mushoku dake wa Yamerarenai you desu](https://anilist.co/manga/100732) (22:24 12 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
