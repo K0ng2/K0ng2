@@ -44,12 +44,12 @@ Jinja2       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214) (12:23 19 November 2023)
+-   📺 Watched episode 1 - 5 of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214) (09:30 19 November 2023)
+-   📺 Plans to watch [Isekai Shoukan wa Nidome desu](https://anilist.co/anime/140754) (08:05 19 November 2023)
 -   📖 Read chapter 347 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (19:08 18 November 2023)
 -   📖 Read chapter 243 of [Parallel Paradise](https://anilist.co/manga/98543) (19:06 18 November 2023)
 -   📖 Read chapter 120 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (19:01 18 November 2023)
 -   📺 Watched episode 6 of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808) (17:46 18 November 2023)
--   📺 Watched episode 5 - 7 of [SPY×FAMILY Season 2](https://anilist.co/anime/158927) (17:19 18 November 2023)
--   📺 Watched episode 4 of [SPY×FAMILY Season 2](https://anilist.co/anime/158927) (03:45 18 November 2023)
--   📖 Dropped [Watashi no Oshi wa Akuyaku Reijou.](https://anilist.co/manga/118695) (16:13 17 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
