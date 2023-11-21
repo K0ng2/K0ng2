@@ -44,12 +44,12 @@ Jinja2       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Kono Bijutsubu ni wa Mondai ga Aru!](https://anilist.co/manga/80331) (15:50 20 November 2023)
+-   📺 Plans to watch [GA: Geijutsuka Art Design Class](https://anilist.co/anime/5670) (15:26 20 November 2023)
+-   📺 Plans to watch [Takunomi.](https://anilist.co/anime/99753) (14:00 20 November 2023)
 -   📺 Plans to watch [Super Cub](https://anilist.co/anime/113418) (04:08 20 November 2023)
 -   📖 Read chapter 55 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (15:23 19 November 2023)
 -   📺 Watched episode 6 - 7 of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214) (12:45 19 November 2023)
 -   📺 Watched episode 1 - 5 of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214) (09:30 19 November 2023)
--   📺 Plans to watch [Isekai Shoukan wa Nidome desu](https://anilist.co/anime/140754) (08:05 19 November 2023)
--   📖 Read chapter 347 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (19:08 18 November 2023)
--   📖 Read chapter 243 of [Parallel Paradise](https://anilist.co/manga/98543) (19:06 18 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
