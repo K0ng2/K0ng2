@@ -44,12 +44,12 @@ Jinja2       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 6 - 18 of [Usami-san wa Kamawaretai!](https://anilist.co/manga/106706) (16:26 21 November 2023)
 -   📖 Read chapter 112 - 113 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (10:40 21 November 2023)
 -   📺 Plans to watch [Nagi no Asukara](https://anilist.co/anime/16067) (09:50 21 November 2023)
 -   📺 Plans to watch [Mitsudomoe](https://anilist.co/anime/7627) (09:39 21 November 2023)
 -   📖 Plans to read [Kono Bijutsubu ni wa Mondai ga Aru!](https://anilist.co/manga/80331) (15:50 20 November 2023)
 -   📺 Plans to watch [GA: Geijutsuka Art Design Class](https://anilist.co/anime/5670) (15:26 20 November 2023)
 -   📺 Plans to watch [Takunomi.](https://anilist.co/anime/99753) (14:00 20 November 2023)
--   📺 Plans to watch [Super Cub](https://anilist.co/anime/113418) (04:08 20 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
