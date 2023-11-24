@@ -44,12 +44,12 @@ SQL          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 5 of [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (15:51 23 November 2023)
 -   📖 Read chapter 44 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (11:11 23 November 2023)
 -   📖 Completed [Usami-san wa Kamawaretai!](https://anilist.co/manga/106706) (16:48 22 November 2023)
 -   📖 Read chapter 51 - 65 of [Usami-san wa Kamawaretai!](https://anilist.co/manga/106706) (16:43 22 November 2023)
 -   📖 Read chapter 35 - 50 of [Usami-san wa Kamawaretai!](https://anilist.co/manga/106706) (11:30 22 November 2023)
 -   📺 Plans to watch [Tsuki to Laika to Nosferatu](https://anilist.co/anime/131019) (07:38 22 November 2023)
 -   📖 Read chapter 54 of [Mieruko-chan](https://anilist.co/manga/105097) (06:41 22 November 2023)
--   📖 Read chapter 149 of [Chainsaw Man](https://anilist.co/manga/105778) (06:29 22 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
