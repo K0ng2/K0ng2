@@ -44,12 +44,12 @@ SQL          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Helck](https://anilist.co/anime/145140) (20:17 25 November 2023)
+-   📖 Read chapter 56 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (13:26 25 November 2023)
+-   📖 Read chapter 248 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (13:22 25 November 2023)
+-   📖 Read chapter 82 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (13:18 25 November 2023)
 -   📺 Watched episode 8 of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214) (11:45 25 November 2023)
 -   📖 Read chapter 21 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (20:37 24 November 2023)
 -   📺 Dropped [Kuro no Shoukanshi](https://anilist.co/anime/145260) (20:16 24 November 2023)
--   📺 Watched episode 1 - 7 of [Kuro no Shoukanshi](https://anilist.co/anime/145260) (20:14 24 November 2023)
--   📺 Completed [Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen](https://anilist.co/anime/162314) (17:10 24 November 2023)
--   📖 Read chapter 1 - 5 of [Do Chokkyuu Kareshi x Kanojo](https://anilist.co/manga/107485) (15:51 23 November 2023)
--   📖 Read chapter 44 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (11:11 23 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
