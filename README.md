@@ -44,12 +44,12 @@ YAML         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 11 of [Helck](https://anilist.co/anime/145140) (20:17 25 November 2023)
--   📖 Read chapter 56 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (13:26 25 November 2023)
--   📖 Read chapter 248 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (13:22 25 November 2023)
--   📖 Read chapter 82 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (13:18 25 November 2023)
--   📺 Watched episode 8 of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214) (11:45 25 November 2023)
--   📖 Read chapter 21 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (20:37 24 November 2023)
--   📺 Dropped [Kuro no Shoukanshi](https://anilist.co/anime/145260) (20:16 24 November 2023)
+-   📖 Read chapter 38 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (21:57 26 November 2023)
+-   📺 Plans to watch [Endro~!](https://anilist.co/anime/103301) (20:31 26 November 2023)
+-   📺 Paused watching [Helck](https://anilist.co/anime/145140) (19:37 26 November 2023)
+-   📖 Completed [Helck](https://anilist.co/manga/86720) (19:18 26 November 2023)
+-   📖 Read chapter 58 - 106 of [Helck](https://anilist.co/manga/86720) (19:15 26 November 2023)
+-   📖 Plans to read [Helck](https://anilist.co/manga/86720) (15:43 26 November 2023)
+-   📺 Watched episode 12 - 20 of [Helck](https://anilist.co/anime/145140) (15:21 26 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
