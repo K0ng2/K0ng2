@@ -44,12 +44,12 @@ Go           1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Dark Gathering](https://anilist.co/anime/152802) (10:36 27 November 2023)
+-   📖 Read chapter 1 of [Haruka Reset](https://anilist.co/manga/140860) (16:41 27 November 2023)
+-   📖 Read chapter 38 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (16:32 27 November 2023)
+-   📖 Read chapter 348 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (16:28 27 November 2023)
+-   📺 Watched episode 3 - 4 of [Dark Gathering](https://anilist.co/anime/152802) (15:12 27 November 2023)
+-   📺 Watched episode 1 - 2 of [Dark Gathering](https://anilist.co/anime/152802) (12:32 27 November 2023)
 -   📖 Read chapter 38 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (21:57 26 November 2023)
 -   📺 Plans to watch [Endro~!](https://anilist.co/anime/103301) (20:31 26 November 2023)
--   📺 Paused watching [Helck](https://anilist.co/anime/145140) (19:37 26 November 2023)
--   📖 Completed [Helck](https://anilist.co/manga/86720) (19:18 26 November 2023)
--   📖 Read chapter 58 - 106 of [Helck](https://anilist.co/manga/86720) (19:15 26 November 2023)
--   📖 Plans to read [Helck](https://anilist.co/manga/86720) (15:43 26 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
