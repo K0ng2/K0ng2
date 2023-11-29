@@ -44,12 +44,12 @@ SQL          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 6 of [Gokuchuu!](https://anilist.co/manga/135540) (12:29 29 November 2023)
+-   📖 Read chapter 154 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (12:26 29 November 2023)
 -   📖 Completed [Saikyou no Shuzoku ga Ningen datta Ken](https://anilist.co/manga/107305) (16:14 28 November 2023)
 -   📖 Read chapter 53 - 63 of [Saikyou no Shuzoku ga Ningen datta Ken](https://anilist.co/manga/107305) (16:14 28 November 2023)
 -   📺 Watched episode 5 of [Dark Gathering](https://anilist.co/anime/152802) (14:30 28 November 2023)
 -   📖 Read chapter 37 - 52 of [Saikyou no Shuzoku ga Ningen datta Ken](https://anilist.co/manga/107305) (13:51 28 November 2023)
 -   📖 Read chapter 1 - 36 of [Saikyou no Shuzoku ga Ningen datta Ken](https://anilist.co/manga/107305) (06:38 28 November 2023)
--   📖 Read chapter 1 of [Haruka Reset](https://anilist.co/manga/140860) (16:41 27 November 2023)
--   📖 Read chapter 38 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (16:32 27 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
