@@ -44,12 +44,12 @@ Git Config   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Tonikaku Kawaii: Seifuku](https://anilist.co/anime/141212) (23:36 02 December 2023)
+-   📖 Plans to read [Mahou Shoujo ni Akogarete](https://anilist.co/manga/109017) (23:08 02 December 2023)
+-   📺 Watched episode 1 of [Kyoukai no Kanata](https://anilist.co/anime/18153) (22:06 02 December 2023)
+-   📺 Watched episode 8 - 9 of [SPY×FAMILY Season 2](https://anilist.co/anime/158927) (17:25 02 December 2023)
+-   📺 Watched episode 7 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (16:47 02 December 2023)
 -   📖 Read chapter 38 of [Dark Gathering](https://anilist.co/manga/109608) (05:34 02 December 2023)
 -   📖 Read chapter 121 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (05:18 02 December 2023)
--   📺 Watched episode 6 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (04:48 02 December 2023)
--   📺 Watched episode 1 of [Akebi-chan no Sailor Fuku](https://anilist.co/anime/131548) (03:59 02 December 2023)
--   📖 Read chapter 31 - 37 of [Dark Gathering](https://anilist.co/manga/109608) (17:06 30 November 2023)
--   📖 Read chapter 244 of [Parallel Paradise](https://anilist.co/manga/98543) (14:22 30 November 2023)
--   📺 Watched episode 13 - 21 of [Dark Gathering](https://anilist.co/anime/152802) (05:23 30 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
