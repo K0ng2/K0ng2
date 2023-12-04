@@ -43,12 +43,12 @@ Git Config   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Chie-sensei wa Mienai](https://anilist.co/manga/141393) (23:50 03 December 2023)
+-   📖 Read chapter 1 - 19 of [Kaya-chan wa Kowakunai](https://anilist.co/manga/147441) (22:29 03 December 2023)
+-   📖 Plans to read [Usotsuki Satsuki wa Shi ga Mieru](https://anilist.co/manga/120034) (20:26 03 December 2023)
+-   📖 Plans to read [Machigatta ko wo Mahou Shoujo ni Shite Shimatta](https://anilist.co/manga/98285) (20:11 03 December 2023)
+-   📖 Plans to read [Kaya-chan wa Kowakunai](https://anilist.co/manga/147441) (19:59 03 December 2023)
+-   📖 Read chapter 349 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (18:07 03 December 2023)
 -   📖 Read chapter 39 - 51 of [Dark Gathering](https://anilist.co/manga/109608) (05:03 03 December 2023)
--   📺 Completed [Tonikaku Kawaii: Seifuku](https://anilist.co/anime/141212) (23:36 02 December 2023)
--   📖 Plans to read [Mahou Shoujo ni Akogarete](https://anilist.co/manga/109017) (23:08 02 December 2023)
--   📺 Watched episode 1 of [Kyoukai no Kanata](https://anilist.co/anime/18153) (22:06 02 December 2023)
--   📺 Watched episode 8 - 9 of [SPY×FAMILY Season 2](https://anilist.co/anime/158927) (17:25 02 December 2023)
--   📺 Watched episode 7 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (16:47 02 December 2023)
--   📖 Read chapter 38 of [Dark Gathering](https://anilist.co/manga/109608) (05:34 02 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
