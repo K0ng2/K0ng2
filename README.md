@@ -44,12 +44,12 @@ srt          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 15 of [Usotsuki Satsuki wa Shi ga Mieru](https://anilist.co/manga/120034) (01:05 05 December 2023)
+-   📖 Read chapter 41 - 59 of [Usotsuki Satsuki wa Shi ga Mieru](https://anilist.co/manga/120034) (12:27 05 December 2023)
+-   📺 Watched episode 8 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (10:05 05 December 2023)
+-   📖 Plans to read [Hitoribocchi no Chikyuu Shinryaku](https://anilist.co/manga/65551) (06:50 05 December 2023)
+-   📖 Read chapter 1 - 40 of [Usotsuki Satsuki wa Shi ga Mieru](https://anilist.co/manga/120034) (05:10 05 December 2023)
+-   📖 Plans to read [Shi ni Aruki](https://anilist.co/manga/105856) (01:42 05 December 2023)
 -   📖 Read chapter 20 - 27 of [Kaya-chan wa Kowakunai](https://anilist.co/manga/147441) (05:42 04 December 2023)
 -   📖 Plans to read [Chie-sensei wa Mienai](https://anilist.co/manga/141393) (23:50 03 December 2023)
--   📖 Read chapter 1 - 19 of [Kaya-chan wa Kowakunai](https://anilist.co/manga/147441) (22:29 03 December 2023)
--   📖 Plans to read [Usotsuki Satsuki wa Shi ga Mieru](https://anilist.co/manga/120034) (20:26 03 December 2023)
--   📖 Plans to read [Machigatta ko wo Mahou Shoujo ni Shite Shimatta](https://anilist.co/manga/98285) (20:11 03 December 2023)
--   📖 Plans to read [Kaya-chan wa Kowakunai](https://anilist.co/manga/147441) (19:59 03 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
