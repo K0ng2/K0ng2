@@ -44,7 +44,7 @@ srt          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 41 - 59 of [Usotsuki Satsuki wa Shi ga Mieru](https://anilist.co/manga/120034) (12:27 05 December 2023)
+-   📖 Read chapter 41 - 75 of [Usotsuki Satsuki wa Shi ga Mieru](https://anilist.co/manga/120034) (14:29 05 December 2023)
 -   📺 Watched episode 8 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (10:05 05 December 2023)
 -   📖 Plans to read [Hitoribocchi no Chikyuu Shinryaku](https://anilist.co/manga/65551) (06:50 05 December 2023)
 -   📖 Read chapter 1 - 40 of [Usotsuki Satsuki wa Shi ga Mieru](https://anilist.co/manga/120034) (05:10 05 December 2023)
