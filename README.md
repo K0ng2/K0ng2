@@ -44,12 +44,12 @@ ass          1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 39 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (09:11 10 December 2023)
 -   📖 Read chapter 22 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (18:32 09 December 2023)
 -   📺 Watched episode 6 of [Lv1 Maou to One Room Yuusha](https://anilist.co/anime/146836) (15:00 09 December 2023)
 -   📺 Watched episode 5 of [Lv1 Maou to One Room Yuusha](https://anilist.co/anime/146836) (09:38 09 December 2023)
 -   📺 Watched episode 10 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (08:45 09 December 2023)
 -   📺 Watched episode 9 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (13:51 08 December 2023)
 -   📺 Watched episode 10 of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214) (10:02 07 December 2023)
--   📖 Read chapter 155 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (12:02 06 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
