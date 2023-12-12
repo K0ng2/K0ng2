@@ -44,12 +44,12 @@ Git Config   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Dropped [Lust Geass](https://anilist.co/manga/104502) (11:58 12 December 2023)
+-   📖 Read chapter 1 - 9 of [Lust Geass](https://anilist.co/manga/104502) (11:50 12 December 2023)
 -   📖 Read chapter 39 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (14:45 11 December 2023)
 -   📖 Read chapter 350 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (14:40 11 December 2023)
 -   📺 Watched episode 11 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (13:29 11 December 2023)
 -   📺 Dropped [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397) (13:02 11 December 2023)
 -   📺 Watched episode 1 of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397) (12:52 11 December 2023)
--   📖 Plans to read [Lust Geass](https://anilist.co/manga/104502) (12:13 11 December 2023)
--   📖 Plans to read [Ume to Momo no Futsuu no Kurashi   ](https://anilist.co/manga/126746) (10:48 11 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
