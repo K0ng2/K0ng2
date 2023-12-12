@@ -44,12 +44,12 @@ Git Config   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 39 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (14:45 11 December 2023)
+-   📖 Read chapter 350 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (14:40 11 December 2023)
+-   📺 Watched episode 11 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (13:29 11 December 2023)
+-   📺 Dropped [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397) (13:02 11 December 2023)
+-   📺 Watched episode 1 of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397) (12:52 11 December 2023)
 -   📖 Plans to read [Lust Geass](https://anilist.co/manga/104502) (12:13 11 December 2023)
 -   📖 Plans to read [Ume to Momo no Futsuu no Kurashi   ](https://anilist.co/manga/126746) (10:48 11 December 2023)
--   📺 Watched episode 7 - 8 of [Edomae Elf](https://anilist.co/anime/150957) (16:03 10 December 2023)
--   📖 Read chapter 39 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (09:11 10 December 2023)
--   📖 Read chapter 22 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (18:32 09 December 2023)
--   📺 Watched episode 6 of [Lv1 Maou to One Room Yuusha](https://anilist.co/anime/146836) (15:00 09 December 2023)
--   📺 Watched episode 5 of [Lv1 Maou to One Room Yuusha](https://anilist.co/anime/146836) (09:38 09 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
