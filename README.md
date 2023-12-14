@@ -44,12 +44,12 @@ Git Config   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 22 - 28 of [Nande Koko ni Sensei ga!?](https://anilist.co/manga/97827) (00:09 14 December 2023)
+-   📖 Read chapter 19 - 21 of [Nande Koko ni Sensei ga!?](https://anilist.co/manga/97827) (19:32 13 December 2023)
 -   📖 Read chapter 9 - 18 of [Nande Koko ni Sensei ga!?](https://anilist.co/manga/97827) (10:16 13 December 2023)
 -   📖 Read chapter 70 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (09:44 13 December 2023)
 -   📖 Read chapter 28 of [Kaya-chan wa Kowakunai](https://anilist.co/manga/147441) (09:41 13 December 2023)
 -   📖 Read chapter 1 - 8 of [Nande Koko ni Sensei ga!?](https://anilist.co/manga/97827) (18:48 12 December 2023)
 -   📖 Plans to read [Nande Koko ni Sensei ga!?](https://anilist.co/manga/97827) (17:40 12 December 2023)
--   📖 Read chapter 23 - 24 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (17:39 12 December 2023)
--   📖 Dropped [Lust Geass](https://anilist.co/manga/104502) (11:58 12 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
