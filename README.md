@@ -44,12 +44,12 @@ PowerShell   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 5 of [Jashin-chan Dropkick X](https://anilist.co/anime/124641) (16:07 14 December 2023)
+-   📺 Watched episode 11 of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214) (15:46 14 December 2023)
 -   📖 Read chapter 22 - 28 of [Nande Koko ni Sensei ga!?](https://anilist.co/manga/97827) (00:09 14 December 2023)
 -   📖 Read chapter 19 - 21 of [Nande Koko ni Sensei ga!?](https://anilist.co/manga/97827) (19:32 13 December 2023)
 -   📖 Read chapter 9 - 18 of [Nande Koko ni Sensei ga!?](https://anilist.co/manga/97827) (10:16 13 December 2023)
 -   📖 Read chapter 70 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (09:44 13 December 2023)
 -   📖 Read chapter 28 of [Kaya-chan wa Kowakunai](https://anilist.co/manga/147441) (09:41 13 December 2023)
--   📖 Read chapter 1 - 8 of [Nande Koko ni Sensei ga!?](https://anilist.co/manga/97827) (18:48 12 December 2023)
--   📖 Plans to read [Nande Koko ni Sensei ga!?](https://anilist.co/manga/97827) (17:40 12 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
