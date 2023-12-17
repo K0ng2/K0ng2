@@ -44,12 +44,12 @@ Text         14 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 122 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (23:14 16 December 2023)
+-   📺 Watched episode 10 - 11 of [SPY×FAMILY Season 2](https://anilist.co/anime/158927) (19:04 16 December 2023)
 -   📖 Read chapter 76 of [Usotsuki Satsuki wa Shi ga Mieru](https://anilist.co/manga/120034) (06:43 15 December 2023)
 -   📖 Read chapter 249 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (06:38 15 December 2023)
 -   📺 Rewatched episode 5 of [Jashin-chan Dropkick X](https://anilist.co/anime/124641) (16:07 14 December 2023)
 -   📺 Watched episode 11 of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214) (15:46 14 December 2023)
 -   📖 Read chapter 22 - 28 of [Nande Koko ni Sensei ga!?](https://anilist.co/manga/97827) (00:09 14 December 2023)
--   📖 Read chapter 19 - 21 of [Nande Koko ni Sensei ga!?](https://anilist.co/manga/97827) (19:32 13 December 2023)
--   📖 Read chapter 9 - 18 of [Nande Koko ni Sensei ga!?](https://anilist.co/manga/97827) (10:16 13 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
