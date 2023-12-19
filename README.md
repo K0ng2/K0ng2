@@ -44,12 +44,12 @@ CSV          2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Machigatta ko wo Mahou Shoujo ni Shite Shimatta](https://anilist.co/manga/98285) (21:43 18 December 2023)
+-   📖 Read chapter 52 - 55 of [Dark Gathering](https://anilist.co/manga/109608) (21:39 18 December 2023)
+-   📖 Read chapter 245 - 246 of [Parallel Paradise](https://anilist.co/manga/98543) (15:39 18 December 2023)
 -   📺 Watched episode 5 - 9 of [Renai Flops](https://anilist.co/anime/146676) (10:40 18 December 2023)
 -   📺 Watched episode 1 - 4 of [Renai Flops](https://anilist.co/anime/146676) (17:57 17 December 2023)
 -   📖 Plans to read [Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu](https://anilist.co/manga/134709) (17:45 17 December 2023)
 -   📖 Read chapter 122 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (23:14 16 December 2023)
--   📺 Watched episode 10 - 11 of [SPY×FAMILY Season 2](https://anilist.co/anime/158927) (19:04 16 December 2023)
--   📖 Read chapter 76 of [Usotsuki Satsuki wa Shi ga Mieru](https://anilist.co/manga/120034) (06:43 15 December 2023)
--   📖 Read chapter 249 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (06:38 15 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
