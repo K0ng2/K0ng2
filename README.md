@@ -44,12 +44,12 @@ CSV          2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 37 of [Machigatta ko wo Mahou Shoujo ni Shite Shimatta](https://anilist.co/manga/98285) (23:33 19 December 2023)
--   📺 Completed [Dekoboko Majo no Oyako Jijou](https://anilist.co/anime/154454) (19:56 19 December 2023)
--   📖 Read chapter 1 of [Machigatta ko wo Mahou Shoujo ni Shite Shimatta](https://anilist.co/manga/98285) (21:43 18 December 2023)
--   📖 Read chapter 52 - 55 of [Dark Gathering](https://anilist.co/manga/109608) (21:39 18 December 2023)
--   📖 Read chapter 245 - 246 of [Parallel Paradise](https://anilist.co/manga/98543) (15:39 18 December 2023)
--   📺 Watched episode 5 - 9 of [Renai Flops](https://anilist.co/anime/146676) (10:40 18 December 2023)
--   📺 Watched episode 1 - 4 of [Renai Flops](https://anilist.co/anime/146676) (17:57 17 December 2023)
+-   📖 Read chapter 38 - 56 of [Machigatta ko wo Mahou Shoujo ni Shite Shimatta](https://anilist.co/manga/98285) (00:00 21 December 2023)
+-   📖 Dropped [Katainaka no Ossan, Kensei ni Naru: Tada no Inaka no Kenjutsu Shihan Datta noni, Taisei Shita Deshitachi ga Ore wo Hanattekurenai Ken](https://anilist.co/manga/145675) (22:22 20 December 2023)
+-   📺 Completed [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214) (20:21 20 December 2023)
+-   📖 Read chapter 45 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (18:10 20 December 2023)
+-   📖 Read chapter 351 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (18:04 20 December 2023)
+-   📖 Read chapter 151 of [Chainsaw Man](https://anilist.co/manga/105778) (18:00 20 December 2023)
+-   📖 Read chapter 25 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (17:57 20 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
