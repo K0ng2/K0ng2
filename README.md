@@ -44,12 +44,12 @@ TOML         6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Tonikaku Kawaii Season 2](https://anilist.co/anime/141208) (03:36 23 December 2023)
 -   📖 Dropped [Kajiya de Hajimeru Isekai Slow Life](https://anilist.co/manga/127029) (20:05 21 December 2023)
 -   📖 Dropped [Goshujin-sama to Yuku Isekai Survival! THE COMIC](https://anilist.co/manga/123747) (20:05 21 December 2023)
 -   📖 Read chapter 57 - 75 of [Machigatta ko wo Mahou Shoujo ni Shite Shimatta](https://anilist.co/manga/98285) (19:13 21 December 2023)
 -   📖 Read chapter 38 - 56 of [Machigatta ko wo Mahou Shoujo ni Shite Shimatta](https://anilist.co/manga/98285) (00:00 21 December 2023)
 -   📖 Dropped [Katainaka no Ossan, Kensei ni Naru: Tada no Inaka no Kenjutsu Shihan Datta noni, Taisei Shita Deshitachi ga Ore wo Hanattekurenai Ken](https://anilist.co/manga/145675) (22:22 20 December 2023)
 -   📺 Completed [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214) (20:21 20 December 2023)
--   📖 Read chapter 45 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (18:10 20 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
