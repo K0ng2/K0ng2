@@ -44,12 +44,12 @@ Markdown     4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (20:49 24 December 2023)
+-   📺 Watched episode 3 of [Endro~!](https://anilist.co/anime/103301) (18:24 24 December 2023)
 -   📺 Watched episode 2 of [Endro~!](https://anilist.co/anime/103301) (23:41 23 December 2023)
 -   📺 Completed [Endro~!](https://anilist.co/anime/103301) (21:22 23 December 2023)
 -   📖 Read chapter 104 of [Pumpkin Night](https://anilist.co/manga/103082) (15:59 23 December 2023)
 -   📺 Plans to watch [Jii-san Baa-san Wakagaeru](https://anilist.co/anime/168138) (15:31 23 December 2023)
 -   📺 Plans to watch [Kimi wa Meido-sama.](https://anilist.co/anime/172190) (15:20 23 December 2023)
--   📺 Watched episode 1 of [Tonikaku Kawaii Season 2](https://anilist.co/anime/141208) (03:36 23 December 2023)
--   📖 Dropped [Kajiya de Hajimeru Isekai Slow Life](https://anilist.co/manga/127029) (20:05 21 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
