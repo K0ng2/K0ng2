@@ -44,12 +44,12 @@ Git Config   2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 10 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (23:25 25 December 2023)
+-   📖 Read chapter 23 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (19:36 25 December 2023)
+-   📺 Watched episode 4 - 6 of [Endro~!](https://anilist.co/anime/103301) (15:10 25 December 2023)
 -   📖 Read chapter 40 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (20:49 24 December 2023)
 -   📺 Watched episode 3 of [Endro~!](https://anilist.co/anime/103301) (18:24 24 December 2023)
 -   📺 Watched episode 2 of [Endro~!](https://anilist.co/anime/103301) (23:41 23 December 2023)
 -   📺 Completed [Endro~!](https://anilist.co/anime/103301) (21:22 23 December 2023)
--   📖 Read chapter 104 of [Pumpkin Night](https://anilist.co/manga/103082) (15:59 23 December 2023)
--   📺 Plans to watch [Jii-san Baa-san Wakagaeru](https://anilist.co/anime/168138) (15:31 23 December 2023)
--   📺 Plans to watch [Kimi wa Meido-sama.](https://anilist.co/anime/172190) (15:20 23 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
