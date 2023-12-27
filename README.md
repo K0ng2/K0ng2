@@ -44,12 +44,12 @@ Git Config   2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 18 - 22 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (00:53 27 December 2023)
+-   📖 Read chapter 104 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (00:30 27 December 2023)
+-   📖 Read chapter 114 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (00:28 27 December 2023)
+-   📖 Read chapter 11 - 17 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (20:01 26 December 2023)
 -   📖 Read chapter 2 - 10 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (23:25 25 December 2023)
 -   📖 Read chapter 23 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (19:36 25 December 2023)
 -   📺 Watched episode 4 - 6 of [Endro~!](https://anilist.co/anime/103301) (15:10 25 December 2023)
--   📖 Read chapter 40 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (20:49 24 December 2023)
--   📺 Watched episode 3 of [Endro~!](https://anilist.co/anime/103301) (18:24 24 December 2023)
--   📺 Watched episode 2 of [Endro~!](https://anilist.co/anime/103301) (23:41 23 December 2023)
--   📺 Completed [Endro~!](https://anilist.co/anime/103301) (21:22 23 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
