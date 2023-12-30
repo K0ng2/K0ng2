@@ -44,12 +44,12 @@ Makefile     1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 28 - 31 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (22:53 29 December 2023)
+-   📖 Read chapter 55 of [Mieruko-chan](https://anilist.co/manga/105097) (16:00 29 December 2023)
+-   📖 Read chapter 247 of [Parallel Paradise](https://anilist.co/manga/98543) (15:53 29 December 2023)
+-   📺 Plans to watch [Nozomanu Fushi no Boukensha](https://anilist.co/anime/147642) (13:20 29 December 2023)
+-   📺 Plans to watch [Sasaki to Pi-chan](https://anilist.co/anime/152682) (13:17 29 December 2023)
 -   📖 Read chapter 23 - 27 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (21:56 27 December 2023)
 -   📺 Watched episode 7 - 8 of [Endro~!](https://anilist.co/anime/103301) (17:45 27 December 2023)
--   📖 Read chapter 18 - 22 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (00:53 27 December 2023)
--   📖 Read chapter 104 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (00:30 27 December 2023)
--   📖 Read chapter 114 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (00:28 27 December 2023)
--   📖 Read chapter 11 - 17 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (20:01 26 December 2023)
--   📖 Read chapter 2 - 10 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (23:25 25 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
