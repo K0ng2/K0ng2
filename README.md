@@ -44,12 +44,12 @@ Makefile     1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [SPY×FAMILY Season 2](https://anilist.co/anime/158927) (09:12 30 December 2023)
+-   📺 Watched episode 9 of [Endro~!](https://anilist.co/anime/103301) (03:25 30 December 2023)
 -   📖 Read chapter 28 - 31 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (22:53 29 December 2023)
 -   📖 Read chapter 55 of [Mieruko-chan](https://anilist.co/manga/105097) (16:00 29 December 2023)
 -   📖 Read chapter 247 of [Parallel Paradise](https://anilist.co/manga/98543) (15:53 29 December 2023)
 -   📺 Plans to watch [Nozomanu Fushi no Boukensha](https://anilist.co/anime/147642) (13:20 29 December 2023)
 -   📺 Plans to watch [Sasaki to Pi-chan](https://anilist.co/anime/152682) (13:17 29 December 2023)
--   📖 Read chapter 23 - 27 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (21:56 27 December 2023)
--   📺 Watched episode 7 - 8 of [Endro~!](https://anilist.co/anime/103301) (17:45 27 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
