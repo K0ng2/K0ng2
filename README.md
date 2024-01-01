@@ -44,12 +44,12 @@ Makefile     1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Dropped [Negai wo Kanaete Moraou to Akuma wo Shoukan Shita kedo, Kawaikatta node Kekkon Shimashita: Akuma no Niizuma](https://anilist.co/manga/121762) (06:17 01 January 2024)
+-   📖 Dropped [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (06:12 01 January 2024)
+-   📖 Read chapter 32 - 37 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (06:08 01 January 2024)
+-   📖 Read chapter 156 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (05:44 01 January 2024)
 -   📖 Read chapter 123 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (20:23 31 December 2023)
 -   📺 Rewatched episode 7 - 8 of [Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!](https://anilist.co/anime/101227) (18:14 31 December 2023)
 -   📺 Completed [Endro~!](https://anilist.co/anime/103301) (17:49 31 December 2023)
--   📺 Watched episode 10 - 11 of [Endro~!](https://anilist.co/anime/103301) (12:48 31 December 2023)
--   📺 Completed [SPY×FAMILY Season 2](https://anilist.co/anime/158927) (09:12 30 December 2023)
--   📺 Watched episode 9 of [Endro~!](https://anilist.co/anime/103301) (03:25 30 December 2023)
--   📖 Read chapter 28 - 31 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (22:53 29 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
