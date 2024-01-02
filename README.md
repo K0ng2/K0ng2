@@ -44,12 +44,12 @@ Git          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched 12 of [Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!](https://anilist.co/anime/101227) (10:34 02 January 2024)
+-   📺 Rewatched episode 9 - 11 of [Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!](https://anilist.co/anime/101227) (10:19 02 January 2024)
 -   📖 Read chapter 22 - 26 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/manga/109779) (18:38 01 January 2024)
 -   📖 Dropped [Negai wo Kanaete Moraou to Akuma wo Shoukan Shita kedo, Kawaikatta node Kekkon Shimashita: Akuma no Niizuma](https://anilist.co/manga/121762) (06:17 01 January 2024)
 -   📖 Dropped [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (06:12 01 January 2024)
 -   📖 Read chapter 32 - 37 of [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (06:08 01 January 2024)
 -   📖 Read chapter 156 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (05:44 01 January 2024)
--   📖 Read chapter 123 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (20:23 31 December 2023)
--   📺 Rewatched episode 7 - 8 of [Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!](https://anilist.co/anime/101227) (18:14 31 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
