@@ -43,12 +43,12 @@ CSV          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 36 - 53 of [Kenja no Mago](https://anilist.co/manga/87293) (10:12 05 January 2024)
 -   📖 Read chapter 102 of [Gabriel Dropout](https://anilist.co/manga/86864) (19:07 04 January 2024)
 -   📖 Read chapter 39 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (19:04 04 January 2024)
 -   📖 Read chapter 21 - 34 of [Kenja no Mago](https://anilist.co/manga/87293) (18:59 04 January 2024)
 -   📖 Plans to read [Kenja no Mago](https://anilist.co/manga/87293) (15:56 04 January 2024)
 -   📺 Completed [Kenja no Mago](https://anilist.co/anime/100112) (15:37 04 January 2024)
 -   📺 Watched episode 1 - 11 of [Kenja no Mago](https://anilist.co/anime/100112) (15:15 04 January 2024)
--   📺 Plans to watch [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten](https://anilist.co/anime/133007) (05:25 04 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
