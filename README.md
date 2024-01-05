@@ -44,12 +44,12 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Kenja no Mago](https://anilist.co/anime/100112) (12:08 04 January 2024)
+-   📖 Read chapter 102 of [Gabriel Dropout](https://anilist.co/manga/86864) (19:07 04 January 2024)
+-   📖 Read chapter 39 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (19:04 04 January 2024)
+-   📖 Read chapter 21 - 34 of [Kenja no Mago](https://anilist.co/manga/87293) (18:59 04 January 2024)
+-   📖 Plans to read [Kenja no Mago](https://anilist.co/manga/87293) (15:56 04 January 2024)
+-   📺 Completed [Kenja no Mago](https://anilist.co/anime/100112) (15:37 04 January 2024)
+-   📺 Watched episode 1 - 11 of [Kenja no Mago](https://anilist.co/anime/100112) (15:15 04 January 2024)
 -   📺 Plans to watch [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten](https://anilist.co/anime/133007) (05:25 04 January 2024)
--   📺 Rewatched 12 of [Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!](https://anilist.co/anime/101227) (10:34 02 January 2024)
--   📺 Rewatched episode 9 - 11 of [Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!](https://anilist.co/anime/101227) (10:19 02 January 2024)
--   📖 Read chapter 22 - 26 of [Dekoboko Majo no Oyako Jijou](https://anilist.co/manga/109779) (18:38 01 January 2024)
--   📖 Dropped [Negai wo Kanaete Moraou to Akuma wo Shoukan Shita kedo, Kawaikatta node Kekkon Shimashita: Akuma no Niizuma](https://anilist.co/manga/121762) (06:17 01 January 2024)
--   📖 Dropped [Osananajimi to wa Love Come ni Naranai](https://anilist.co/manga/146858) (06:12 01 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
