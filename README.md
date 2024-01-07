@@ -5,7 +5,7 @@
 <!--START_SECTION:all-->
 
 ```markdown
-From: 16 March 2020 - To: 05 January 2024
+From: 16 March 2020 - To: 06 January 2024
 
 Total Time: 1,669 hrs 27 mins
 
