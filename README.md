@@ -40,12 +40,12 @@ Git Config   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632) (11:01 09 January 2024)
+-   📺 Watched episode 1 - 2 of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632) (11:01 09 January 2024)
+-   📺 Plans to watch [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632) (10:18 09 January 2024)
+-   📖 Read chapter 56 of [Dark Gathering](https://anilist.co/manga/109608) (10:04 09 January 2024)
+-   📺 Watched episode 3 of [Kono Healer, Mendokusai](https://anilist.co/anime/132351) (06:44 09 January 2024)
 -   📺 Watched episode 1 - 2 of [Kono Healer, Mendokusai](https://anilist.co/anime/132351) (18:17 08 January 2024)
 -   📖 Read chapter 24 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (20:14 07 January 2024)
--   📺 Watched episode 2 of [Akebi-chan no Sailor Fuku](https://anilist.co/anime/131548) (13:52 07 January 2024)
--   📖 Read chapter 36 - 53 of [Kenja no Mago](https://anilist.co/manga/87293) (10:12 05 January 2024)
--   📖 Read chapter 102 of [Gabriel Dropout](https://anilist.co/manga/86864) (19:07 04 January 2024)
--   📖 Read chapter 39 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (19:04 04 January 2024)
--   📖 Read chapter 21 - 34 of [Kenja no Mago](https://anilist.co/manga/87293) (18:59 04 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
