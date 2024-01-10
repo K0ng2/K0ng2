@@ -40,12 +40,12 @@ Git Config   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 54 - 80 of [Kenja no Mago](https://anilist.co/manga/87293) (23:03 09 January 2024)
 -   📺 Dropped [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632) (11:01 09 January 2024)
 -   📺 Watched episode 1 - 2 of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632) (11:01 09 January 2024)
 -   📺 Plans to watch [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632) (10:18 09 January 2024)
 -   📖 Read chapter 56 of [Dark Gathering](https://anilist.co/manga/109608) (10:04 09 January 2024)
 -   📺 Watched episode 3 of [Kono Healer, Mendokusai](https://anilist.co/anime/132351) (06:44 09 January 2024)
 -   📺 Watched episode 1 - 2 of [Kono Healer, Mendokusai](https://anilist.co/anime/132351) (18:17 08 January 2024)
--   📖 Read chapter 24 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (20:14 07 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
