@@ -41,12 +41,12 @@ Git          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 26 - 43 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (19:48 15 January 2024)
+-   📖 Read chapter 71 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (18:00 15 January 2024)
 -   📖 Read chapter 3 - 25 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (09:31 15 January 2024)
 -   📖 Read chapter 13 of [Tentacle Hole](https://anilist.co/manga/142471) (07:40 15 January 2024)
 -   📖 Read chapter 41 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (07:33 15 January 2024)
 -   📖 Read chapter 1 - 2 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (21:11 14 January 2024)
 -   📖 Completed [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (15:36 13 January 2024)
--   📖 Read chapter 18 - 21 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (15:31 13 January 2024)
--   📖 Read chapter 14 - 17 of [Ichijou-san wa Kao ni Deyasui](https://anilist.co/manga/138830) (05:26 13 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
