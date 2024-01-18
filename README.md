@@ -39,12 +39,12 @@ Git       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 69 - 72 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (22:16 17 January 2024)
+-   📺 Watched episode 1 - 2 of [Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!](https://anilist.co/anime/108388) (21:42 17 January 2024)
+-   📺 Plans to watch [Hachi-nan tte, Sore wa Nai deshou!](https://anilist.co/anime/106319) (18:30 17 January 2024)
+-   📺 Plans to watch [Death March Kara Hajimaru Isekai Kyousoukyoku](https://anilist.co/anime/97907) (18:30 17 January 2024)
+-   📺 Plans to watch [Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!](https://anilist.co/anime/108388) (18:23 17 January 2024)
 -   📖 Read chapter 60 - 68 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (07:43 17 January 2024)
 -   📖 Read chapter 44 - 59 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (22:23 16 January 2024)
--   📖 Read chapter 5 - 24 of [Nozomanu Fushi no Boukensha](https://anilist.co/manga/100693) (16:09 16 January 2024)
--   📺 Watched episode 1 - 2 of [Nozomanu Fushi no Boukensha](https://anilist.co/anime/147642) (11:15 16 January 2024)
--   📖 Read chapter 26 - 43 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (19:48 15 January 2024)
--   📖 Read chapter 71 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (18:00 15 January 2024)
--   📖 Read chapter 3 - 25 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (09:31 15 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
