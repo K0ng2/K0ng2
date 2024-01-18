@@ -40,12 +40,12 @@ JSON         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 - 9 of [Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!](https://anilist.co/anime/108388) (11:14 18 January 2024)
 -   📖 Read chapter 69 - 72 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (22:16 17 January 2024)
 -   📺 Watched episode 1 - 2 of [Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!](https://anilist.co/anime/108388) (21:42 17 January 2024)
 -   📺 Plans to watch [Hachi-nan tte, Sore wa Nai deshou!](https://anilist.co/anime/106319) (18:30 17 January 2024)
 -   📺 Plans to watch [Death March Kara Hajimaru Isekai Kyousoukyoku](https://anilist.co/anime/97907) (18:30 17 January 2024)
 -   📺 Plans to watch [Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!](https://anilist.co/anime/108388) (18:23 17 January 2024)
 -   📖 Read chapter 60 - 68 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (07:43 17 January 2024)
--   📖 Read chapter 44 - 59 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (22:23 16 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
