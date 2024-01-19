@@ -40,12 +40,12 @@ JSON         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 9 of [Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!](https://anilist.co/anime/108388) (11:14 18 January 2024)
--   📖 Read chapter 69 - 72 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (22:16 17 January 2024)
--   📺 Watched episode 1 - 2 of [Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!](https://anilist.co/anime/108388) (21:42 17 January 2024)
--   📺 Plans to watch [Hachi-nan tte, Sore wa Nai deshou!](https://anilist.co/anime/106319) (18:30 17 January 2024)
--   📺 Plans to watch [Death March Kara Hajimaru Isekai Kyousoukyoku](https://anilist.co/anime/97907) (18:30 17 January 2024)
--   📺 Plans to watch [Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!](https://anilist.co/anime/108388) (18:23 17 January 2024)
--   📖 Read chapter 60 - 68 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (07:43 17 January 2024)
+-   📖 Read chapter 7 of [Gokuchuu!](https://anilist.co/manga/135540) (19:30 18 January 2024)
+-   📖 Read chapter 115 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (19:28 18 January 2024)
+-   📖 Read chapter 248 of [Parallel Paradise](https://anilist.co/manga/98543) (19:21 18 January 2024)
+-   📖 Read chapter 157 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (19:19 18 January 2024)
+-   📖 Completed [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (19:15 18 January 2024)
+-   📖 Read chapter 73 of [Demi-chan wa Kataritai](https://anilist.co/manga/86898) (19:14 18 January 2024)
+-   📖 Plans to read [Bonnou☆Saiyuuki](https://anilist.co/manga/118462) (12:31 18 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
