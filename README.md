@@ -41,12 +41,12 @@ JSON         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 26 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (18:59 21 January 2024)
+-   📖 Read chapter 29 - 32 of [Kaya-chan wa Kowakunai](https://anilist.co/manga/147441) (18:56 21 January 2024)
 -   📖 Read chapter 1 - 15 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (23:05 20 January 2024)
 -   📖 Read chapter 40 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (22:38 20 January 2024)
 -   📺 Watched episode 1 - 3 of [Death March Kara Hajimaru Isekai Kyousoukyoku](https://anilist.co/anime/97907) (20:18 20 January 2024)
 -   📖 Plans to read [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (09:30 19 January 2024)
 -   📖 Read chapter 124 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (09:27 19 January 2024)
--   📖 Read chapter 31 of [Dungeon no Osananajimi](https://anilist.co/manga/149323) (09:23 19 January 2024)
--   📖 Read chapter 7 of [Gokuchuu!](https://anilist.co/manga/135540) (19:30 18 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
