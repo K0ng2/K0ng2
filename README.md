@@ -41,12 +41,12 @@ JSON         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 19 - 24 of [Binbang Isseoyo?](https://anilist.co/manga/129808) (21:02 22 January 2024)
+-   📖 Plans to read [Doukyonin ga Konoyo no Mon Janai](https://anilist.co/manga/157992) (20:32 22 January 2024)
+-   📖 Read chapter 93 of [Sewayaki Kitsune no Senko-san](https://anilist.co/manga/100584) (20:28 22 January 2024)
+-   📖 Read chapter 36 - 37 of [S-Rank Boukensha de Aru Ore no Musumetachi wa Juudo no Father-con Deshita](https://anilist.co/manga/119821) (20:25 22 January 2024)
+-   📖 Read chapter 1 - 18 of [Binbang Isseoyo?](https://anilist.co/manga/129808) (15:45 22 January 2024)
+-   📖 Read chapter 27 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (13:53 22 January 2024)
 -   📺 Watched episode 3 - 5 of [Peach Boy Riverside](https://anilist.co/anime/122441) (11:27 22 January 2024)
--   📺 Watched episode 1 - 2 of [Peach Boy Riverside](https://anilist.co/anime/122441) (08:38 22 January 2024)
--   📺 Plans to watch [Peach Boy Riverside](https://anilist.co/anime/122441) (04:44 22 January 2024)
--   📖 Read chapter 26 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (18:59 21 January 2024)
--   📖 Read chapter 29 - 32 of [Kaya-chan wa Kowakunai](https://anilist.co/manga/147441) (18:56 21 January 2024)
--   📖 Read chapter 1 - 15 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (23:05 20 January 2024)
--   📖 Read chapter 40 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (22:38 20 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
