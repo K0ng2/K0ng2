@@ -40,12 +40,12 @@ JSON         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 14 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (19:56 23 January 2024)
+-   📖 Read chapter 249 of [Parallel Paradise](https://anilist.co/manga/98543) (18:50 23 January 2024)
+-   📖 Read chapter 153 of [Chainsaw Man](https://anilist.co/manga/105778) (18:49 23 January 2024)
+-   📺 Completed [Peach Boy Riverside](https://anilist.co/anime/122441) (18:22 23 January 2024)
+-   📺 Watched episode 10 - 11 of [Peach Boy Riverside](https://anilist.co/anime/122441) (18:13 23 January 2024)
+-   📺 Watched episode 6 - 9 of [Peach Boy Riverside](https://anilist.co/anime/122441) (15:56 23 January 2024)
 -   📖 Read chapter 19 - 24 of [Binbang Isseoyo?](https://anilist.co/manga/129808) (21:02 22 January 2024)
--   📖 Plans to read [Doukyonin ga Konoyo no Mon Janai](https://anilist.co/manga/157992) (20:32 22 January 2024)
--   📖 Read chapter 93 of [Sewayaki Kitsune no Senko-san](https://anilist.co/manga/100584) (20:28 22 January 2024)
--   📖 Read chapter 36 - 37 of [S-Rank Boukensha de Aru Ore no Musumetachi wa Juudo no Father-con Deshita](https://anilist.co/manga/119821) (20:25 22 January 2024)
--   📖 Read chapter 1 - 18 of [Binbang Isseoyo?](https://anilist.co/manga/129808) (15:45 22 January 2024)
--   📖 Read chapter 27 of [Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.](https://anilist.co/manga/162509) (13:53 22 January 2024)
--   📺 Watched episode 3 - 5 of [Peach Boy Riverside](https://anilist.co/anime/122441) (11:27 22 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
