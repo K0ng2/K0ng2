@@ -40,12 +40,12 @@ JSON         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 34 - 52 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (20:56 25 January 2024)
 -   📖 Read chapter 18 - 33 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (22:53 24 January 2024)
 -   📖 Read chapter 15 - 17 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (17:06 24 January 2024)
 -   📖 Read chapter 1 - 14 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (19:56 23 January 2024)
 -   📖 Read chapter 249 of [Parallel Paradise](https://anilist.co/manga/98543) (18:50 23 January 2024)
 -   📖 Read chapter 153 of [Chainsaw Man](https://anilist.co/manga/105778) (18:49 23 January 2024)
 -   📺 Completed [Peach Boy Riverside](https://anilist.co/anime/122441) (18:22 23 January 2024)
--   📺 Watched episode 10 - 11 of [Peach Boy Riverside](https://anilist.co/anime/122441) (18:13 23 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
