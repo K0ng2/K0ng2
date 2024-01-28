@@ -42,12 +42,12 @@ Text         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 65 - 77 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (00:07 28 January 2024)
+-   📺 Rewatched episode 2 - 4 of [Musaigen no Phantom World](https://anilist.co/anime/21306) (21:13 27 January 2024)
 -   📖 Read chapter 53 - 64 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (09:17 27 January 2024)
 -   📖 Read chapter 16 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (19:49 26 January 2024)
 -   📺 Watched episode 1 - 4 of [Maou-sama, Retry!](https://anilist.co/anime/104252) (18:25 26 January 2024)
 -   📺 Plans to watch [Maou-sama, Retry!](https://anilist.co/anime/104252) (12:54 26 January 2024)
 -   📖 Read chapter 34 - 52 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (20:56 25 January 2024)
--   📖 Read chapter 18 - 33 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (22:53 24 January 2024)
--   📖 Read chapter 15 - 17 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (17:06 24 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
