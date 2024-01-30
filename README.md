@@ -44,12 +44,12 @@ SQL          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 4 of [Kemono Michi](https://anilist.co/manga/103843) (00:47 30 January 2024)
+-   📖 Read chapter 11 - 14 of [Kemono Michi](https://anilist.co/manga/103843) (05:53 30 January 2024)
+-   📖 Read chapter 1 - 10 of [Kemono Michi](https://anilist.co/manga/103843) (02:40 30 January 2024)
 -   📺 Watched episode 5 - 7 of [Ueno-san wa Bukiyou](https://anilist.co/anime/101773) (14:19 29 January 2024)
 -   📖 Plans to read [Kemono Michi](https://anilist.co/manga/103843) (11:35 29 January 2024)
 -   📺 Plans to watch [Ueno-san wa Bukiyou](https://anilist.co/anime/101773) (11:13 29 January 2024)
 -   📖 Read chapter 78 - 81 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (22:00 28 January 2024)
 -   📖 Read chapter 105 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (21:46 28 January 2024)
--   📖 Read chapter 65 - 77 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (00:07 28 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
