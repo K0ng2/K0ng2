@@ -44,12 +44,12 @@ SQL          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 - 13 of [Ueno-san wa Bukiyou](https://anilist.co/manga/86739) (04:31 31 January 2024)
+-   📖 Plans to read [Ueno-san wa Bukiyou](https://anilist.co/manga/86739) (04:23 31 January 2024)
+-   📖 Read chapter 154 of [Chainsaw Man](https://anilist.co/manga/105778) (04:21 31 January 2024)
+-   📖 Read chapter 21 - 26 of [Kemono Michi](https://anilist.co/manga/103843) (04:09 31 January 2024)
 -   📖 Read chapter 10 of [Kaguhara-san no Fetish Note](https://anilist.co/manga/141152) (20:38 30 January 2024)
 -   📖 Read chapter 250 of [Parallel Paradise](https://anilist.co/manga/98543) (20:31 30 January 2024)
 -   📖 Read chapter 82 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (20:27 30 January 2024)
--   📺 Completed [Ueno-san wa Bukiyou](https://anilist.co/anime/101773) (18:49 30 January 2024)
--   📺 Watched episode 8 - 11 of [Ueno-san wa Bukiyou](https://anilist.co/anime/101773) (18:37 30 January 2024)
--   📖 Read chapter 15 - 20 of [Kemono Michi](https://anilist.co/manga/103843) (13:33 30 January 2024)
--   📖 Read chapter 11 - 14 of [Kemono Michi](https://anilist.co/manga/103843) (05:53 30 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
