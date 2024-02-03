@@ -43,12 +43,12 @@ SQL          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 27 - 31 of [Kemono Michi](https://anilist.co/manga/103843) (08:31 03 February 2024)
+-   📖 Read chapter 17 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (08:05 03 February 2024)
+-   📖 Read chapter 86 of [Jahy-sama wa Kujikenai!](https://anilist.co/manga/100207) (08:04 03 February 2024)
+-   📺 Completed [Summer Time Render](https://anilist.co/anime/129201) (04:11 03 February 2024)
+-   📺 Watched episode 17 - 24 of [Summer Time Render](https://anilist.co/anime/129201) (04:11 03 February 2024)
 -   📺 Watched episode 14 - 16 of [Summer Time Render](https://anilist.co/anime/129201) (22:03 01 February 2024)
 -   📺 Watched episode 9 - 13 of [Summer Time Render](https://anilist.co/anime/129201) (07:30 01 February 2024)
--   📺 Watched episode 1 - 8 of [Summer Time Render](https://anilist.co/anime/129201) (19:53 31 January 2024)
--   📖 Read chapter 5 - 13 of [Ueno-san wa Bukiyou](https://anilist.co/manga/86739) (04:31 31 January 2024)
--   📖 Plans to read [Ueno-san wa Bukiyou](https://anilist.co/manga/86739) (04:23 31 January 2024)
--   📖 Read chapter 154 of [Chainsaw Man](https://anilist.co/manga/105778) (04:21 31 January 2024)
--   📖 Read chapter 21 - 26 of [Kemono Michi](https://anilist.co/manga/103843) (04:09 31 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
