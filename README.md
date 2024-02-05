@@ -42,12 +42,12 @@ SQL          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 - 10 of [Futoku no Guild](https://anilist.co/anime/146233) (00:57 05 February 2024)
 -   📺 Watched episode 5 - 8 of [Futoku no Guild](https://anilist.co/anime/146233) (11:26 04 February 2024)
 -   📺 Watched episode 2 - 4 of [Futoku no Guild](https://anilist.co/anime/146233) (06:06 04 February 2024)
 -   📺 Watched episode 1 of [Futoku no Guild](https://anilist.co/anime/146233) (00:28 04 February 2024)
 -   📺 Rewatched episode 5 - 11 of [Musaigen no Phantom World](https://anilist.co/anime/21306) (22:47 03 February 2024)
 -   📖 Read chapter 27 - 31 of [Kemono Michi](https://anilist.co/manga/103843) (08:31 03 February 2024)
 -   📖 Read chapter 17 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (08:05 03 February 2024)
--   📖 Read chapter 86 of [Jahy-sama wa Kujikenai!](https://anilist.co/manga/100207) (08:04 03 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
