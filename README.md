@@ -41,12 +41,12 @@ PowerShell   2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 45 - 47 of [Futoku no Guild](https://anilist.co/manga/99933) (18:51 05 February 2024)
+-   📖 Read chapter 46 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (17:20 05 February 2024)
+-   📖 Read chapter 42 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (17:11 05 February 2024)
+-   📺 Watched episode 1 of [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (14:18 05 February 2024)
 -   📖 Plans to read [Kono Subarashii Sekai ni Shukufuku wo!](https://anilist.co/manga/85702) (12:12 05 February 2024)
 -   📖 Read chapter 29 - 44 of [Futoku no Guild](https://anilist.co/manga/99933) (09:31 05 February 2024)
 -   📖 Read chapter 27 - 28 of [Futoku no Guild](https://anilist.co/manga/99933) (02:15 05 February 2024)
--   📖 Plans to read [Futoku no Guild](https://anilist.co/manga/99933) (02:03 05 February 2024)
--   📺 Completed [Futoku no Guild](https://anilist.co/anime/146233) (02:00 05 February 2024)
--   📺 Watched episode 9 - 11 of [Futoku no Guild](https://anilist.co/anime/146233) (01:28 05 February 2024)
--   📺 Watched episode 5 - 8 of [Futoku no Guild](https://anilist.co/anime/146233) (11:26 04 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
