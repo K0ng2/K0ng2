@@ -42,12 +42,12 @@ JSON         1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 41 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (16:06 07 February 2024)
 -   📖 Read chapter 65 - 69 of [Futoku no Guild](https://anilist.co/manga/99933) (06:25 07 February 2024)
 -   📖 Read chapter 40 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:44 07 February 2024)
 -   📖 Read chapter 48 - 64 of [Futoku no Guild](https://anilist.co/manga/99933) (09:26 06 February 2024)
 -   📖 Read chapter 45 - 47 of [Futoku no Guild](https://anilist.co/manga/99933) (18:51 05 February 2024)
 -   📖 Read chapter 46 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (17:20 05 February 2024)
 -   📖 Read chapter 42 of [Chieri no Koi wa 8 Meter](https://anilist.co/manga/155228) (17:11 05 February 2024)
--   📺 Watched episode 1 of [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (14:18 05 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
