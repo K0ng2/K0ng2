@@ -41,12 +41,12 @@ Other     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (06:51 09 February 2024)
 -   📺 Watched episode 1 of [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (11:27 08 February 2024)
 -   📺 Plans to watch [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (11:07 08 February 2024)
 -   📺 Plans to watch [Henjin no Salad Bowl](https://anilist.co/anime/166828) (09:19 08 February 2024)
 -   📖 Read chapter 41 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (16:06 07 February 2024)
 -   📖 Read chapter 65 - 69 of [Futoku no Guild](https://anilist.co/manga/99933) (06:25 07 February 2024)
 -   📖 Read chapter 40 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (05:44 07 February 2024)
--   📖 Read chapter 48 - 64 of [Futoku no Guild](https://anilist.co/manga/99933) (09:26 06 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
