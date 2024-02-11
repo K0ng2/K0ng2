@@ -41,12 +41,12 @@ Other     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (14:49 10 February 2024)
 -   📖 Read chapter 38 of [S-Rank Boukensha de Aru Ore no Musumetachi wa Juudo no Father-con Deshita](https://anilist.co/manga/119821) (19:02 09 February 2024)
 -   📖 Read chapter 57 of [Dark Gathering](https://anilist.co/manga/109608) (18:54 09 February 2024)
 -   📖 Read chapter 18 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (18:43 09 February 2024)
 -   📺 Watched episode 2 of [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (06:51 09 February 2024)
 -   📺 Watched episode 1 of [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (11:27 08 February 2024)
 -   📺 Plans to watch [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (11:07 08 February 2024)
--   📺 Plans to watch [Henjin no Salad Bowl](https://anilist.co/anime/166828) (09:19 08 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
