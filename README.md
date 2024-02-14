@@ -44,12 +44,12 @@ Sublime Text Config   5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 103 of [Gabriel Dropout](https://anilist.co/manga/86864) (21:10 13 February 2024)
+-   📖 Read chapter 155 of [Chainsaw Man](https://anilist.co/manga/105778) (21:02 13 February 2024)
+-   📖 Read chapter 72 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (20:59 13 February 2024)
+-   📖 Read chapter 125 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (20:58 13 February 2024)
+-   📺 Completed [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (18:01 13 February 2024)
+-   📺 Watched episode 12 of [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (17:11 13 February 2024)
 -   📖 Read chapter 106 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (14:31 12 February 2024)
--   📺 Watched episode 11 of [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (06:27 12 February 2024)
--   📺 Watched episode 8 - 10 of [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (17:16 11 February 2024)
--   📺 Watched episode 4 - 7 of [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (07:07 11 February 2024)
--   📺 Watched episode 3 of [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (14:49 10 February 2024)
--   📖 Read chapter 38 of [S-Rank Boukensha de Aru Ore no Musumetachi wa Juudo no Father-con Deshita](https://anilist.co/manga/119821) (19:02 09 February 2024)
--   📖 Read chapter 57 of [Dark Gathering](https://anilist.co/manga/109608) (18:54 09 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
