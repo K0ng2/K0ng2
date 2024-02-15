@@ -44,12 +44,12 @@ Sublime Text Config   5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 158 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (21:18 14 February 2024)
 -   📖 Read chapter 103 of [Gabriel Dropout](https://anilist.co/manga/86864) (21:10 13 February 2024)
 -   📖 Read chapter 155 of [Chainsaw Man](https://anilist.co/manga/105778) (21:02 13 February 2024)
 -   📖 Read chapter 72 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (20:59 13 February 2024)
 -   📖 Read chapter 125 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (20:58 13 February 2024)
 -   📺 Completed [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (18:01 13 February 2024)
 -   📺 Watched episode 12 of [Princess Connect! Re:Dive](https://anilist.co/anime/107871) (17:11 13 February 2024)
--   📖 Read chapter 106 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (14:31 12 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
