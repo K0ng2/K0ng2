@@ -44,12 +44,12 @@ Sublime Text Config   7 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 - 7 of [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (20:44 16 February 2024)
 -   📺 Watched episode 4 - 5 of [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (16:05 15 February 2024)
 -   📺 Watched episode 2 - 3 of [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (10:15 15 February 2024)
 -   📖 Read chapter 158 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (21:18 14 February 2024)
 -   📖 Read chapter 103 of [Gabriel Dropout](https://anilist.co/manga/86864) (21:10 13 February 2024)
 -   📖 Read chapter 155 of [Chainsaw Man](https://anilist.co/manga/105778) (21:02 13 February 2024)
 -   📖 Read chapter 72 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (20:59 13 February 2024)
--   📖 Read chapter 125 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (20:58 13 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
