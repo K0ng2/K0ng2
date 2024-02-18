@@ -44,12 +44,12 @@ Go                    11 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (11:16 18 February 2024)
+-   📖 Read chapter 1 - 6 of [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (02:25 18 February 2024)
 -   📖 Read chapter 25 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (23:19 17 February 2024)
 -   📖 Read chapter 33 of [Kaya-chan wa Kowakunai](https://anilist.co/manga/147441) (23:15 17 February 2024)
 -   📺 Watched episode 8 - 10 of [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (19:39 17 February 2024)
 -   📺 Watched episode 6 - 7 of [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (20:44 16 February 2024)
 -   📺 Watched episode 4 - 5 of [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (16:05 15 February 2024)
--   📺 Watched episode 2 - 3 of [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (10:15 15 February 2024)
--   📖 Read chapter 158 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (21:18 14 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
