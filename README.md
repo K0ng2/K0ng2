@@ -44,12 +44,12 @@ Python                11 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 24 of [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (08:37 19 February 2024)
+-   📖 Read chapter 14 - 20 of [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (04:41 19 February 2024)
 -   📖 Read chapter 7 - 13 of [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (18:40 18 February 2024)
 -   📺 Completed [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (11:16 18 February 2024)
 -   📖 Read chapter 1 - 6 of [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (02:25 18 February 2024)
 -   📖 Read chapter 25 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (23:19 17 February 2024)
 -   📖 Read chapter 33 of [Kaya-chan wa Kowakunai](https://anilist.co/manga/147441) (23:15 17 February 2024)
--   📺 Watched episode 8 - 10 of [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (19:39 17 February 2024)
--   📺 Watched episode 6 - 7 of [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (20:44 16 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
