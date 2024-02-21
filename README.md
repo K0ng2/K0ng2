@@ -44,12 +44,12 @@ Markdown              3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 5 of ["Ano Toki Tasukete Itadaita Monster Musume desu." Isekai Ossan Kyoushi Totsuzen no Moteki ni Konwakusuru ](https://anilist.co/manga/173492) (03:21 21 February 2024)
+-   📖 Plans to read ["Ano Toki Tasukete Itadaita Monster Musume desu." Isekai Ossan Kyoushi Totsuzen no Moteki ni Konwakusuru ](https://anilist.co/manga/173492) (02:40 21 February 2024)
+-   📺 Rewatched episode 2 - 4 of [Shinmai Renkinjutsushi no Tenpo Keiei](https://anilist.co/anime/139369) (02:02 21 February 2024)
 -   📖 Read chapter 25 - 27 of [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (20:25 19 February 2024)
 -   📺 Dropped [Sasaki to Pii-chan](https://anilist.co/anime/152682) (18:34 19 February 2024)
 -   📺 Watched episode 1 - 3 of [Sasaki to Pii-chan](https://anilist.co/anime/152682) (18:31 19 February 2024)
 -   📖 Read chapter 24 of [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (08:37 19 February 2024)
--   📖 Read chapter 14 - 20 of [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (04:41 19 February 2024)
--   📖 Read chapter 7 - 13 of [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (18:40 18 February 2024)
--   📺 Completed [4-nin wa Sorezore Uso wo Tsuku](https://anilist.co/anime/146962) (11:16 18 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
