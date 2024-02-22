@@ -44,12 +44,12 @@ Markdown              3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 5 - 6 of [Shinmai Renkinjutsushi no Tenpo Keiei](https://anilist.co/anime/139369) (00:44 22 February 2024)
+-   📖 Read chapter 1 - 26 of [GREEN WORLDZ](https://anilist.co/manga/85504) (22:42 21 February 2024)
+-   📖 Read chapter 70 of [Futoku no Guild](https://anilist.co/manga/99933) (21:07 21 February 2024)
 -   📖 Read chapter 1 - 5 of ["Ano Toki Tasukete Itadaita Monster Musume desu." Isekai Ossan Kyoushi Totsuzen no Moteki ni Konwakusuru ](https://anilist.co/manga/173492) (03:21 21 February 2024)
 -   📖 Plans to read ["Ano Toki Tasukete Itadaita Monster Musume desu." Isekai Ossan Kyoushi Totsuzen no Moteki ni Konwakusuru ](https://anilist.co/manga/173492) (02:40 21 February 2024)
 -   📺 Rewatched episode 2 - 4 of [Shinmai Renkinjutsushi no Tenpo Keiei](https://anilist.co/anime/139369) (02:02 21 February 2024)
 -   📖 Read chapter 25 - 27 of [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (20:25 19 February 2024)
--   📺 Dropped [Sasaki to Pii-chan](https://anilist.co/anime/152682) (18:34 19 February 2024)
--   📺 Watched episode 1 - 3 of [Sasaki to Pii-chan](https://anilist.co/anime/152682) (18:31 19 February 2024)
--   📖 Read chapter 24 of [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (08:37 19 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
