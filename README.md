@@ -44,12 +44,12 @@ SQL                   4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 27 - 79 of [GREEN WORLDZ](https://anilist.co/manga/85504) (01:01 23 February 2024)
+-   📺 Watched episode 1 - 2 of [Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?](https://anilist.co/anime/104723) (23:04 22 February 2024)
+-   📺 Plans to watch [Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?](https://anilist.co/anime/104723) (21:46 22 February 2024)
+-   📺 Plans to watch [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501) (20:45 22 February 2024)
+-   📖 Plans to read [Kasane](https://anilist.co/manga/85198) (20:03 22 February 2024)
+-   📺 Plans to watch [Tengoku Daimakyou](https://anilist.co/anime/155783) (18:26 22 February 2024)
 -   📺 Rewatched episode 5 - 6 of [Shinmai Renkinjutsushi no Tenpo Keiei](https://anilist.co/anime/139369) (00:44 22 February 2024)
--   📖 Read chapter 1 - 26 of [GREEN WORLDZ](https://anilist.co/manga/85504) (22:42 21 February 2024)
--   📖 Read chapter 70 of [Futoku no Guild](https://anilist.co/manga/99933) (21:07 21 February 2024)
--   📖 Read chapter 1 - 5 of ["Ano Toki Tasukete Itadaita Monster Musume desu." Isekai Ossan Kyoushi Totsuzen no Moteki ni Konwakusuru ](https://anilist.co/manga/173492) (03:21 21 February 2024)
--   📖 Plans to read ["Ano Toki Tasukete Itadaita Monster Musume desu." Isekai Ossan Kyoushi Totsuzen no Moteki ni Konwakusuru ](https://anilist.co/manga/173492) (02:40 21 February 2024)
--   📺 Rewatched episode 2 - 4 of [Shinmai Renkinjutsushi no Tenpo Keiei](https://anilist.co/anime/139369) (02:02 21 February 2024)
--   📖 Read chapter 25 - 27 of [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (20:25 19 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
