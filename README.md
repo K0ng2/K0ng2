@@ -44,12 +44,12 @@ SQL                   4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 27 - 79 of [GREEN WORLDZ](https://anilist.co/manga/85504) (01:01 23 February 2024)
+-   📖 Read chapter 116 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (02:16 23 February 2024)
+-   📖 Read chapter 83 - 84 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (02:08 23 February 2024)
+-   📖 Read chapter 250 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (02:03 23 February 2024)
+-   📖 Completed [GREEN WORLDZ](https://anilist.co/manga/85504) (01:58 23 February 2024)
+-   📖 Read chapter 27 - 112 of [GREEN WORLDZ](https://anilist.co/manga/85504) (01:55 23 February 2024)
 -   📺 Watched episode 1 - 2 of [Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?](https://anilist.co/anime/104723) (23:04 22 February 2024)
 -   📺 Plans to watch [Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?](https://anilist.co/anime/104723) (21:46 22 February 2024)
--   📺 Plans to watch [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501) (20:45 22 February 2024)
--   📖 Plans to read [Kasane](https://anilist.co/manga/85198) (20:03 22 February 2024)
--   📺 Plans to watch [Tengoku Daimakyou](https://anilist.co/anime/155783) (18:26 22 February 2024)
--   📺 Rewatched episode 5 - 6 of [Shinmai Renkinjutsushi no Tenpo Keiei](https://anilist.co/anime/139369) (00:44 22 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
