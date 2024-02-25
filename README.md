@@ -44,12 +44,12 @@ XML                   6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 126 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (03:54 25 February 2024)
 -   📖 Plans to read [Senryuu Shoujo](https://anilist.co/manga/99183) (04:05 24 February 2024)
 -   📺 Rewatched episode 7 of [Shinmai Renkinjutsushi no Tenpo Keiei](https://anilist.co/anime/139369) (23:13 23 February 2024)
 -   📖 Read chapter 19 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (22:21 23 February 2024)
 -   📖 Read chapter 26 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (21:12 23 February 2024)
 -   📺 Dropped [Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?](https://anilist.co/anime/104723) (16:42 23 February 2024)
 -   📺 Watched episode 3 of [Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?](https://anilist.co/anime/104723) (16:42 23 February 2024)
--   📖 Read chapter 116 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (02:16 23 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
