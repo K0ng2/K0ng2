@@ -44,12 +44,12 @@ Markdown              3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Houkago Teibou Nisshi](https://anilist.co/anime/109019) (07:23 26 February 2024)
+-   📺 Plans to watch [Rikei ga Koi ni Ochita no de Shoumei shitemita.](https://anilist.co/anime/107067) (07:22 26 February 2024)
+-   📺 Plans to watch [Kakushigoto](https://anilist.co/anime/113311) (07:20 26 February 2024)
+-   📺 Plans to watch [Megami-ryou no Ryoubo-kun.](https://anilist.co/anime/117989) (07:18 26 February 2024)
 -   📖 Read chapter 83 - 85 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (01:02 26 February 2024)
 -   📖 Plans to read [Onii-chan wa Oshimai! Koushiki Anthology Comic](https://anilist.co/manga/136495) (00:50 26 February 2024)
 -   📖 Read chapter 126 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (03:54 25 February 2024)
--   📖 Plans to read [Senryuu Shoujo](https://anilist.co/manga/99183) (04:05 24 February 2024)
--   📺 Rewatched episode 7 of [Shinmai Renkinjutsushi no Tenpo Keiei](https://anilist.co/anime/139369) (23:13 23 February 2024)
--   📖 Read chapter 19 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (22:21 23 February 2024)
--   📖 Read chapter 26 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (21:12 23 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
