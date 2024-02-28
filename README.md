@@ -44,12 +44,12 @@ XML                   5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 156 of [Chainsaw Man](https://anilist.co/manga/105778) (17:01 27 February 2024)
+-   📺 Watched episode 1 of [Toji no Miko](https://anilist.co/anime/98747) (16:03 27 February 2024)
 -   📺 Plans to watch [Toji no Miko](https://anilist.co/anime/98747) (08:09 27 February 2024)
 -   📖 Read chapter 87 of [Jahy-sama wa Kujikenai!](https://anilist.co/manga/100207) (06:23 27 February 2024)
 -   📺 Plans to watch [Houkago Teibou Nisshi](https://anilist.co/anime/109019) (07:23 26 February 2024)
 -   📺 Plans to watch [Rikei ga Koi ni Ochita no de Shoumei shitemita.](https://anilist.co/anime/107067) (07:22 26 February 2024)
 -   📺 Plans to watch [Kakushigoto](https://anilist.co/anime/113311) (07:20 26 February 2024)
--   📺 Plans to watch [Megami-ryou no Ryoubo-kun.](https://anilist.co/anime/117989) (07:18 26 February 2024)
--   📖 Read chapter 83 - 85 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (01:02 26 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
