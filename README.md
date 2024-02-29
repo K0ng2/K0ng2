@@ -44,7 +44,7 @@ XML                   5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 5 of [Toji no Miko](https://anilist.co/anime/98747) (12:04 28 February 2024)
+-   📺 Watched episode 2 - 6 of [Toji no Miko](https://anilist.co/anime/98747) (12:34 28 February 2024)
 -   📖 Read chapter 156 of [Chainsaw Man](https://anilist.co/manga/105778) (17:01 27 February 2024)
 -   📺 Watched episode 1 of [Toji no Miko](https://anilist.co/anime/98747) (16:03 27 February 2024)
 -   📺 Plans to watch [Toji no Miko](https://anilist.co/anime/98747) (08:09 27 February 2024)
