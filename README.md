@@ -44,12 +44,12 @@ XML                   5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 230 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (17:04 01 March 2024)
+-   📖 Read chapter 251 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (14:15 01 March 2024)
 -   📺 Watched episode 14 of [Toji no Miko](https://anilist.co/anime/98747) (11:52 01 March 2024)
 -   📖 Read chapter 1 - 2 of [Onii-chan wa Oshimai! Koushiki Anthology Comic](https://anilist.co/manga/136495) (08:07 01 March 2024)
 -   📺 Watched episode 13 of [Toji no Miko](https://anilist.co/anime/98747) (05:46 01 March 2024)
 -   📺 Watched episode 9 - 12 of [Toji no Miko](https://anilist.co/anime/98747) (15:40 29 February 2024)
 -   📺 Watched episode 7 - 8 of [Toji no Miko](https://anilist.co/anime/98747) (10:51 29 February 2024)
--   📺 Watched episode 2 - 6 of [Toji no Miko](https://anilist.co/anime/98747) (12:34 28 February 2024)
--   📖 Read chapter 156 of [Chainsaw Man](https://anilist.co/manga/105778) (17:01 27 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
