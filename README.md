@@ -44,12 +44,12 @@ Markdown   1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 6 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (12:18 03 March 2024)
+-   📖 Read chapter 11 - 15 of [Eroi Koto Suru Tame ni Kyonyuu Bishoujo Dorei wo Katta Hazu ga, Oshishou-sama to Shitawarete Omotta Toori ni Ikanaku Naru Hanashi  ](https://anilist.co/manga/144362) (03:13 03 March 2024)
 -   📖 Read chapter 1 - 10 of [Eroi Koto Suru Tame ni Kyonyuu Bishoujo Dorei wo Katta Hazu ga, Oshishou-sama to Shitawarete Omotta Toori ni Ikanaku Naru Hanashi  ](https://anilist.co/manga/144362) (18:00 02 March 2024)
 -   📖 Read chapter 20 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (09:57 02 March 2024)
 -   📖 Read chapter 107 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (09:55 02 March 2024)
 -   📖 Read chapter 85 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (09:52 02 March 2024)
 -   📖 Read chapter 230 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (17:04 01 March 2024)
--   📖 Read chapter 251 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (14:15 01 March 2024)
--   📺 Watched episode 14 of [Toji no Miko](https://anilist.co/anime/98747) (11:52 01 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
