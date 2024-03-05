@@ -44,12 +44,12 @@ YAML       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 58 - 63 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (03:15 05 March 2024)
 -   📖 Read chapter 37 - 57 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (16:39 04 March 2024)
 -   📖 Read chapter 56 of [Mieruko-chan](https://anilist.co/manga/105097) (08:38 04 March 2024)
 -   📖 Read chapter 86 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (08:30 04 March 2024)
 -   📖 Read chapter 41 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (08:28 04 March 2024)
 -   📖 Read chapter 13 - 36 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (05:33 04 March 2024)
 -   📖 Read chapter 7 - 12 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (19:14 03 March 2024)
--   📺 Watched episode 15 - 22 of [Toji no Miko](https://anilist.co/anime/98747) (18:32 03 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
