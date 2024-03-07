@@ -44,12 +44,12 @@ Text       1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 73 - 85 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (14:35 06 March 2024)
 -   📖 Read chapter 64 - 72 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (11:08 06 March 2024)
 -   📖 Read chapter 58 - 63 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (03:15 05 March 2024)
 -   📖 Read chapter 37 - 57 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (16:39 04 March 2024)
 -   📖 Read chapter 56 of [Mieruko-chan](https://anilist.co/manga/105097) (08:38 04 March 2024)
 -   📖 Read chapter 86 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (08:30 04 March 2024)
 -   📖 Read chapter 41 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (08:28 04 March 2024)
--   📖 Read chapter 13 - 36 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (05:33 04 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
