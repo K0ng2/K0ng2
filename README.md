@@ -44,12 +44,12 @@ YAML         7 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 12 - 17 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (10:05 11 March 2024)
+-   📖 Read chapter 47 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (09:28 11 March 2024)
+-   📖 Read chapter 86 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (09:22 11 March 2024)
 -   📖 Read chapter 3 - 11 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (20:19 10 March 2024)
 -   📺 Plans to watch [Sousou no Frieren](https://anilist.co/anime/154587) (14:40 10 March 2024)
 -   📖 Read chapter 127 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (19:02 09 March 2024)
 -   📺 Completed [Toji no Miko](https://anilist.co/anime/98747) (16:13 09 March 2024)
--   📺 Plans to watch [Toji no Miko: Kizamishi Issen no Tomoshibi](https://anilist.co/anime/114030) (15:50 09 March 2024)
--   📺 Watched episode 23 of [Toji no Miko](https://anilist.co/anime/98747) (15:48 09 March 2024)
--   📖 Read chapter 157 of [Chainsaw Man](https://anilist.co/manga/105778) (10:50 07 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
