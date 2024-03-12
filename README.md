@@ -44,12 +44,12 @@ Text         7 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 25 - 26 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (11:41 12 March 2024)
 -   📖 Read chapter 18 - 24 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (22:26 11 March 2024)
 -   📺 Completed [Tensei Shitara Slime Datta Ken: Tensura Nikki](https://anilist.co/anime/116741) (18:29 11 March 2024)
 -   📺 Completed [Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore](https://anilist.co/anime/114302) (17:56 11 March 2024)
 -   📖 Paused reading [Jintian De Ta Yeshi Ruci Keai](https://anilist.co/manga/112378) (16:25 11 March 2024)
 -   📖 Read chapter 12 - 17 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (10:05 11 March 2024)
 -   📖 Read chapter 47 of [Jikan Teishi Yuusha](https://anilist.co/manga/112116) (09:28 11 March 2024)
--   📖 Read chapter 86 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (09:22 11 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
