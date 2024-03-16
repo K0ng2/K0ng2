@@ -44,12 +44,12 @@ INI                   9 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 14 of [Sousou no Frieren](https://anilist.co/anime/154587) (21:53 15 March 2024)
 -   📺 Watched episode 4 - 6 of [Sousou no Frieren](https://anilist.co/anime/154587) (02:51 15 March 2024)
 -   📺 Watched episode 1 - 3 of [Sousou no Frieren](https://anilist.co/anime/154587) (00:24 15 March 2024)
 -   📖 Read chapter 158 of [Chainsaw Man](https://anilist.co/manga/105778) (22:46 13 March 2024)
 -   📖 Read chapter 73 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (22:43 13 March 2024)
 -   📺 Plans to watch [Yuru Yuri,](https://anilist.co/anime/102090) (18:14 13 March 2024)
 -   📺 Plans to watch [Fragtime](https://anilist.co/anime/108487) (18:00 13 March 2024)
--   📖 Read chapter 25 - 26 of [Lonely Girl ni Sakaraenai](https://anilist.co/manga/112621) (11:41 12 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
