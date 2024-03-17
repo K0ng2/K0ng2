@@ -44,12 +44,12 @@ INI                   9 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 7 - 14 of [Sousou no Frieren](https://anilist.co/anime/154587) (21:53 15 March 2024)
--   📺 Watched episode 4 - 6 of [Sousou no Frieren](https://anilist.co/anime/154587) (02:51 15 March 2024)
--   📺 Watched episode 1 - 3 of [Sousou no Frieren](https://anilist.co/anime/154587) (00:24 15 March 2024)
--   📖 Read chapter 158 of [Chainsaw Man](https://anilist.co/manga/105778) (22:46 13 March 2024)
--   📖 Read chapter 73 of [Asoko de Hataraku Musubu-san](https://anilist.co/manga/103084) (22:43 13 March 2024)
--   📺 Plans to watch [Yuru Yuri,](https://anilist.co/anime/102090) (18:14 13 March 2024)
--   📺 Plans to watch [Fragtime](https://anilist.co/anime/108487) (18:00 13 March 2024)
+-   📖 Read chapter 252 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (23:26 16 March 2024)
+-   📖 Read chapter 104 of [Gabriel Dropout](https://anilist.co/manga/86864) (23:20 16 March 2024)
+-   📖 Read chapter 108 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (23:14 16 March 2024)
+-   📖 Read chapter 27 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (23:08 16 March 2024)
+-   📖 Read chapter 21 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (23:04 16 March 2024)
+-   📖 Read chapter 87 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (23:00 16 March 2024)
+-   📺 Watched episode 15 - 16 of [Sousou no Frieren](https://anilist.co/anime/154587) (18:07 16 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
