@@ -44,12 +44,12 @@ INI                   9 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 17 - 22 of [Sousou no Frieren](https://anilist.co/anime/154587) (00:52 18 March 2024)
 -   📖 Read chapter 252 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (23:26 16 March 2024)
 -   📖 Read chapter 104 of [Gabriel Dropout](https://anilist.co/manga/86864) (23:20 16 March 2024)
 -   📖 Read chapter 108 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (23:14 16 March 2024)
 -   📖 Read chapter 27 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (23:08 16 March 2024)
 -   📖 Read chapter 21 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (23:04 16 March 2024)
 -   📖 Read chapter 87 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (23:00 16 March 2024)
--   📺 Watched episode 15 - 16 of [Sousou no Frieren](https://anilist.co/anime/154587) (18:07 16 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
