@@ -44,12 +44,12 @@ YAML                  8 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [MASHLE](https://anilist.co/anime/151801) (23:11 18 March 2024)
--   📺 Plans to watch [Chainsaw Man: Reze-hen](https://anilist.co/anime/171627) (22:42 18 March 2024)
--   📖 Read chapter 117 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (17:14 18 March 2024)
--   📖 Read chapter 3 of [Onii-chan wa Oshimai! Koushiki Anthology Comic](https://anilist.co/manga/136495) (05:36 18 March 2024)
--   📖 Read chapter 159 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (05:30 18 March 2024)
--   📺 Watched episode 17 - 26 of [Sousou no Frieren](https://anilist.co/anime/154587) (02:51 18 March 2024)
--   📖 Read chapter 252 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (23:26 16 March 2024)
+-   📖 Read chapter 66 - 73 of [MASHLE](https://anilist.co/manga/114960) (08:42 19 March 2024)
+-   📖 Plans to read [MASHLE](https://anilist.co/manga/114960) (08:17 19 March 2024)
+-   📺 Watched episode 2 - 9 of [MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen](https://anilist.co/anime/166610) (07:51 19 March 2024)
+-   📺 Watched episode 1 of [MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen](https://anilist.co/anime/166610) (04:39 19 March 2024)
+-   📺 Plans to watch [MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen](https://anilist.co/anime/166610) (04:06 19 March 2024)
+-   📺 Completed [MASHLE](https://anilist.co/anime/151801) (02:49 19 March 2024)
+-   📺 Watched episode 8 - 11 of [MASHLE](https://anilist.co/anime/151801) (02:17 19 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
