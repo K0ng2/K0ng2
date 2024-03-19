@@ -44,12 +44,12 @@ INI                   11 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [MASHLE](https://anilist.co/anime/151801) (23:11 18 March 2024)
+-   📺 Plans to watch [Chainsaw Man: Reze-hen](https://anilist.co/anime/171627) (22:42 18 March 2024)
+-   📖 Read chapter 117 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (17:14 18 March 2024)
 -   📖 Read chapter 3 of [Onii-chan wa Oshimai! Koushiki Anthology Comic](https://anilist.co/manga/136495) (05:36 18 March 2024)
 -   📖 Read chapter 159 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (05:30 18 March 2024)
 -   📺 Watched episode 17 - 26 of [Sousou no Frieren](https://anilist.co/anime/154587) (02:51 18 March 2024)
 -   📖 Read chapter 252 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (23:26 16 March 2024)
--   📖 Read chapter 104 of [Gabriel Dropout](https://anilist.co/manga/86864) (23:20 16 March 2024)
--   📖 Read chapter 108 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (23:14 16 March 2024)
--   📖 Read chapter 27 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (23:08 16 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
