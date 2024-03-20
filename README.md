@@ -44,12 +44,12 @@ Sublime Text Config   1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 100 - 119 of [MASHLE](https://anilist.co/manga/114960) (10:11 20 March 2024)
+-   📖 Read chapter 74 - 99 of [MASHLE](https://anilist.co/manga/114960) (04:35 20 March 2024)
+-   📖 Read chapter 159 of [Chainsaw Man](https://anilist.co/manga/105778) (02:44 20 March 2024)
+-   📖 Read chapter 42 of [Kimi wa Yakamashi Tojite yo Kuchi wo!](https://anilist.co/manga/149337) (02:42 20 March 2024)
 -   📖 Read chapter 66 - 73 of [MASHLE](https://anilist.co/manga/114960) (08:42 19 March 2024)
 -   📖 Plans to read [MASHLE](https://anilist.co/manga/114960) (08:17 19 March 2024)
 -   📺 Watched episode 2 - 9 of [MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen](https://anilist.co/anime/166610) (07:51 19 March 2024)
--   📺 Watched episode 1 of [MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen](https://anilist.co/anime/166610) (04:39 19 March 2024)
--   📺 Plans to watch [MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen](https://anilist.co/anime/166610) (04:06 19 March 2024)
--   📺 Completed [MASHLE](https://anilist.co/anime/151801) (02:49 19 March 2024)
--   📺 Watched episode 8 - 11 of [MASHLE](https://anilist.co/anime/151801) (02:17 19 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
