@@ -44,12 +44,12 @@ Git Config   1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Natsu e no Tunnel, Sayonara no Deguchi](https://anilist.co/anime/142769) (02:25 21 March 2024)
 -   📖 Read chapter 88 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (00:13 21 March 2024)
 -   📖 Read chapter 42 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (22:40 20 March 2024)
 -   📖 Completed [MASHLE](https://anilist.co/manga/114960) (22:24 20 March 2024)
 -   📖 Read chapter 120 - 161 of [MASHLE](https://anilist.co/manga/114960) (22:23 20 March 2024)
 -   📖 Read chapter 100 - 119 of [MASHLE](https://anilist.co/manga/114960) (10:11 20 March 2024)
 -   📖 Read chapter 74 - 99 of [MASHLE](https://anilist.co/manga/114960) (04:35 20 March 2024)
--   📖 Read chapter 159 of [Chainsaw Man](https://anilist.co/manga/105778) (02:44 20 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
