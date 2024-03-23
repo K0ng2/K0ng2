@@ -44,12 +44,12 @@ INI          2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667) (05:07 23 March 2024)
+-   📺 Plans to watch [Mato Seihei no Slave 2nd Season](https://anilist.co/anime/176276) (04:14 23 March 2024)
+-   📺 Plans to watch [Manaria Friends](https://anilist.co/anime/21322) (02:28 23 March 2024)
 -   📺 Plans to watch [Granbelm](https://anilist.co/anime/108147) (08:42 22 March 2024)
 -   📺 Plans to watch [Hachigatsu no Cinderella Nine](https://anilist.co/anime/104989) (08:19 22 March 2024)
 -   📺 Plans to watch [Natsu e no Tunnel, Sayonara no Deguchi](https://anilist.co/anime/142769) (02:25 21 March 2024)
 -   📖 Read chapter 88 of [Kanan-sama wa Akuma de Choroi](https://anilist.co/manga/149893) (00:13 21 March 2024)
--   📖 Read chapter 42 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (22:40 20 March 2024)
--   📖 Completed [MASHLE](https://anilist.co/manga/114960) (22:24 20 March 2024)
--   📖 Read chapter 120 - 161 of [MASHLE](https://anilist.co/manga/114960) (22:23 20 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
