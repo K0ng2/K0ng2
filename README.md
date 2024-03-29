@@ -44,12 +44,12 @@ PowerShell   4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 128 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (18:14 28 March 2024)
+-   📖 Read chapter 89 of [Kanan-sama wa Akumade Choroi](https://anilist.co/manga/149893) (18:08 28 March 2024)
+-   📖 Read chapter 1 - 5 of [Yowa Yowa Sensei ](https://anilist.co/manga/157128) (18:05 28 March 2024)
+-   📺 Watched episode 5 of [Kakushigoto](https://anilist.co/anime/113311) (15:08 28 March 2024)
 -   📺 Watched episode 3 - 4 of [Kakushigoto](https://anilist.co/anime/113311) (19:03 27 March 2024)
 -   📖 Read chapter 160 of [Chainsaw Man](https://anilist.co/manga/105778) (09:43 27 March 2024)
 -   📺 Watched episode 2 of [Kakushigoto](https://anilist.co/anime/113311) (14:21 25 March 2024)
--   📖 Read chapter 71 of [Futoku no Guild](https://anilist.co/manga/99933) (18:41 23 March 2024)
--   📖 Read chapter 22 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (18:29 23 March 2024)
--   📺 Watched episode 1 of [Kakushigoto](https://anilist.co/anime/113311) (15:13 23 March 2024)
--   📺 Plans to watch [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667) (05:07 23 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
