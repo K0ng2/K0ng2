@@ -44,12 +44,12 @@ PowerShell   4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 6 - 10 of [Yowa Yowa Sensei ](https://anilist.co/manga/157128) (03:01 29 March 2024)
--   📖 Read chapter 128 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (18:14 28 March 2024)
--   📖 Read chapter 89 of [Kanan-sama wa Akumade Choroi](https://anilist.co/manga/149893) (18:08 28 March 2024)
--   📖 Read chapter 1 - 5 of [Yowa Yowa Sensei ](https://anilist.co/manga/157128) (18:05 28 March 2024)
--   📺 Watched episode 5 of [Kakushigoto](https://anilist.co/anime/113311) (15:08 28 March 2024)
--   📺 Watched episode 3 - 4 of [Kakushigoto](https://anilist.co/anime/113311) (19:03 27 March 2024)
--   📖 Read chapter 160 of [Chainsaw Man](https://anilist.co/manga/105778) (09:43 27 March 2024)
+-   📖 Read chapter 32 of [Dungeon no Osananajimi](https://anilist.co/manga/149323) (18:48 30 March 2024)
+-   📺 Completed [Sousou no Frieren](https://anilist.co/anime/154587) (15:35 30 March 2024)
+-   📺 Watched episode 27 of [Sousou no Frieren](https://anilist.co/anime/154587) (15:22 30 March 2024)
+-   📖 Read chapter 86 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (11:59 30 March 2024)
+-   📖 Read chapter 23 - 29 of [Yowa Yowa Sensei ](https://anilist.co/manga/157128) (11:55 30 March 2024)
+-   📖 Read chapter 16 - 22 of [Yowa Yowa Sensei ](https://anilist.co/manga/157128) (09:23 30 March 2024)
+-   📖 Read chapter 11 - 15 of [Yowa Yowa Sensei ](https://anilist.co/manga/157128) (03:36 30 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
