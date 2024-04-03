@@ -44,12 +44,12 @@ YAML         3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [IDOL×IDOL STORY!](https://anilist.co/manga/154014) (19:46 02 April 2024)
+-   📖 Read chapter 1 of [Nakanaide Maou-chan](https://anilist.co/manga/104172) (19:22 02 April 2024)
+-   📖 Read chapter 90 of [Kanan-sama wa Akumade Choroi](https://anilist.co/manga/149893) (19:19 02 April 2024)
+-   📺 Watched episode 6 of [Kakushigoto](https://anilist.co/anime/113311) (15:12 02 April 2024)
+-   📖 Read chapter 7 of [Watari-kun no xx ga Houkai Sunzen](https://anilist.co/manga/85703) (13:27 02 April 2024)
 -   📖 Read chapter 2 of [Kokoro no Koe ga Moreyasui Maid-san](https://anilist.co/manga/148057) (13:12 01 April 2024)
 -   📖 Plans to read [Nakanaide Maou-chan](https://anilist.co/manga/104172) (12:35 01 April 2024)
--   📖 Read chapter 87 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (10:07 01 April 2024)
--   📖 Plans to read [IDOL×IDOL STORY!](https://anilist.co/manga/154014) (04:58 01 April 2024)
--   📖 Read chapter 32 of [Dungeon no Osananajimi](https://anilist.co/manga/149323) (18:48 30 March 2024)
--   📺 Completed [Sousou no Frieren](https://anilist.co/anime/154587) (15:35 30 March 2024)
--   📺 Watched episode 27 of [Sousou no Frieren](https://anilist.co/anime/154587) (15:22 30 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
