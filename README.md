@@ -43,12 +43,12 @@ Text      0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 27 of [Doukyonin ga Konoyo no Mon Janai](https://anilist.co/manga/125584) (20:12 04 April 2024)
+-   📖 Read chapter 1 - 11 of [Doukyonin ga Konoyo no Mon Janai](https://anilist.co/manga/157992) (20:03 04 April 2024)
+-   📖 Read chapter 59 of [Dark Gathering](https://anilist.co/manga/109608) (19:26 04 April 2024)
+-   📺 Watched episode 4 - 6 of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667) (14:06 04 April 2024)
 -   📖 Read chapter 1 - 2 of [Inkya Gyaru Demo Ikigaritai!](https://anilist.co/manga/156935) (21:35 03 April 2024)
 -   📺 Watched episode 1 - 3 of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667) (17:44 03 April 2024)
 -   📖 Read chapter 1 of [IDOL×IDOL STORY!](https://anilist.co/manga/154014) (19:46 02 April 2024)
--   📖 Read chapter 1 of [Nakanaide Maou-chan](https://anilist.co/manga/104172) (19:22 02 April 2024)
--   📖 Read chapter 90 of [Kanan-sama wa Akumade Choroi](https://anilist.co/manga/149893) (19:19 02 April 2024)
--   📺 Watched episode 6 of [Kakushigoto](https://anilist.co/anime/113311) (15:12 02 April 2024)
--   📖 Read chapter 7 of [Watari-kun no xx ga Houkai Sunzen](https://anilist.co/manga/85703) (13:27 02 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
