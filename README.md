@@ -44,12 +44,12 @@ Text         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 27 of [Doukyonin ga Konoyo no Mon Janai](https://anilist.co/manga/125584) (20:12 04 April 2024)
--   📖 Read chapter 1 - 11 of [Doukyonin ga Konoyo no Mon Janai](https://anilist.co/manga/157992) (20:03 04 April 2024)
--   📖 Read chapter 59 of [Dark Gathering](https://anilist.co/manga/109608) (19:26 04 April 2024)
--   📺 Watched episode 4 - 6 of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667) (14:06 04 April 2024)
--   📖 Read chapter 1 - 2 of [Inkya Gyaru Demo Ikigaritai!](https://anilist.co/manga/156935) (21:35 03 April 2024)
--   📺 Watched episode 1 - 3 of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667) (17:44 03 April 2024)
--   📖 Read chapter 1 of [IDOL×IDOL STORY!](https://anilist.co/manga/154014) (19:46 02 April 2024)
+-   📖 Read chapter 3 - 6 of [Kokoro no Koe ga Moreyasui Maid-san](https://anilist.co/manga/148057) (17:05 05 April 2024)
+-   📖 Read chapter 160 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (16:46 05 April 2024)
+-   📺 Watched episode 7 of [Kakushigoto](https://anilist.co/anime/113311) (15:18 05 April 2024)
+-   📺 Rewatched episode 1 of [Manaria Friends](https://anilist.co/anime/21322) (14:50 05 April 2024)
+-   📺 Plans to watch [NieR:Automata Ver1.1a](https://anilist.co/anime/145665) (14:20 05 April 2024)
+-   📺 Plans to watch [Yuru Camp△ SEASON 2](https://anilist.co/anime/104459) (14:19 05 April 2024)
+-   📖 Read chapter 1 of [Haruka Reset](https://anilist.co/manga/140860) (12:50 05 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
