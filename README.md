@@ -44,12 +44,12 @@ Org          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 73 - 75 of [Temple](https://anilist.co/manga/109122) (21:32 08 April 2024)
+-   📖 Read chapter 129 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (21:04 08 April 2024)
+-   📺 Watched episode 1 of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/anime/169927) (18:08 08 April 2024)
+-   📺 Plans to watch [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/anime/169927) (15:37 08 April 2024)
+-   📺 Dropped [Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!](https://anilist.co/anime/108388) (15:33 08 April 2024)
+-   📺 Dropped [Death March Kara Hajimaru Isekai Kyousoukyoku](https://anilist.co/anime/97907) (15:32 08 April 2024)
 -   📖 Read chapter 253 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (18:28 06 April 2024)
--   📖 Read chapter 23 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (18:22 06 April 2024)
--   📖 Read chapter 28 of [Ore no Kokan wa Bishoujo Datta no ka](https://anilist.co/manga/147902) (18:19 06 April 2024)
--   📖 Read chapter 3 - 6 of [Kokoro no Koe ga Moreyasui Maid-san](https://anilist.co/manga/148057) (17:05 05 April 2024)
--   📖 Read chapter 160 of [Fantasy Bishoujo Juniku Oji-san to](https://anilist.co/manga/113802) (16:46 05 April 2024)
--   📺 Watched episode 7 of [Kakushigoto](https://anilist.co/anime/113311) (15:18 05 April 2024)
--   📺 Rewatched episode 1 of [Manaria Friends](https://anilist.co/anime/21322) (14:50 05 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
