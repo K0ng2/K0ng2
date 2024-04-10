@@ -44,12 +44,12 @@ Org          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 73 - 75 of [Temple](https://anilist.co/manga/109122) (21:32 08 April 2024)
--   📖 Read chapter 129 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (21:04 08 April 2024)
--   📺 Watched episode 1 of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/anime/169927) (18:08 08 April 2024)
--   📺 Plans to watch [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/anime/169927) (15:37 08 April 2024)
--   📺 Dropped [Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!](https://anilist.co/anime/108388) (15:33 08 April 2024)
--   📺 Dropped [Death March Kara Hajimaru Isekai Kyousoukyoku](https://anilist.co/anime/97907) (15:32 08 April 2024)
--   📖 Read chapter 253 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (18:28 06 April 2024)
+-   📺 Watched episode 2 of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/anime/169927) (19:59 09 April 2024)
+-   📖 Read chapter 109 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (18:24 09 April 2024)
+-   📖 Read chapter 161 - 162 of [Chainsaw Man](https://anilist.co/manga/105778) (18:20 09 April 2024)
+-   📺 Watched episode 7 - 9 of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667) (17:40 09 April 2024)
+-   📺 Plans to watch [Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life](https://anilist.co/anime/170130) (16:17 09 April 2024)
+-   📺 Plans to watch [Fumetsu no Anata e](https://anilist.co/anime/114535) (15:58 09 April 2024)
+-   📺 Plans to watch [Anima Yell!](https://anilist.co/anime/101013) (15:57 09 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
