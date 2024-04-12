@@ -44,12 +44,12 @@ HTML         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 7 of [Fumetsu no Anata e](https://anilist.co/anime/114535) (19:38 11 April 2024)
+-   📺 Plans to watch [Natsume Yuujinchou](https://anilist.co/anime/4081) (18:54 11 April 2024)
+-   📖 Read chapter 11 - 14 of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/manga/122850) (06:10 11 April 2024)
+-   📺 Watched episode 1 of [Fumetsu no Anata e](https://anilist.co/anime/114535) (04:36 11 April 2024)
+-   📖 Read chapter 91 of [Kanan-sama wa Akumade Choroi](https://anilist.co/manga/149893) (04:31 11 April 2024)
 -   📖 Read chapter 10 of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/manga/122850) (13:05 10 April 2024)
 -   📖 Read chapter 3 - 9 of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/manga/122850) (05:45 10 April 2024)
--   📖 Plans to read [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/manga/122850) (04:52 10 April 2024)
--   📖 Read chapter 1 - 2 of [Danshi Kokosei Dakedo Gal ni TS Shimashita](https://anilist.co/manga/176385) (04:47 10 April 2024)
--   📺 Watched episode 2 of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/anime/169927) (19:59 09 April 2024)
--   📖 Read chapter 109 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (18:24 09 April 2024)
--   📖 Read chapter 161 - 162 of [Chainsaw Man](https://anilist.co/manga/105778) (18:20 09 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
