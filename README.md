@@ -44,12 +44,12 @@ JSON                  8 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 254 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (21:45 12 April 2024)
+-   📺 Watched episode 8 - 10 of [Fumetsu no Anata e](https://anilist.co/anime/114535) (19:12 12 April 2024)
 -   📺 Watched episode 2 - 7 of [Fumetsu no Anata e](https://anilist.co/anime/114535) (19:38 11 April 2024)
 -   📺 Plans to watch [Natsume Yuujinchou](https://anilist.co/anime/4081) (18:54 11 April 2024)
 -   📖 Read chapter 11 - 14 of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/manga/122850) (06:10 11 April 2024)
 -   📺 Watched episode 1 of [Fumetsu no Anata e](https://anilist.co/anime/114535) (04:36 11 April 2024)
 -   📖 Read chapter 91 of [Kanan-sama wa Akumade Choroi](https://anilist.co/manga/149893) (04:31 11 April 2024)
--   📖 Read chapter 10 of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/manga/122850) (13:05 10 April 2024)
--   📖 Read chapter 3 - 9 of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/manga/122850) (05:45 10 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
