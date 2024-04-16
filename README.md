@@ -44,12 +44,12 @@ JavaScript            7 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 20 of [Wakeari Shinrei Mansion](https://anilist.co/manga/175209) (17:53 14 April 2024)
--   📖 Read chapter 2 - 18 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (20:19 13 April 2024)
--   📺 Completed [Fumetsu no Anata e](https://anilist.co/anime/114535) (18:24 13 April 2024)
--   📺 Watched episode 11 - 19 of [Fumetsu no Anata e](https://anilist.co/anime/114535) (18:01 13 April 2024)
--   📖 Read chapter 1 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (12:04 13 April 2024)
--   📖 Plans to read [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (12:01 13 April 2024)
--   📖 Read chapter 254 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (21:45 12 April 2024)
+-   📖 Completed [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (20:24 15 April 2024)
+-   📖 Read chapter 1 - 55 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (20:22 15 April 2024)
+-   📖 Plans to read [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (19:12 15 April 2024)
+-   📺 Watched episode 2 of [Jii-san Baa-san Wakagaeru](https://anilist.co/anime/168138) (16:37 15 April 2024)
+-   📖 Plans to read [Shichi Ha Gojuuroku](https://anilist.co/manga/105078) (15:41 15 April 2024)
+-   📖 Dropped ["Ano Toki Tasukete Itadaita Monster Musume desu." Isekai Ossan Kyoushi Totsuzen no Moteki ni Konwakusuru ](https://anilist.co/manga/173492) (15:27 15 April 2024)
+-   📖 Plans to read [Kaii to Otome to Kamikakushi](https://anilist.co/manga/113016) (15:14 15 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
