@@ -44,12 +44,12 @@ JavaScript            7 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Fumetsu no Anata e Season 2](https://anilist.co/anime/138565) (20:57 16 April 2024)
+-   📺 Watched episode 5 - 19 of [Fumetsu no Anata e Season 2](https://anilist.co/anime/138565) (20:35 16 April 2024)
+-   📖 Plans to read [Gal no Haigo ni Rei ga Iru](https://anilist.co/manga/125948) (16:07 16 April 2024)
+-   📺 Watched episode 1 - 4 of [Fumetsu no Anata e Season 2](https://anilist.co/anime/138565) (10:36 16 April 2024)
+-   📺 Plans to watch [Fumetsu no Anata e Season 2](https://anilist.co/anime/138565) (09:28 16 April 2024)
 -   📖 Completed [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (20:24 15 April 2024)
 -   📖 Read chapter 1 - 55 of [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (20:22 15 April 2024)
--   📖 Plans to read [Urenai Mangaka to Sewaki no Onryou-san](https://anilist.co/manga/125353) (19:12 15 April 2024)
--   📺 Watched episode 2 of [Jii-san Baa-san Wakagaeru](https://anilist.co/anime/168138) (16:37 15 April 2024)
--   📖 Plans to read [Shichi Ha Gojuuroku](https://anilist.co/manga/105078) (15:41 15 April 2024)
--   📖 Dropped ["Ano Toki Tasukete Itadaita Monster Musume desu." Isekai Ossan Kyoushi Totsuzen no Moteki ni Konwakusuru ](https://anilist.co/manga/173492) (15:27 15 April 2024)
--   📖 Plans to read [Kaii to Otome to Kamikakushi](https://anilist.co/manga/113016) (15:14 15 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
