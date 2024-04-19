@@ -44,12 +44,12 @@ JavaScript            7 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 8 of [Kaii to Otome to Kamikakushi](https://anilist.co/manga/113016) (22:40 18 April 2024)
+-   📺 Watched episode 1 - 2 of [Kaii to Otome to Kamikakushi](https://anilist.co/anime/160090) (17:53 18 April 2024)
 -   📖 Read chapter 24 - 31 of [Gal no Haigo ni Rei ga Iru](https://anilist.co/manga/125948) (20:35 17 April 2024)
 -   📺 Plans to watch [Kaii to Otome to Kamikakushi](https://anilist.co/anime/160090) (14:42 17 April 2024)
 -   📖 Read chapter 17 - 23 of [Gal no Haigo ni Rei ga Iru](https://anilist.co/manga/125948) (13:20 17 April 2024)
 -   📺 Plans to watch [Sayonara no Asa ni Yakusoku no Hana wo Kazarou](https://anilist.co/anime/99457) (07:15 17 April 2024)
 -   📖 Read chapter 1 - 16 of [Gal no Haigo ni Rei ga Iru](https://anilist.co/manga/125948) (06:09 17 April 2024)
--   📺 Completed [Fumetsu no Anata e Season 2](https://anilist.co/anime/138565) (20:57 16 April 2024)
--   📺 Watched episode 5 - 19 of [Fumetsu no Anata e Season 2](https://anilist.co/anime/138565) (20:35 16 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
