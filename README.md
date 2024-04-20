@@ -44,12 +44,12 @@ JSON         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 9 - 19 of [Kaii to Otome to Kamikakushi](https://anilist.co/manga/113016) (23:36 19 April 2024)
+-   📺 Watched episode 1 - 4 of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649) (19:26 19 April 2024)
+-   📺 Plans to watch [Kekkon Yubiwa Monogatari](https://anilist.co/anime/160389) (17:04 19 April 2024)
+-   📖 Read chapter 72 of [Futoku no Guild](https://anilist.co/manga/99933) (11:39 19 April 2024)
+-   📖 Read chapter 28 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (11:24 19 April 2024)
 -   📖 Read chapter 1 - 8 of [Kaii to Otome to Kamikakushi](https://anilist.co/manga/113016) (22:40 18 April 2024)
 -   📺 Watched episode 1 - 2 of [Kaii to Otome to Kamikakushi](https://anilist.co/anime/160090) (17:53 18 April 2024)
--   📖 Read chapter 24 - 31 of [Gal no Haigo ni Rei ga Iru](https://anilist.co/manga/125948) (20:35 17 April 2024)
--   📺 Plans to watch [Kaii to Otome to Kamikakushi](https://anilist.co/anime/160090) (14:42 17 April 2024)
--   📖 Read chapter 17 - 23 of [Gal no Haigo ni Rei ga Iru](https://anilist.co/manga/125948) (13:20 17 April 2024)
--   📺 Plans to watch [Sayonara no Asa ni Yakusoku no Hana wo Kazarou](https://anilist.co/anime/99457) (07:15 17 April 2024)
--   📖 Read chapter 1 - 16 of [Gal no Haigo ni Rei ga Iru](https://anilist.co/manga/125948) (06:09 17 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
