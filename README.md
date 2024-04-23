@@ -44,12 +44,12 @@ HTML         14 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 6 - 25 of [Reiwa no Dara-san](https://anilist.co/manga/160722) (22:26 22 April 2024)
+-   📺 Watched episode 4 of [Kekkon Yubiwa Monogatari](https://anilist.co/anime/160389) (15:43 22 April 2024)
+-   📖 Read chapter 3 - 5 of [Reiwa no Dara-san](https://anilist.co/manga/160722) (11:25 22 April 2024)
 -   📖 Read chapter 1 - 30 of [Saikyou Jiko Bukken to Reikan Zero Otoko no Hanashi.](https://anilist.co/manga/128656) (00:22 22 April 2024)
 -   📖 Read chapter 35 - 40 of [Gal no Haigo ni Rei ga Iru](https://anilist.co/manga/125948) (23:28 21 April 2024)
 -   📖 Read chapter 118 - 119 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (21:13 21 April 2024)
 -   📖 Read chapter 19 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (21:03 21 April 2024)
--   📺 Watched episode 1 - 3 of [Kekkon Yubiwa Monogatari](https://anilist.co/anime/160389) (20:29 21 April 2024)
--   📺 Dropped [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649) (18:02 21 April 2024)
--   📖 Read chapter 33 - 34 of [Gal no Haigo ni Rei ga Iru](https://anilist.co/manga/125948) (14:00 21 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
