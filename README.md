@@ -44,12 +44,12 @@ HTML         14 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Kekkon Yubiwa Monogatari](https://anilist.co/anime/160389) (00:17 24 April 2024)
+-   📺 Watched episode 9 - 11 of [Kekkon Yubiwa Monogatari](https://anilist.co/anime/160389) (00:17 24 April 2024)
+-   📖 Read chapter 33 of [Dungeon no Osananajimi](https://anilist.co/manga/149323) (22:28 23 April 2024)
+-   📖 Read chapter 11 of [Kaguhara-san no Fetish Note](https://anilist.co/manga/141152) (22:23 23 April 2024)
+-   📺 Watched episode 5 - 8 of [Kekkon Yubiwa Monogatari](https://anilist.co/anime/160389) (21:44 23 April 2024)
 -   📖 Read chapter 6 - 25 of [Reiwa no Dara-san](https://anilist.co/manga/160722) (22:26 22 April 2024)
 -   📺 Watched episode 4 of [Kekkon Yubiwa Monogatari](https://anilist.co/anime/160389) (15:43 22 April 2024)
--   📖 Read chapter 3 - 5 of [Reiwa no Dara-san](https://anilist.co/manga/160722) (11:25 22 April 2024)
--   📖 Read chapter 1 - 30 of [Saikyou Jiko Bukken to Reikan Zero Otoko no Hanashi.](https://anilist.co/manga/128656) (00:22 22 April 2024)
--   📖 Read chapter 35 - 40 of [Gal no Haigo ni Rei ga Iru](https://anilist.co/manga/125948) (23:28 21 April 2024)
--   📖 Read chapter 118 - 119 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (21:13 21 April 2024)
--   📖 Read chapter 19 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (21:03 21 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
