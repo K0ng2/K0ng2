@@ -44,12 +44,12 @@ Python     4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 255 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (14:59 25 April 2024)
 -   📖 Read chapter 352 - 362 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (23:11 24 April 2024)
 -   📖 Read chapter 163 of [Chainsaw Man](https://anilist.co/manga/105778) (15:41 24 April 2024)
 -   📺 Dropped [Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life](https://anilist.co/anime/170130) (15:25 24 April 2024)
 -   📺 Dropped [Isekai Shoukan wa Nidome desu](https://anilist.co/anime/140754) (13:36 24 April 2024)
 -   📺 Rewatched episode 1 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (13:34 24 April 2024)
 -   📺 Dropped [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667) (12:43 24 April 2024)
--   📺 Dropped [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501) (12:42 24 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
