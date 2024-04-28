@@ -44,12 +44,12 @@ INI        6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [Yuujin ni 500-en Kashitara Shakkin no Kata ni Imouto wo Yokoshitekita no Dakeredo, Ore wa Ittai Dou Sureba Iin Darou](https://anilist.co/manga/139667) (23:48 27 April 2024)
+-   📖 Read chapter 4 - 15 of [Yuujin ni 500-en Kashitara Shakkin no Kata ni Imouto wo Yokoshitekita no Dakeredo, Ore wa Ittai Dou Sureba Iin Darou](https://anilist.co/manga/139667) (23:43 27 April 2024)
+-   📖 Read chapter 87 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (22:56 27 April 2024)
+-   📖 Read chapter 88 of [Jahy-sama wa Kujikenai!](https://anilist.co/manga/100207) (22:52 27 April 2024)
+-   📺 Watched episode 1 - 2 of [Hoshikuzu Telepath](https://anilist.co/anime/155419) (16:33 27 April 2024)
 -   📖 Read chapter 2 - 3 of [Yuujin ni 500-en Kashitara Shakkin no Kata ni Imouto wo Yokoshitekita no Dakeredo, Ore wa Ittai Dou Sureba Iin Darou](https://anilist.co/manga/139667) (21:27 26 April 2024)
 -   📖 Read chapter 21 of [Wakeari Shinrei Mansion](https://anilist.co/manga/175209) (21:15 26 April 2024)
--   📖 Read chapter 255 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (14:59 25 April 2024)
--   📖 Read chapter 352 - 362 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (23:11 24 April 2024)
--   📖 Read chapter 163 of [Chainsaw Man](https://anilist.co/manga/105778) (15:41 24 April 2024)
--   📺 Dropped [Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life](https://anilist.co/anime/170130) (15:25 24 April 2024)
--   📺 Dropped [Isekai Shoukan wa Nidome desu](https://anilist.co/anime/140754) (13:36 24 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
