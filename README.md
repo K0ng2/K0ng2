@@ -44,12 +44,12 @@ SQL          3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 54 of [Mahou Shoujo ni Akogarete](https://anilist.co/manga/109017) (00:51 01 May 2024)
+-   📺 Completed [Mahou Shoujo ni Akogarete](https://anilist.co/anime/162780) (17:33 30 April 2024)
+-   📺 Watched episode 12 of [Mahou Shoujo ni Akogarete](https://anilist.co/anime/162780) (17:10 30 April 2024)
 -   📺 Watched episode 1 - 11 of [Mahou Shoujo ni Akogarete](https://anilist.co/anime/162780) (21:17 29 April 2024)
 -   📺 Dropped [Owari no Seraph](https://anilist.co/anime/20829) (18:08 28 April 2024)
 -   📺 Watched episode 1 - 8 of [Owari no Seraph](https://anilist.co/anime/20829) (18:08 28 April 2024)
 -   📺 Plans to watch [Go-toubun no Hanayome *](https://anilist.co/anime/177191) (13:21 28 April 2024)
--   📖 Completed [Yuujin ni 500-en Kashitara Shakkin no Kata ni Imouto wo Yokoshitekita no Dakeredo, Ore wa Ittai Dou Sureba Iin Darou](https://anilist.co/manga/139667) (23:48 27 April 2024)
--   📖 Read chapter 4 - 15 of [Yuujin ni 500-en Kashitara Shakkin no Kata ni Imouto wo Yokoshitekita no Dakeredo, Ore wa Ittai Dou Sureba Iin Darou](https://anilist.co/manga/139667) (23:43 27 April 2024)
--   📖 Read chapter 87 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (22:56 27 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
