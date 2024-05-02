@@ -44,12 +44,12 @@ Text         11 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 57 of [Mieruko-chan](https://anilist.co/manga/105097) (22:55 01 May 2024)
+-   📖 Read chapter 164 of [Chainsaw Man](https://anilist.co/manga/105778) (22:47 01 May 2024)
+-   📖 Read chapter 55 - 58 of [Mahou Shoujo ni Akogarete](https://anilist.co/manga/109017) (22:41 01 May 2024)
 -   📖 Read chapter 1 - 54 of [Mahou Shoujo ni Akogarete](https://anilist.co/manga/109017) (00:51 01 May 2024)
 -   📺 Completed [Mahou Shoujo ni Akogarete](https://anilist.co/anime/162780) (17:33 30 April 2024)
 -   📺 Watched episode 12 of [Mahou Shoujo ni Akogarete](https://anilist.co/anime/162780) (17:10 30 April 2024)
 -   📺 Watched episode 1 - 11 of [Mahou Shoujo ni Akogarete](https://anilist.co/anime/162780) (21:17 29 April 2024)
--   📺 Dropped [Owari no Seraph](https://anilist.co/anime/20829) (18:08 28 April 2024)
--   📺 Watched episode 1 - 8 of [Owari no Seraph](https://anilist.co/anime/20829) (18:08 28 April 2024)
--   📺 Plans to watch [Go-toubun no Hanayome *](https://anilist.co/anime/177191) (13:21 28 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
