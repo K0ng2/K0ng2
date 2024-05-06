@@ -44,12 +44,12 @@ CSV          22 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 37 - 40 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (00:54 05 May 2024)
+-   📖 Read chapter 15 - 18 of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/manga/122850) (00:36 06 May 2024)
+-   📖 Read chapter 26 of [Reiwa no Dara-san](https://anilist.co/manga/160722) (00:02 06 May 2024)
+-   📖 Read chapter 131 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (23:55 05 May 2024)
+-   📺 Plans to watch [Shinigami Bocchan to Kuro Maid](https://anilist.co/anime/129277) (06:14 05 May 2024)
+-   📖 Read chapter 37 - 48 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (01:34 05 May 2024)
 -   📖 Read chapter 15 - 36 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (16:05 04 May 2024)
 -   📖 Read chapter 22 of [Wakeari Shinrei Mansion](https://anilist.co/manga/175209) (13:44 04 May 2024)
--   📖 Read chapter 4 of [Danshi Kokosei Dakedo Gal ni TS Shimashita](https://anilist.co/manga/176385) (13:40 04 May 2024)
--   📖 Read chapter 14 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (11:26 04 May 2024)
--   📖 Read chapter 57 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (00:30 04 May 2024)
--   📖 Read chapter 1 - 13 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (00:11 04 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
