@@ -44,12 +44,12 @@ JSON         3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Girls Band Cry](https://anilist.co/anime/164212) (11:10 10 May 2024)
+-   📺 Plans to watch [Yoru no Kurage wa Oyogenai](https://anilist.co/anime/163078) (11:09 10 May 2024)
 -   📖 Read chapter 66 - 85 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (21:10 07 May 2024)
 -   📖 Read chapter 59 - 65 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (17:36 07 May 2024)
 -   📺 Rewatched episode 9 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (16:26 07 May 2024)
 -   📖 Read chapter 51 - 58 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (15:00 07 May 2024)
 -   📖 Read chapter 49 - 50 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (09:43 07 May 2024)
--   📖 Read chapter 19 of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/manga/122850) (09:22 07 May 2024)
--   📖 Read chapter 25 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (09:16 07 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
