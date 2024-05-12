@@ -44,12 +44,12 @@ JSON         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 108 - 115 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (19:26 11 May 2024)
+-   📖 Read chapter 86 - 104 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (16:20 11 May 2024)
 -   📺 Plans to watch [Girls Band Cry](https://anilist.co/anime/164212) (11:10 10 May 2024)
 -   📺 Plans to watch [Yoru no Kurage wa Oyogenai](https://anilist.co/anime/163078) (11:09 10 May 2024)
 -   📖 Read chapter 66 - 85 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (21:10 07 May 2024)
 -   📖 Read chapter 59 - 65 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (17:36 07 May 2024)
 -   📺 Rewatched episode 9 of [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (16:26 07 May 2024)
--   📖 Read chapter 51 - 58 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (15:00 07 May 2024)
--   📖 Read chapter 49 - 50 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (09:43 07 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
