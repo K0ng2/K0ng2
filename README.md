@@ -44,12 +44,12 @@ Text       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 14 of [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (17:59 12 May 2024)
--   📖 Dropped [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (11:16 12 May 2024)
--   📖 Read chapter 29 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (11:11 12 May 2024)
--   📖 Read chapter 108 - 115 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (19:26 11 May 2024)
--   📖 Read chapter 86 - 104 of [Emo x Tianshi Buneng Youhao Xiangchu](https://anilist.co/manga/133837) (16:20 11 May 2024)
--   📺 Plans to watch [Girls Band Cry](https://anilist.co/anime/164212) (11:10 10 May 2024)
--   📺 Plans to watch [Yoru no Kurage wa Oyogenai](https://anilist.co/anime/163078) (11:09 10 May 2024)
+-   📖 Read chapter 111 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (20:16 13 May 2024)
+-   📖 Dropped [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (20:09 13 May 2024)
+-   📖 Read chapter 15 - 18 of [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (20:05 13 May 2024)
+-   📺 Watched episode 3 of [Akebi-chan no Sailor Fuku](https://anilist.co/anime/131548) (15:58 13 May 2024)
+-   📖 Plans to read [Dandadan](https://anilist.co/manga/132029) (15:11 13 May 2024)
+-   📺 Plans to watch [Jigokuraku](https://anilist.co/anime/128893) (15:11 13 May 2024)
+-   📖 Dropped [Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai](https://anilist.co/manga/134369) (12:38 13 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
