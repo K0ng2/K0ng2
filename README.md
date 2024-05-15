@@ -42,12 +42,12 @@ Other      10 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Jigokuraku](https://anilist.co/anime/128893) (19:41 14 May 2024)
 -   📖 Read chapter 111 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (20:16 13 May 2024)
 -   📖 Dropped [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (20:09 13 May 2024)
 -   📖 Read chapter 15 - 18 of [Asobinin wa Kenja ni Tenshoku Dekiru tte Shittemashita?: Yuusha Party wo Tsuihou Sareta Lv99, "Taikenja" ni Naru](https://anilist.co/manga/110374) (20:05 13 May 2024)
 -   📺 Watched episode 3 of [Akebi-chan no Sailor Fuku](https://anilist.co/anime/131548) (15:58 13 May 2024)
 -   📖 Plans to read [Dandadan](https://anilist.co/manga/132029) (15:11 13 May 2024)
 -   📺 Plans to watch [Jigokuraku](https://anilist.co/anime/128893) (15:11 13 May 2024)
--   📖 Dropped [Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai](https://anilist.co/manga/134369) (12:38 13 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
