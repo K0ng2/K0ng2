@@ -44,12 +44,12 @@ JSON                  1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Houkago Teibou Nisshi](https://anilist.co/anime/109019) (16:16 17 May 2024)
+-   📖 Completed [Jigokuraku Yomikiri: Mokke no Mori](https://anilist.co/manga/163556) (14:17 17 May 2024)
+-   📖 Completed [Jigokuraku](https://anilist.co/manga/100994) (14:02 17 May 2024)
 -   📖 Read chapter 96 of [Jigokuraku](https://anilist.co/manga/100994) (18:35 16 May 2024)
 -   📖 Read chapter 56 of [Jigokuraku](https://anilist.co/manga/100994) (18:23 15 May 2024)
 -   📺 Watched episode 1 - 3 of [Sengoku Youko](https://anilist.co/anime/168194) (16:17 15 May 2024)
 -   📺 Plans to watch [Sengoku Youko](https://anilist.co/anime/168194) (14:44 15 May 2024)
--   📺 Completed [Jigokuraku](https://anilist.co/anime/128893) (08:53 15 May 2024)
--   📺 Watched episode 1 - 7 of [Jigokuraku](https://anilist.co/anime/128893) (19:41 14 May 2024)
--   📖 Read chapter 111 of [Uzaki-chan wa Asobitai!](https://anilist.co/manga/101724) (20:16 13 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
