@@ -42,12 +42,12 @@ Bash                  2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 - 23 of [Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero](https://anilist.co/manga/101898) (18:45 19 May 2024)
+-   📺 Plans to watch [Ichigo Mashimaro](https://anilist.co/anime/488) (07:28 19 May 2024)
 -   📖 Read chapter 120 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (15:29 18 May 2024)
 -   📖 Read chapter 5 of [Danshi Kokosei Dakedo Gal ni TS Shimashita](https://anilist.co/manga/176385) (15:25 18 May 2024)
 -   📺 Watched episode 2 of [Houkago Teibou Nisshi](https://anilist.co/anime/109019) (14:29 18 May 2024)
 -   📺 Plans to watch [Prima Doll](https://anilist.co/anime/144509) (12:19 18 May 2024)
 -   📺 Watched episode 1 of [Houkago Teibou Nisshi](https://anilist.co/anime/109019) (16:16 17 May 2024)
--   📖 Completed [Jigokuraku Yomikiri: Mokke no Mori](https://anilist.co/manga/163556) (14:17 17 May 2024)
--   📖 Completed [Jigokuraku](https://anilist.co/manga/100994) (14:02 17 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
