@@ -42,12 +42,12 @@ Bash                  2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Houkago Teibou Nisshi](https://anilist.co/anime/109019) (15:50 20 May 2024)
+-   📖 Dropped [Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero](https://anilist.co/manga/101898) (15:07 20 May 2024)
+-   📖 Read chapter 38 - 43 of [Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero](https://anilist.co/manga/101898) (14:51 20 May 2024)
+-   📖 Read chapter 30 - 37 of [Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero](https://anilist.co/manga/101898) (11:52 20 May 2024)
+-   📖 Read chapter 24 - 29 of [Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero](https://anilist.co/manga/101898) (06:45 20 May 2024)
 -   📖 Read chapter 2 - 23 of [Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero](https://anilist.co/manga/101898) (18:45 19 May 2024)
 -   📺 Plans to watch [Ichigo Mashimaro](https://anilist.co/anime/488) (07:28 19 May 2024)
--   📖 Read chapter 120 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (15:29 18 May 2024)
--   📖 Read chapter 5 of [Danshi Kokosei Dakedo Gal ni TS Shimashita](https://anilist.co/manga/176385) (15:25 18 May 2024)
--   📺 Watched episode 2 of [Houkago Teibou Nisshi](https://anilist.co/anime/109019) (14:29 18 May 2024)
--   📺 Plans to watch [Prima Doll](https://anilist.co/anime/144509) (12:19 18 May 2024)
--   📺 Watched episode 1 of [Houkago Teibou Nisshi](https://anilist.co/anime/109019) (16:16 17 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
