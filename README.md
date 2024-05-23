@@ -42,12 +42,12 @@ VBScript              11 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 2 - 3 of [Ichigo Mashimaro](https://anilist.co/anime/488) (13:33 22 May 2024)
+-   📖 Read chapter 20 - 52 of [Kaii to Otome to Kamikakushi](https://anilist.co/manga/113016) (08:51 22 May 2024)
+-   📖 Read chapter 27 of [Reiwa no Dara-san](https://anilist.co/manga/160722) (06:32 22 May 2024)
+-   📖 Read chapter 132 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (06:28 22 May 2024)
+-   📖 Read chapter 165 - 166 of [Chainsaw Man](https://anilist.co/manga/105778) (06:22 22 May 2024)
 -   📺 Rewatched episode 1 of [Ichigo Mashimaro](https://anilist.co/anime/488) (15:36 21 May 2024)
 -   📺 Watched episode 3 of [Houkago Teibou Nisshi](https://anilist.co/anime/109019) (15:50 20 May 2024)
--   📖 Dropped [Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero](https://anilist.co/manga/101898) (15:07 20 May 2024)
--   📖 Read chapter 38 - 43 of [Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero](https://anilist.co/manga/101898) (14:51 20 May 2024)
--   📖 Read chapter 30 - 37 of [Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero](https://anilist.co/manga/101898) (11:52 20 May 2024)
--   📖 Read chapter 24 - 29 of [Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero](https://anilist.co/manga/101898) (06:45 20 May 2024)
--   📖 Read chapter 2 - 23 of [Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero](https://anilist.co/manga/101898) (18:45 19 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
