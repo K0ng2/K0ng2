@@ -42,12 +42,12 @@ Markdown              18 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 10 - 30 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (23:34 24 May 2024)
+-   📺 Watched episode 1 - 2 of [Dungeon Meshi](https://anilist.co/anime/153518) (18:45 24 May 2024)
+-   📺 Plans to watch [Dungeon Meshi](https://anilist.co/anime/153518) (17:51 24 May 2024)
+-   📖 Read chapter 6 - 9 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (16:09 24 May 2024)
+-   📖 Read chapter 3 - 5 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (11:36 24 May 2024)
+-   📖 Read chapter 2 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (07:11 24 May 2024)
 -   📖 Read chapter 1 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (22:09 23 May 2024)
--   📖 Plans to read [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (21:58 23 May 2024)
--   📺 Rewatched episode 4 of [Ichigo Mashimaro](https://anilist.co/anime/488) (17:55 23 May 2024)
--   📺 Rewatched episode 2 - 3 of [Ichigo Mashimaro](https://anilist.co/anime/488) (13:33 22 May 2024)
--   📖 Read chapter 20 - 52 of [Kaii to Otome to Kamikakushi](https://anilist.co/manga/113016) (08:51 22 May 2024)
--   📖 Read chapter 27 of [Reiwa no Dara-san](https://anilist.co/manga/160722) (06:32 22 May 2024)
--   📖 Read chapter 132 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (06:28 22 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
