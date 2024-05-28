@@ -42,12 +42,12 @@ HTML         31 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 58 - 73 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (22:01 27 May 2024)
+-   📺 Rewatched episode 7 of [Ichigo Mashimaro](https://anilist.co/anime/488) (17:35 27 May 2024)
+-   📖 Read chapter 48 - 57 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (15:44 27 May 2024)
+-   📖 Read chapter 41 - 47 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (06:02 27 May 2024)
 -   📖 Read chapter 37 - 40 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (20:39 26 May 2024)
 -   📺 Rewatched episode 5 - 6 of [Ichigo Mashimaro](https://anilist.co/anime/488) (16:26 26 May 2024)
 -   📖 Read chapter 31 - 36 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (17:45 25 May 2024)
--   📺 Watched episode 3 of [Dungeon Meshi](https://anilist.co/anime/153518) (16:34 25 May 2024)
--   📖 Read chapter 10 - 30 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (23:34 24 May 2024)
--   📺 Watched episode 1 - 2 of [Dungeon Meshi](https://anilist.co/anime/153518) (18:45 24 May 2024)
--   📺 Plans to watch [Dungeon Meshi](https://anilist.co/anime/153518) (17:51 24 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
