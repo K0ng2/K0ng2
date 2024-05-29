@@ -42,12 +42,12 @@ HTML         31 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 58 - 73 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (22:01 27 May 2024)
--   📺 Rewatched episode 7 of [Ichigo Mashimaro](https://anilist.co/anime/488) (17:35 27 May 2024)
--   📖 Read chapter 48 - 57 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (15:44 27 May 2024)
--   📖 Read chapter 41 - 47 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (06:02 27 May 2024)
--   📖 Read chapter 37 - 40 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (20:39 26 May 2024)
--   📺 Rewatched episode 5 - 6 of [Ichigo Mashimaro](https://anilist.co/anime/488) (16:26 26 May 2024)
--   📖 Read chapter 31 - 36 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (17:45 25 May 2024)
+-   📖 Read chapter 73 of [Futoku no Guild](https://anilist.co/manga/99933) (18:25 28 May 2024)
+-   📖 Read chapter 23 - 24 of [Wakeari Shinrei Mansion](https://anilist.co/manga/175209) (18:17 28 May 2024)
+-   📖 Read chapter 88 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (18:08 28 May 2024)
+-   📖 Read chapter 256 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (18:01 28 May 2024)
+-   📖 Read chapter 79 - 85 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (17:56 28 May 2024)
+-   📺 Rewatched episode 8 of [Ichigo Mashimaro](https://anilist.co/anime/488) (16:10 28 May 2024)
+-   📺 Plans to watch [SAKAMOTO DAYS](https://anilist.co/anime/177709) (15:19 28 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
