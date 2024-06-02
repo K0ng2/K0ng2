@@ -42,12 +42,12 @@ Other        17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 73 of [Futoku no Guild](https://anilist.co/manga/99933) (18:25 28 May 2024)
--   📖 Read chapter 23 - 24 of [Wakeari Shinrei Mansion](https://anilist.co/manga/175209) (18:17 28 May 2024)
--   📖 Read chapter 88 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (18:08 28 May 2024)
--   📖 Read chapter 256 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (18:01 28 May 2024)
--   📖 Read chapter 79 - 85 of [Monster Musume no Iru Nichijou](https://anilist.co/manga/66213) (17:56 28 May 2024)
--   📺 Rewatched episode 8 of [Ichigo Mashimaro](https://anilist.co/anime/488) (16:10 28 May 2024)
--   📺 Plans to watch [SAKAMOTO DAYS](https://anilist.co/anime/177709) (15:19 28 May 2024)
+-   📖 Read chapter 43 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (00:29 02 June 2024)
+-   📖 Read chapter 11 - 19 of [Shikanoko Nokonoko Koshitantan](https://anilist.co/manga/125555) (20:52 01 June 2024)
+-   📖 Read chapter 11 - 18 of [Shikanoko Nokonoko Koshitantan](https://anilist.co/manga/125555) (20:44 01 June 2024)
+-   📖 Read chapter 6 of [Danshi Kokosei Dakedo Gal ni TS Shimashita](https://anilist.co/manga/176385) (16:26 01 June 2024)
+-   📖 Read chapter 257 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (16:20 01 June 2024)
+-   📖 Read chapter 1 - 10 of [Shikanoko Nokonoko Koshitantan](https://anilist.co/manga/125555) (16:16 01 June 2024)
+-   📺 Plans to watch [Shikanoko Nokonoko Koshitantan](https://anilist.co/anime/175977) (13:54 01 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
