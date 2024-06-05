@@ -42,12 +42,12 @@ Batchfile    9 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 6 - 29 of [School Zone](https://anilist.co/manga/120537) (22:03 04 June 2024)
+-   📖 Read chapter 1 - 5 of [School Zone](https://anilist.co/manga/120537) (06:33 04 June 2024)
+-   📖 Plans to read [School Zone](https://anilist.co/manga/120537) (06:22 04 June 2024)
 -   📖 Plans to read [Shimeji Simulation](https://anilist.co/manga/106726) (14:29 03 June 2024)
 -   📺 Rewatched episode 9 of [Ichigo Mashimaro](https://anilist.co/anime/488) (13:48 03 June 2024)
 -   📖 Read chapter 25 of [Wakeari Shinrei Mansion](https://anilist.co/manga/175209) (16:09 02 June 2024)
 -   📖 Read chapter 133 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (16:04 02 June 2024)
--   📖 Read chapter 43 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (00:29 02 June 2024)
--   📖 Read chapter 11 - 19 of [Shikanoko Nokonoko Koshitantan](https://anilist.co/manga/125555) (20:52 01 June 2024)
--   📖 Read chapter 11 - 18 of [Shikanoko Nokonoko Koshitantan](https://anilist.co/manga/125555) (20:44 01 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
