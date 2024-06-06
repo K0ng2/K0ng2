@@ -42,12 +42,12 @@ JSON         6 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 - 4 of [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd](https://anilist.co/anime/156131) (18:47 05 June 2024)
+-   📺 Watched episode 1 - 2 of [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd](https://anilist.co/anime/156131) (13:42 05 June 2024)
+-   📖 Read chapter 167 of [Chainsaw Man](https://anilist.co/manga/105778) (04:06 05 June 2024)
+-   📖 Read chapter 30 - 49 of [School Zone](https://anilist.co/manga/120537) (03:18 05 June 2024)
 -   📖 Read chapter 6 - 29 of [School Zone](https://anilist.co/manga/120537) (22:03 04 June 2024)
 -   📖 Read chapter 1 - 5 of [School Zone](https://anilist.co/manga/120537) (06:33 04 June 2024)
 -   📖 Plans to read [School Zone](https://anilist.co/manga/120537) (06:22 04 June 2024)
--   📖 Plans to read [Shimeji Simulation](https://anilist.co/manga/106726) (14:29 03 June 2024)
--   📺 Rewatched episode 9 of [Ichigo Mashimaro](https://anilist.co/anime/488) (13:48 03 June 2024)
--   📖 Read chapter 25 of [Wakeari Shinrei Mansion](https://anilist.co/manga/175209) (16:09 02 June 2024)
--   📖 Read chapter 133 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (16:04 02 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
