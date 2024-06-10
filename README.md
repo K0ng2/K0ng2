@@ -41,12 +41,12 @@ Text        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Chiyu Mahou no Machigatta Tsukaikata](https://anilist.co/anime/137908) (12:24 09 June 2024)
+-   📖 Read chapter 258 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (11:03 09 June 2024)
 -   📺 Watched episode 3 - 4 of [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd](https://anilist.co/anime/156131) (18:47 05 June 2024)
 -   📺 Watched episode 1 - 2 of [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd](https://anilist.co/anime/156131) (13:42 05 June 2024)
 -   📖 Read chapter 167 of [Chainsaw Man](https://anilist.co/manga/105778) (04:06 05 June 2024)
 -   📖 Read chapter 30 - 49 of [School Zone](https://anilist.co/manga/120537) (03:18 05 June 2024)
 -   📖 Read chapter 6 - 29 of [School Zone](https://anilist.co/manga/120537) (22:03 04 June 2024)
--   📖 Read chapter 1 - 5 of [School Zone](https://anilist.co/manga/120537) (06:33 04 June 2024)
--   📖 Plans to read [School Zone](https://anilist.co/manga/120537) (06:22 04 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
