@@ -40,12 +40,12 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 26 of [Wakeari Shinrei Mansion](https://anilist.co/manga/175209) (17:44 11 June 2024)
+-   📖 Read chapter 20 - 21 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (17:39 11 June 2024)
+-   📖 Read chapter 168 of [Chainsaw Man](https://anilist.co/manga/105778) (17:35 11 June 2024)
+-   📺 Watched episode 3 of [Tonikaku Kawaii Season 2](https://anilist.co/anime/141208) (06:25 11 June 2024)
 -   📺 Watched episode 2 of [Tonikaku Kawaii Season 2](https://anilist.co/anime/141208) (16:00 10 June 2024)
 -   📺 Dropped [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd](https://anilist.co/anime/156131) (14:20 10 June 2024)
 -   📺 Plans to watch [Chiyu Mahou no Machigatta Tsukaikata](https://anilist.co/anime/137908) (12:24 09 June 2024)
--   📖 Read chapter 258 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (11:03 09 June 2024)
--   📺 Watched episode 3 - 4 of [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd](https://anilist.co/anime/156131) (18:47 05 June 2024)
--   📺 Watched episode 1 - 2 of [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd](https://anilist.co/anime/156131) (13:42 05 June 2024)
--   📖 Read chapter 167 of [Chainsaw Man](https://anilist.co/manga/105778) (04:06 05 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
