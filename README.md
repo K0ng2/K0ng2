@@ -42,12 +42,12 @@ Other        4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 - 25 of [Shikanoko Nokonoko Koshitantan](https://anilist.co/manga/125555) (17:23 15 June 2024)
+-   📖 Read chapter 23 - 25 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (06:26 15 June 2024)
+-   📖 Read chapter 134 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (06:21 15 June 2024)
+-   📖 Read chapter 4 of [Ookami no Kawa wo Kabutta Hitsujihime](https://anilist.co/manga/124885) (06:05 15 June 2024)
+-   📺 Plans to watch [SPY×FAMILY Season 3](https://anilist.co/anime/177937) (03:50 15 June 2024)
 -   📖 Read chapter 26 - 27 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (19:40 14 June 2024)
 -   📖 Read chapter 105 of [Gabriel Dropout](https://anilist.co/manga/86864) (19:34 14 June 2024)
--   📖 Read chapter 22 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (08:03 12 June 2024)
--   📖 Read chapter 26 of [Wakeari Shinrei Mansion](https://anilist.co/manga/175209) (17:44 11 June 2024)
--   📖 Read chapter 20 - 21 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (17:39 11 June 2024)
--   📖 Read chapter 168 of [Chainsaw Man](https://anilist.co/manga/105778) (17:35 11 June 2024)
--   📺 Watched episode 3 of [Tonikaku Kawaii Season 2](https://anilist.co/anime/141208) (06:25 11 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
