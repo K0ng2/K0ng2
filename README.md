@@ -41,12 +41,12 @@ Text      0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 12 of [Doukyonin ga Konoyo no Mon Janai](https://anilist.co/manga/157992) (17:34 16 June 2024)
--   📖 Read chapter 58 of [Mieruko-chan](https://anilist.co/manga/105097) (17:31 16 June 2024)
--   📖 Read chapter 27 of [Wakeari Shinrei Mansion](https://anilist.co/manga/175209) (17:22 16 June 2024)
--   📺 Watched episode 2 - 10 of [Date A Live V](https://anilist.co/anime/151380) (16:10 16 June 2024)
--   📺 Watched episode 1 of [Date A Live V](https://anilist.co/anime/151380) (07:54 16 June 2024)
--   📖 Read chapter 20 - 25 of [Shikanoko Nokonoko Koshitantan](https://anilist.co/manga/125555) (17:23 15 June 2024)
--   📖 Read chapter 23 - 25 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (06:26 15 June 2024)
+-   📖 Read chapter 1 - 16 of [Mietemasu yo! Aizawa-san](https://anilist.co/manga/151909) (23:27 17 June 2024)
+-   📖 Plans to read [Mietemasu yo! Aizawa-san](https://anilist.co/manga/151909) (21:16 17 June 2024)
+-   📖 Completed [Usotsuki Satsuki wa Shi ga Mieru](https://anilist.co/manga/120034) (21:05 17 June 2024)
+-   📖 Read chapter 77 - 82 of [Usotsuki Satsuki wa Shi ga Mieru](https://anilist.co/manga/120034) (20:59 17 June 2024)
+-   📖 Read chapter 89 - 90 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (20:19 17 June 2024)
+-   📖 Read chapter 363 - 373 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (20:12 17 June 2024)
+-   📖 Read chapter 1 - 5 of [Futsuu to Bakemono](https://anilist.co/manga/169154) (19:06 17 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
