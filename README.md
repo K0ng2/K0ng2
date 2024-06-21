@@ -41,12 +41,12 @@ JSON       3 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 54 of [Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru](https://anilist.co/manga/161493) (18:34 20 June 2024)
+-   📖 Read chapter 13 - 15 of [Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru](https://anilist.co/manga/161493) (11:21 20 June 2024)
+-   📖 Read chapter 1 - 5 of [Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru.](https://anilist.co/manga/122604) (09:03 20 June 2024)
+-   📖 Read chapter 1 - 6 of [Aragae! Dark Elf-chan](https://anilist.co/manga/135390) (08:50 20 June 2024)
+-   📖 Plans to read [Aragae! Dark Elf-chan](https://anilist.co/manga/135390) (07:03 20 June 2024)
 -   📖 Read chapter 28 - 30 of [Geugeo Geureohge Haneungeo Aninde](https://anilist.co/manga/159532) (09:45 19 June 2024)
 -   📖 Read chapter 121 of [Watashi ni Tenshi ga Maiorita!](https://anilist.co/manga/102841) (09:25 19 June 2024)
--   📖 Read chapter 30 of [Kanojo no Sore ni Yarareteru](https://anilist.co/manga/160465) (14:08 18 June 2024)
--   📖 Read chapter 17 - 18 of [Mietemasu yo! Aizawa-san](https://anilist.co/manga/151909) (14:02 18 June 2024)
--   📖 Read chapter 1 - 16 of [Mietemasu yo! Aizawa-san](https://anilist.co/manga/151909) (23:27 17 June 2024)
--   📖 Plans to read [Mietemasu yo! Aizawa-san](https://anilist.co/manga/151909) (21:16 17 June 2024)
--   📖 Completed [Usotsuki Satsuki wa Shi ga Mieru](https://anilist.co/manga/120034) (21:05 17 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
