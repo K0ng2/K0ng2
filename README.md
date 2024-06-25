@@ -41,12 +41,12 @@ Makefile   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 28 of [Wakeari Shinrei Mansion](https://anilist.co/manga/175209) (14:57 22 June 2024)
--   📖 Read chapter 26 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (14:48 22 June 2024)
--   📖 Read chapter 12 of [Kaguhara-san no Fetish Note](https://anilist.co/manga/141152) (14:43 22 June 2024)
--   📖 Read chapter 10 of [Ossakhan Neoui Bucket List](https://anilist.co/manga/178242) (05:58 21 June 2024)
--   📖 Read chapter 16 - 54 of [Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru](https://anilist.co/manga/161493) (18:34 20 June 2024)
--   📖 Read chapter 13 - 15 of [Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru](https://anilist.co/manga/161493) (11:21 20 June 2024)
--   📖 Read chapter 1 - 5 of [Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru.](https://anilist.co/manga/122604) (09:03 20 June 2024)
+-   📖 Read chapter 44 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (16:03 24 June 2024)
+-   📖 Read chapter 53 - 54 of [Kaii to Otome to Kamikakushi](https://anilist.co/manga/113016) (16:00 24 June 2024)
+-   📖 Read chapter 55 of [Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru](https://anilist.co/manga/161493) (15:55 24 June 2024)
+-   📖 Read chapter 27 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (15:51 24 June 2024)
+-   📖 Read chapter 374 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (15:48 24 June 2024)
+-   📖 Read chapter 6 of [Futsuu to Bakemono](https://anilist.co/manga/169154) (15:46 24 June 2024)
+-   📖 Read chapter 91 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (15:41 24 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
