@@ -42,12 +42,12 @@ Git Config   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 30 of [Yowa Yowa Sensei ](https://anilist.co/manga/157128) (18:00 25 June 2024)
+-   📖 Read chapter 28 - 29 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (17:35 25 June 2024)
+-   📖 Read chapter 7 of [Futsuu to Bakemono](https://anilist.co/manga/169154) (17:33 25 June 2024)
 -   📖 Read chapter 44 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (16:03 24 June 2024)
 -   📖 Read chapter 53 - 54 of [Kaii to Otome to Kamikakushi](https://anilist.co/manga/113016) (16:00 24 June 2024)
 -   📖 Read chapter 55 of [Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru](https://anilist.co/manga/161493) (15:55 24 June 2024)
 -   📖 Read chapter 27 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (15:51 24 June 2024)
--   📖 Read chapter 374 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (15:48 24 June 2024)
--   📖 Read chapter 6 of [Futsuu to Bakemono](https://anilist.co/manga/169154) (15:46 24 June 2024)
--   📖 Read chapter 91 of [Qing Qifu Wo Ba, Eyi Xiaojie!](https://anilist.co/manga/141756) (15:41 24 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
