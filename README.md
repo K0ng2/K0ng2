@@ -42,12 +42,12 @@ Makefile     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Date A Live V](https://anilist.co/anime/151380) (16:35 26 June 2024)
+-   📺 Watched episode 11 of [Date A Live V](https://anilist.co/anime/151380) (16:10 26 June 2024)
 -   📖 Read chapter 30 of [Yowa Yowa Sensei ](https://anilist.co/manga/157128) (18:00 25 June 2024)
 -   📖 Read chapter 28 - 29 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (17:35 25 June 2024)
 -   📖 Read chapter 7 of [Futsuu to Bakemono](https://anilist.co/manga/169154) (17:33 25 June 2024)
 -   📖 Read chapter 44 of [Deatte Hitotsuki de Zecchou Jorei!](https://anilist.co/manga/116692) (16:03 24 June 2024)
 -   📖 Read chapter 53 - 54 of [Kaii to Otome to Kamikakushi](https://anilist.co/manga/113016) (16:00 24 June 2024)
--   📖 Read chapter 55 of [Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowarete Iru](https://anilist.co/manga/161493) (15:55 24 June 2024)
--   📖 Read chapter 27 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (15:51 24 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
