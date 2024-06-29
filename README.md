@@ -42,12 +42,12 @@ Makefile     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 259 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (19:53 28 June 2024)
+-   📖 Read chapter 32 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (19:45 28 June 2024)
+-   📖 Read chapter 30 - 31 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (17:20 28 June 2024)
 -   📖 Read chapter 58 - 68 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (16:31 27 June 2024)
 -   📖 Read chapter 28 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (15:32 27 June 2024)
 -   📖 Read chapter 11 of [Ossakhan Neoui Bucket List](https://anilist.co/manga/178242) (15:30 27 June 2024)
 -   📖 Read chapter 55 of [Kaii to Otome to Kamikakushi](https://anilist.co/manga/113016) (15:24 27 June 2024)
--   📖 Read chapter 29 of [Wakeari Shinrei Mansion](https://anilist.co/manga/175209) (15:22 27 June 2024)
--   📺 Completed [Date A Live V](https://anilist.co/anime/151380) (16:35 26 June 2024)
--   📺 Watched episode 11 of [Date A Live V](https://anilist.co/anime/151380) (16:10 26 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
