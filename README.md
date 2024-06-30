@@ -42,12 +42,12 @@ Text         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 of [Tentacle Hole](https://anilist.co/manga/142471) (17:22 29 June 2024)
+-   📖 Read chapter 7 of [Danshi Kokosei Dakedo Gal ni TS Shimashita](https://anilist.co/manga/176385) (10:14 29 June 2024)
+-   📖 Read chapter 89 of [Jahy-sama wa Kujikenai!](https://anilist.co/manga/100207) (10:10 29 June 2024)
+-   📖 Read chapter 89 of [Onii-chan wa Oshimai!](https://anilist.co/manga/100080) (10:07 29 June 2024)
 -   📖 Read chapter 259 of [Jashin-chan Dropkick](https://anilist.co/manga/74279) (19:53 28 June 2024)
 -   📖 Read chapter 32 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (19:45 28 June 2024)
 -   📖 Read chapter 30 - 31 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (17:20 28 June 2024)
--   📖 Read chapter 58 - 68 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (16:31 27 June 2024)
--   📖 Read chapter 28 of [Mankitsu Shitai Jouren-san](https://anilist.co/manga/170601) (15:32 27 June 2024)
--   📖 Read chapter 11 of [Ossakhan Neoui Bucket List](https://anilist.co/manga/178242) (15:30 27 June 2024)
--   📖 Read chapter 55 of [Kaii to Otome to Kamikakushi](https://anilist.co/manga/113016) (15:24 27 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
