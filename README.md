@@ -42,12 +42,12 @@ Go                    4 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 36 - 39 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (19:40 05 July 2024)
 -   📖 Read chapter 72 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (14:43 03 July 2024)
 -   📖 Read chapter 375 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (14:35 03 July 2024)
 -   📖 Read chapter 34 - 35 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (14:34 03 July 2024)
 -   📖 Read chapter 34 of [Dungeon no Osananajimi](https://anilist.co/manga/149323) (17:42 01 July 2024)
 -   📖 Read chapter 69 - 71 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (03:30 01 July 2024)
 -   📖 Read chapter 135 of [Mato Seihei no Slave](https://anilist.co/manga/106064) (16:10 30 June 2024)
--   📖 Read chapter 33 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (16:07 30 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
