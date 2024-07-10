@@ -42,12 +42,12 @@ TOML       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 - 43 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (22:15 09 July 2024)
+-   📺 Plans to watch [Oomuro-ke: dear friends](https://anilist.co/anime/174383) (06:18 09 July 2024)
+-   📺 Watched episode 7 - 10 of [Chiyu Mahou no Machigatta Tsukaikata](https://anilist.co/anime/137908) (06:17 09 July 2024)
 -   📺 Watched episode 1 - 6 of [Chiyu Mahou no Machigatta Tsukaikata](https://anilist.co/anime/137908) (18:10 08 July 2024)
 -   📖 Read chapter 30 of [Wakeari Shinrei Mansion](https://anilist.co/manga/175209) (02:59 08 July 2024)
 -   📖 Read chapter 41 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (02:53 08 July 2024)
 -   📖 Read chapter 40 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (03:33 07 July 2024)
--   📖 Read chapter 36 - 39 of [Tensai Majo no Maryoku Kare](https://anilist.co/manga/159488) (19:40 05 July 2024)
--   📖 Read chapter 72 of [Onegai, Nugashite.](https://anilist.co/manga/113349) (14:43 03 July 2024)
--   📖 Read chapter 375 of [Atsumare! Fushigi Kenkyuu-bu](https://anilist.co/manga/98625) (14:35 03 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
