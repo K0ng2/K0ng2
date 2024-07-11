@@ -11,12 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: AniList readme workflow
-        uses: K0ng2/anilist-readme@v1.4.3
-        with:
-            user_id: 220152
-            max_post_count: 7
-            preferred_language: romaji
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
