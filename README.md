@@ -3,7 +3,7 @@
 <!--START_SECTION:all-->
 
 ```markdown
-From: 16 March 2020 - To: 14 June 2025
+From: 16 March 2020 - To: 15 June 2025
 
 Total Time: 2,759 hrs 15 mins
 
